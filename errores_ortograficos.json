@@ -1,0 +1,439 @@
+[
+  { "palabra": "que", "frecuencia": 444, "errores_ortograficos": ["q"] },
+  { "palabra": "matricula", "frecuencia": 350, "errores_ortograficos": [] },
+  { "palabra": "puedo", "frecuencia": 257, "errores_ortograficos": [] },
+  { "palabra": "retiro", "frecuencia": 211, "errores_ortograficos": [] },
+  { "palabra": "debo", "frecuencia": 192, "errores_ortograficos": [] },
+  {
+    "palabra": "solicitud",
+    "frecuencia": 189,
+    "errores_ortograficos": ["solisitud"]
+  },
+  { "palabra": "como", "frecuencia": 188, "errores_ortograficos": [] },
+  { "palabra": "hacer", "frecuencia": 156, "errores_ortograficos": ["acer"] },
+  {
+    "palabra": "constancia",
+    "frecuencia": 140,
+    "errores_ortograficos": ["constansia"]
+  },
+  { "palabra": "ciclo", "frecuencia": 129, "errores_ortograficos": [] },
+  { "palabra": "hola", "frecuencia": 113, "errores_ortograficos": ["ola"] },
+  {
+    "palabra": "autoseguro",
+    "frecuencia": 112,
+    "errores_ortograficos": ["auto-seguro", "auto seguro"]
+  },
+  { "palabra": "curso", "frecuencia": 110, "errores_ortograficos": [] },
+  { "palabra": "total", "frecuencia": 109, "errores_ortograficos": [] },
+  { "palabra": "si", "frecuencia": 106, "errores_ortograficos": [] },
+  { "palabra": "quiero", "frecuencia": 105, "errores_ortograficos": [] },
+  { "palabra": "pagar", "frecuencia": 98, "errores_ortograficos": [] },
+  { "palabra": "modelo", "frecuencia": 92, "errores_ortograficos": [] },
+  { "palabra": "cuando", "frecuencia": 85, "errores_ortograficos": [] },
+  { "palabra": "parcial", "frecuencia": 78, "errores_ortograficos": [] },
+  {
+    "palabra": "solicitar",
+    "frecuencia": 70,
+    "errores_ortograficos": ["solisitar"]
+  },
+  { "palabra": "matricularme", "frecuencia": 69, "errores_ortograficos": [] },
+  {
+    "palabra": "realizar",
+    "frecuencia": 66,
+    "errores_ortograficos": ["realisar"]
+  },
+  { "palabra": "retirarme", "frecuencia": 60, "errores_ortograficos": [] },
+  { "palabra": "donde", "frecuencia": 59, "errores_ortograficos": [] },
+  { "palabra": "saber", "frecuencia": 59, "errores_ortograficos": [] },
+  {
+    "palabra": "reserva",
+    "frecuencia": 57,
+    "errores_ortograficos": ["recerva", "reserba", "recerba"]
+  },
+  { "palabra": "pago", "frecuencia": 56, "errores_ortograficos": [] },
+  { "palabra": "cual", "frecuencia": 55, "errores_ortograficos": [] },
+  { "palabra": "horario", "frecuencia": 55, "errores_ortograficos": [] },
+  { "palabra": "cursos", "frecuencia": 55, "errores_ortograficos": [] },
+  { "palabra": "buenas", "frecuencia": 54, "errores_ortograficos": [] },
+  { "palabra": "algun", "frecuencia": 52, "errores_ortograficos": [] },
+  {
+    "palabra": "procedimiento",
+    "frecuencia": 52,
+    "errores_ortograficos": ["prosedimiento"]
+  },
+  { "palabra": "enviar", "frecuencia": 50, "errores_ortograficos": [] },
+  { "palabra": "estudios", "frecuencia": 50, "errores_ortograficos": [] },
+  { "palabra": "tramite", "frecuencia": 49, "errores_ortograficos": [] },
+  {
+    "palabra": "reincorporacion",
+    "frecuencia": 48,
+    "errores_ortograficos": ["reincorporasion", "re incorporacion"]
+  },
+  { "palabra": "formato", "frecuencia": 41, "errores_ortograficos": [] },
+  { "palabra": "carnet", "frecuencia": 40, "errores_ortograficos": [] },
+  { "palabra": "dias", "frecuencia": 37, "errores_ortograficos": [] },
+  { "palabra": "fechas", "frecuencia": 37, "errores_ortograficos": [] },
+  { "palabra": "alumno", "frecuencia": 36, "errores_ortograficos": [] },
+  { "palabra": "notas", "frecuencia": 36, "errores_ortograficos": [] },
+  {
+    "palabra": "quisiera",
+    "frecuencia": 34,
+    "errores_ortograficos": ["quiciera"]
+  },
+  { "palabra": "tramitar", "frecuencia": 33, "errores_ortograficos": [] },
+  { "palabra": "mas", "frecuencia": 31, "errores_ortograficos": [] },
+  { "palabra": "semana", "frecuencia": 31, "errores_ortograficos": [] },
+  { "palabra": "fecha", "frecuencia": 30, "errores_ortograficos": [] },
+  { "palabra": "solo", "frecuencia": 30, "errores_ortograficos": [] },
+  { "palabra": "horarios", "frecuencia": 29, "errores_ortograficos": [] },
+  {
+    "palabra": "rezagado",
+    "frecuencia": 29,
+    "errores_ortograficos": ["resagado"]
+  },
+  {
+    "palabra": "universitario",
+    "frecuencia": 28,
+    "errores_ortograficos": ["univercitario"]
+  },
+  { "palabra": "siguiente", "frecuencia": 28, "errores_ortograficos": [] },
+  { "palabra": "debe", "frecuencia": 27, "errores_ortograficos": [] },
+  {
+    "palabra": "matr\u00edcula",
+    "frecuencia": 27,
+    "errores_ortograficos": ["matricula"]
+  },
+  { "palabra": "cambio", "frecuencia": 27, "errores_ortograficos": [] },
+  { "palabra": "puedes", "frecuencia": 26, "errores_ortograficos": [] },
+  { "palabra": "llevando", "frecuencia": 25, "errores_ortograficos": [] },
+  { "palabra": "consulta", "frecuencia": 24, "errores_ortograficos": [] },
+  {
+    "palabra": "rezagada",
+    "frecuencia": 24,
+    "errores_ortograficos": ["resagada"]
+  },
+  { "palabra": "regular", "frecuencia": 23, "errores_ortograficos": [] },
+  { "palabra": "gracias", "frecuencia": 22, "errores_ortograficos": [] },
+  { "palabra": "cuanto", "frecuencia": 22, "errores_ortograficos": [] },
+  { "palabra": "pagos", "frecuencia": 22, "errores_ortograficos": [] },
+  { "palabra": "hora", "frecuencia": 21, "errores_ortograficos": [] },
+  { "palabra": "tiempo", "frecuencia": 21, "errores_ortograficos": [] },
+  { "palabra": "motivos", "frecuencia": 21, "errores_ortograficos": [] },
+  { "palabra": "correo", "frecuencia": 21, "errores_ortograficos": [] },
+  { "palabra": "colocar", "frecuencia": 20, "errores_ortograficos": [] },
+  { "palabra": "turno", "frecuencia": 20, "errores_ortograficos": [] },
+  { "palabra": "seccion", "frecuencia": 20, "errores_ortograficos": [] },
+  { "palabra": "ingresante", "frecuencia": 19, "errores_ortograficos": [] },
+  {
+    "palabra": "reincorporaci\u00f3n",
+    "frecuencia": 19,
+    "errores_ortograficos": [
+      "reincorporacion",
+      "reincorporasion",
+      "re incorporacion"
+    ]
+  },
+  { "palabra": "paso", "frecuencia": 18, "errores_ortograficos": [] },
+  { "palabra": "posible", "frecuencia": 17, "errores_ortograficos": [] },
+  { "palabra": "presentar", "frecuencia": 16, "errores_ortograficos": [] },
+  { "palabra": "costo", "frecuencia": 16, "errores_ortograficos": [] },
+  { "palabra": "podria", "frecuencia": 16, "errores_ortograficos": [] },
+  {
+    "palabra": "c\u00f3mo",
+    "frecuencia": 16,
+    "errores_ortograficos": ["como"]
+  },
+  { "palabra": "pude", "frecuencia": 16, "errores_ortograficos": [] },
+  { "palabra": "aerito", "frecuencia": 15, "errores_ortograficos": [] },
+  { "palabra": "tal", "frecuencia": 15, "errores_ortograficos": [] },
+  { "palabra": "duda", "frecuencia": 15, "errores_ortograficos": [] },
+  { "palabra": "justificar", "frecuencia": 15, "errores_ortograficos": [] },
+  { "palabra": "estadistica", "frecuencia": 15, "errores_ortograficos": [] },
+  { "palabra": "todavia", "frecuencia": 14, "errores_ortograficos": [] },
+  { "palabra": "proceso", "frecuencia": 14, "errores_ortograficos": [] },
+  {
+    "palabra": "solicito",
+    "frecuencia": 14,
+    "errores_ortograficos": ["solisito"]
+  },
+  { "palabra": "documentos", "frecuencia": 14, "errores_ortograficos": [] },
+  { "palabra": "oficina", "frecuencia": 14, "errores_ortograficos": [] },
+  { "palabra": "obtener", "frecuencia": 13, "errores_ortograficos": [] },
+  {
+    "palabra": "reservar",
+    "frecuencia": 13,
+    "errores_ortograficos": ["reserbar", "recervar", "recerbar"]
+  },
+  { "palabra": "dime", "frecuencia": 12, "errores_ortograficos": [] },
+  { "palabra": "pague", "frecuencia": 12, "errores_ortograficos": [] },
+  { "palabra": "decirme", "frecuencia": 12, "errores_ortograficos": [] },
+  { "palabra": "motivo", "frecuencia": 12, "errores_ortograficos": [] },
+  { "palabra": "reincoporacion", "frecuencia": 12, "errores_ortograficos": [] },
+  { "palabra": "dia", "frecuencia": 11, "errores_ortograficos": [] },
+  { "palabra": "limite", "frecuencia": 11, "errores_ortograficos": [] },
+  { "palabra": "voy", "frecuencia": 11, "errores_ortograficos": [] },
+  { "palabra": "existe", "frecuencia": 11, "errores_ortograficos": [] },
+  { "palabra": "podre", "frecuencia": 11, "errores_ortograficos": [] },
+  { "palabra": "uni", "frecuencia": 11, "errores_ortograficos": [] },
+  { "palabra": "ahora", "frecuencia": 10, "errores_ortograficos": [] },
+  { "palabra": "paga", "frecuencia": 10, "errores_ortograficos": [] },
+  { "palabra": "cuales", "frecuencia": 10, "errores_ortograficos": [] },
+  { "palabra": "pasado", "frecuencia": 10, "errores_ortograficos": [] },
+  { "palabra": "decano", "frecuencia": 10, "errores_ortograficos": [] },
+  { "palabra": "institucional", "frecuencia": 10, "errores_ortograficos": [] },
+  { "palabra": "tardes", "frecuencia": 9, "errores_ortograficos": [] },
+  { "palabra": "gratis", "frecuencia": 9, "errores_ortograficos": [] },
+  { "palabra": "aun", "frecuencia": 9, "errores_ortograficos": [] },
+  { "palabra": "encontrar", "frecuencia": 9, "errores_ortograficos": [] },
+  { "palabra": "llevo", "frecuencia": 9, "errores_ortograficos": [] },
+  {
+    "palabra": "reincorporarme",
+    "frecuencia": 9,
+    "errores_ortograficos": ["re incorporarme"]
+  },
+  { "palabra": "dirigida", "frecuencia": 9, "errores_ortograficos": [] },
+  {
+    "palabra": "atencion",
+    "frecuencia": 9,
+    "errores_ortograficos": ["atension"]
+  },
+  { "palabra": "vez", "frecuencia": 9, "errores_ortograficos": [] },
+  { "palabra": "porfavor", "frecuencia": 8, "errores_ortograficos": [] },
+  { "palabra": "pagarlo", "frecuencia": 8, "errores_ortograficos": [] },
+  { "palabra": "segundo", "frecuencia": 8, "errores_ortograficos": [] },
+  { "palabra": "salud", "frecuencia": 8, "errores_ortograficos": [] },
+  { "palabra": "segunda", "frecuencia": 8, "errores_ortograficos": [] },
+  { "palabra": "buen", "frecuencia": 7, "errores_ortograficos": [] },
+  { "palabra": "buenos", "frecuencia": 7, "errores_ortograficos": [] },
+  {
+    "palabra": "informacion",
+    "frecuencia": 7,
+    "errores_ortograficos": ["informasion"]
+  },
+  { "palabra": "universidad", "frecuencia": 7, "errores_ortograficos": [] },
+  { "palabra": "toca", "frecuencia": 7, "errores_ortograficos": [] },
+  { "palabra": "hoy", "frecuencia": 7, "errores_ortograficos": [] },
+  { "palabra": "perdi", "frecuencia": 7, "errores_ortograficos": [] },
+  {
+    "palabra": "necesario",
+    "frecuencia": 7,
+    "errores_ortograficos": ["nesesario"]
+  },
+  { "palabra": "periodo", "frecuencia": 7, "errores_ortograficos": [] },
+  {
+    "palabra": "atiende",
+    "frecuencia": 7,
+    "errores_ortograficos": ["a tiende"]
+  },
+  { "palabra": "luego", "frecuencia": 6, "errores_ortograficos": [] },
+  { "palabra": "nuevo", "frecuencia": 6, "errores_ortograficos": [] },
+  { "palabra": "seguir", "frecuencia": 6, "errores_ortograficos": [] },
+  {
+    "palabra": "necesito",
+    "frecuencia": 6,
+    "errores_ortograficos": ["nesesito"]
+  },
+  { "palabra": "d\u00eda", "frecuencia": 6, "errores_ortograficos": ["dia"] },
+  { "palabra": "pasa", "frecuencia": 6, "errores_ortograficos": [] },
+  { "palabra": "problemas", "frecuencia": 6, "errores_ortograficos": [] },
+  { "palabra": "internet", "frecuencia": 6, "errores_ortograficos": [] },
+  { "palabra": "encuentro", "frecuencia": 6, "errores_ortograficos": [] },
+  { "palabra": "habilitara", "frecuencia": 6, "errores_ortograficos": [] },
+  {
+    "palabra": "procedo",
+    "frecuencia": 6,
+    "errores_ortograficos": ["prosedo"]
+  },
+  { "palabra": "qu\u00e9", "frecuencia": 6, "errores_ortograficos": ["que"] },
+  { "palabra": "matriculado", "frecuencia": 6, "errores_ortograficos": [] },
+  { "palabra": "permite", "frecuencia": 6, "errores_ortograficos": [] },
+  { "palabra": "hago", "frecuencia": 6, "errores_ortograficos": [] },
+  { "palabra": "3", "frecuencia": 6, "errores_ortograficos": [] },
+  { "palabra": "cu\u00e1l", "frecuencia": 6, "errores_ortograficos": ["cual"] },
+  { "palabra": "aera", "frecuencia": 6, "errores_ortograficos": [] },
+  { "palabra": "repetido", "frecuencia": 6, "errores_ortograficos": [] },
+  { "palabra": "adios", "frecuencia": 5, "errores_ortograficos": [] },
+  { "palabra": "vemos", "frecuencia": 5, "errores_ortograficos": [] },
+  { "palabra": "ok", "frecuencia": 5, "errores_ortograficos": [] },
+  { "palabra": "noches", "frecuencia": 5, "errores_ortograficos": [] },
+  { "palabra": "veo", "frecuencia": 5, "errores_ortograficos": ["beo"] },
+  { "palabra": "habilita", "frecuencia": 5, "errores_ortograficos": [] },
+  { "palabra": "cu\u00e1nto", "frecuencia": 5, "errores_ortograficos": [] },
+  { "palabra": "puede", "frecuencia": 5, "errores_ortograficos": [] },
+  { "palabra": "carrera", "frecuencia": 5, "errores_ortograficos": [] },
+  { "palabra": "primer", "frecuencia": 5, "errores_ortograficos": [] },
+  { "palabra": "cronograma", "frecuencia": 5, "errores_ortograficos": [] },
+  { "palabra": "recien", "frecuencia": 5, "errores_ortograficos": [] },
+  { "palabra": "perd\u00ed", "frecuencia": 5, "errores_ortograficos": [] },
+  { "palabra": "dicta", "frecuencia": 5, "errores_ortograficos": [] },
+  {
+    "palabra": "cu\u00e1ndo",
+    "frecuencia": 5,
+    "errores_ortograficos": ["cuando"]
+  },
+  {
+    "palabra": "podr\u00eda",
+    "frecuencia": 5,
+    "errores_ortograficos": ["podria"]
+  },
+  { "palabra": "indicarme", "frecuencia": 5, "errores_ortograficos": [] },
+  { "palabra": "presente", "frecuencia": 5, "errores_ortograficos": [] },
+  { "palabra": "sistema", "frecuencia": 5, "errores_ortograficos": [] },
+  { "palabra": "asignaturas", "frecuencia": 5, "errores_ortograficos": [] },
+  {
+    "palabra": "retirarse",
+    "frecuencia": 5,
+    "errores_ortograficos": ["retirarce"]
+  },
+  { "palabra": "documento", "frecuencia": 5, "errores_ortograficos": [] },
+  {
+    "palabra": "acceder",
+    "frecuencia": 5,
+    "errores_ortograficos": ["axeder", "acseder"]
+  },
+  { "palabra": "valido", "frecuencia": 5, "errores_ortograficos": [] },
+  { "palabra": "gratuito", "frecuencia": 5, "errores_ortograficos": [] },
+  { "palabra": "quien", "frecuencia": 5, "errores_ortograficos": [] },
+  { "palabra": "ayuda", "frecuencia": 4, "errores_ortograficos": [] },
+  { "palabra": "seria", "frecuencia": 4, "errores_ortograficos": [] },
+  { "palabra": "redactar", "frecuencia": 4, "errores_ortograficos": [] },
+  { "palabra": "parte", "frecuencia": 4, "errores_ortograficos": [] },
+  { "palabra": "banco", "frecuencia": 4, "errores_ortograficos": [] },
+  {
+    "palabra": "secci\u00f3n",
+    "frecuencia": 4,
+    "errores_ortograficos": ["seccion", "secsion"]
+  },
+  { "palabra": "realizo", "frecuencia": 4, "errores_ortograficos": [] },
+  { "palabra": "estan", "frecuencia": 4, "errores_ortograficos": [] },
+  { "palabra": "i", "frecuencia": 4, "errores_ortograficos": [] },
+  { "palabra": "unico", "frecuencia": 4, "errores_ortograficos": [] },
+  { "palabra": "cantidad", "frecuencia": 4, "errores_ortograficos": [] },
+  { "palabra": "4", "frecuencia": 4, "errores_ortograficos": [] },
+  { "palabra": "maximo", "frecuencia": 4, "errores_ortograficos": [] },
+  {
+    "palabra": "razones",
+    "frecuencia": 4,
+    "errores_ortograficos": ["rasones"]
+  },
+  { "palabra": "anterior", "frecuencia": 4, "errores_ortograficos": [] },
+  { "palabra": "chau", "frecuencia": 3, "errores_ortograficos": [] },
+  { "palabra": "pronto", "frecuencia": 3, "errores_ortograficos": [] },
+  { "palabra": "oye", "frecuencia": 3, "errores_ortograficos": [] },
+  { "palabra": "deseo", "frecuencia": 3, "errores_ortograficos": [] },
+  { "palabra": "datos", "frecuencia": 3, "errores_ortograficos": [] },
+  { "palabra": "tambien", "frecuencia": 3, "errores_ortograficos": ["tmb"] },
+  { "palabra": "solicitarlo", "frecuencia": 3, "errores_ortograficos": [] },
+  {
+    "palabra": "voucher",
+    "frecuencia": 3,
+    "errores_ortograficos": ["vaucher"]
+  },
+  { "palabra": "recojo", "frecuencia": 3, "errores_ortograficos": [] },
+  { "palabra": "ver", "frecuencia": 3, "errores_ortograficos": [] },
+  { "palabra": "metodo", "frecuencia": 3, "errores_ortograficos": [] },
+  { "palabra": "fundamentos", "frecuencia": 3, "errores_ortograficos": [] },
+  {
+    "palabra": "programacion",
+    "frecuencia": 3,
+    "errores_ortograficos": ["programasion"]
+  },
+  { "palabra": "fisica", "frecuencia": 3, "errores_ortograficos": [] },
+  { "palabra": "b", "frecuencia": 3, "errores_ortograficos": [] },
+  { "palabra": "clases", "frecuencia": 3, "errores_ortograficos": [] },
+  { "palabra": "justifique", "frecuencia": 3, "errores_ortograficos": [] },
+  { "palabra": "justifican", "frecuencia": 3, "errores_ortograficos": [] },
+  {
+    "palabra": "procede",
+    "frecuencia": 3,
+    "errores_ortograficos": ["prosede"]
+  },
+  { "palabra": "poder", "frecuencia": 3, "errores_ortograficos": [] },
+  { "palabra": "trabajo", "frecuencia": 3, "errores_ortograficos": [] },
+  { "palabra": "postular", "frecuencia": 3, "errores_ortograficos": [] },
+  { "palabra": "ir", "frecuencia": 3, "errores_ortograficos": [] },
+  {
+    "palabra": "estad\u00edstica",
+    "frecuencia": 3,
+    "errores_ortograficos": ["estadistica"]
+  },
+  { "palabra": "desaprobado", "frecuencia": 3, "errores_ortograficos": [] },
+  { "palabra": "bye", "frecuencia": 2, "errores_ortograficos": [] },
+  { "palabra": "amigo", "frecuencia": 2, "errores_ortograficos": [] },
+  { "palabra": "hi", "frecuencia": 2, "errores_ortograficos": [] },
+  { "palabra": "muchas", "frecuencia": 2, "errores_ortograficos": [] },
+  { "palabra": "favor", "frecuencia": 2, "errores_ortograficos": [] },
+  { "palabra": "ayudar", "frecuencia": 2, "errores_ortograficos": [] },
+  { "palabra": "pasos", "frecuencia": 2, "errores_ortograficos": [] },
+  {
+    "palabra": "cu\u00e1les",
+    "frecuencia": 2,
+    "errores_ortograficos": ["cuales"]
+  },
+  { "palabra": "covid", "frecuencia": 2, "errores_ortograficos": [] },
+  { "palabra": "subir", "frecuencia": 2, "errores_ortograficos": [] },
+  { "palabra": "retomar", "frecuencia": 2, "errores_ortograficos": [] },
+  { "palabra": "dni", "frecuencia": 2, "errores_ortograficos": [] },
+  {
+    "palabra": "ingl\u00e9s",
+    "frecuencia": 2,
+    "errores_ortograficos": ["ingles"]
+  },
+  { "palabra": "espa\u00f1ol", "frecuencia": 2, "errores_ortograficos": [] },
+  { "palabra": "consultar", "frecuencia": 2, "errores_ortograficos": [] },
+  {
+    "palabra": "facilitar",
+    "frecuencia": 2,
+    "errores_ortograficos": ["fasilitar"]
+  },
+  { "palabra": "alg\u00fan", "frecuencia": 2, "errores_ortograficos": [] },
+  { "palabra": "encontra", "frecuencia": 2, "errores_ortograficos": [] },
+  { "palabra": "tramitarla", "frecuencia": 2, "errores_ortograficos": [] },
+  { "palabra": "beca", "frecuencia": 2, "errores_ortograficos": [] },
+  {
+    "palabra": "abierto",
+    "frecuencia": 2,
+    "errores_ortograficos": ["habierto"]
+  },
+  { "palabra": "lindo", "frecuencia": 1, "errores_ortograficos": [] },
+  {
+    "palabra": "adi\u00f3s",
+    "frecuencia": 1,
+    "errores_ortograficos": ["adios"]
+  },
+  { "palabra": "placer", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "hablar", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "holis", "frecuencia": 1, "errores_ortograficos": [] },
+  {
+    "palabra": "holaeeeeeeeeeeee",
+    "frecuencia": 1,
+    "errores_ortograficos": []
+  },
+  { "palabra": "d\u00edaq", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "vas", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "bot", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "ninguna", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "dudas", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "consultas", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "nope", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "ultimo", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "momento", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "claro", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "decir", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "constula", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "dicho", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "cuesta", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "precio", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "realiza", "frecuencia": 1, "errores_ortograficos": [] },
+  {
+    "palabra": "tr\u00e1mite",
+    "frecuencia": 1,
+    "errores_ortograficos": ["tramite"]
+  },
+  { "palabra": "exacto", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "solictud", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "horaro", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "pregunta", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "obtengo", "frecuencia": 1, "errores_ortograficos": [] },
+  { "palabra": "perdirle", "frecuencia": 1, "errores_ortograficos": [] }
+]

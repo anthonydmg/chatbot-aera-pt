@@ -1,0 +1,2084 @@
+intent_name,examples,intent_label
+despedida,adios,0
+despedida,buenas noches,0
+despedida,nos vemos luego,0
+despedida,que tengas buen dia,0
+despedida,chau,0
+despedida,hasta luego,0
+despedida,nos vemos,0
+despedida,te veo luego,0
+despedida,hasta luego aerito,0
+despedida,hasta luego que tengas buen dia,0
+despedida,adios que tenga lindo dia,0
+despedida,nos vemos aerito,0
+despedida,adios aerito,0
+despedida,nos vemos pronto,0
+despedida,adiós fue un placer hablar contigo,0
+despedida,ya me tengo que ir gracias por la ayuda,0
+despedida,"ok, chau",0
+despedida,"ok, adios",0
+despedida,"ok, hasta pronto",0
+despedida,bye,0
+despedida,"ok, bye",0
+despedida,"ok, buenas noches",0
+despedida,gracias por la ayuda hasta luego,0
+despedida,hasta pronto,0
+despedida,adios,0
+despedida,chau nos vemos,0
+despedida,te beo luego,0
+despedida,hau,0
+despedida,hasta prronto,0
+despedida,q tengas buen dia,0
+despedida,"okk , buenas noches",0
+despedida,"ok , adiis",0
+despedida,nos vemos uego,0
+despedida,"ok , hasta pronto",0
+despedida,nos veoms pronto,0
+despedida,buensa noches,0
+despedida,adioa,0
+despedida,"ko , chau",0
+despedida,graciss por la ayuda hasta luego,0
+saludo,buenas,1
+saludo,hola,1
+saludo,buenos dias,1
+saludo,buenas noches,1
+saludo,hola que tal amigo,1
+saludo,que tal,1
+saludo,buenas tardes,1
+saludo,buenas tardes,1
+saludo,hola aerito,1
+saludo,buenos dias aerito,1
+saludo,buenos tardes aerito,1
+saludo,buenos noches aerito,1
+saludo,oye,1
+saludo,hola que tal,1
+saludo,hola aerito,1
+saludo,hola amigo,1
+saludo,hola que tal aerito,1
+saludo,hi,1
+saludo,holis,1
+saludo,holaeeeeeeeeeeee,1
+saludo,buen díaq,1
+saludo,oye aerito,1
+saludo,hola de nuevo,1
+saludo,como vas,1
+saludo,hi,1
+saludo,oye bot,1
+saludo,que tal como andas,1
+saludo,uubenas tardes,1
+saludo,bbuen díaq,1
+saludo,ola amigo,1
+saludo,oey,1
+saludo,oye boot,1
+saludo,ola aerito,1
+saludo,hoola que tal amigo,1
+saludo,ola aerito,1
+saludo,hola de nurvo,1
+saludo,bbuenas tardes,1
+saludo,holaeeeeeeeeeeeee,1
+saludo,hola q tal,1
+saludo,oyee aerito,1
+saludo,buenos ddais aerito,1
+denegar_mas_ayuda,no nada mas gracias,2
+denegar_mas_ayuda,ninguna duda mas,2
+denegar_mas_ayuda,no eso es todo gracias,2
+denegar_mas_ayuda,no nada mas,2
+denegar_mas_ayuda,no nada mas gracias,2
+denegar_mas_ayuda,eso es todo gracias,2
+denegar_mas_ayuda,no gracias es todo,2
+denegar_mas_ayuda,no tengo mas dudas,2
+denegar_mas_ayuda,"eso es todo, gracias",2
+denegar_mas_ayuda,es todo gracias,2
+denegar_mas_ayuda,no. gracias,2
+denegar_mas_ayuda,no,2
+denegar_mas_ayuda,"no, eso seria todo gracias",2
+denegar_mas_ayuda,no gracias,2
+denegar_mas_ayuda,"por ahora eso es todo, gracias",2
+denegar_mas_ayuda,"no, gracias",2
+denegar_mas_ayuda,"no eso seria todo, muchas gracias",2
+denegar_mas_ayuda,no muchas gracias,2
+denegar_mas_ayuda,no nada mas,2
+denegar_mas_ayuda,no eso seria todo gracias,2
+denegar_mas_ayuda,nada mas,2
+denegar_mas_ayuda,no eso es todo,2
+denegar_mas_ayuda,eso es todo,2
+denegar_mas_ayuda,eso es todo por ahora aerito gracias,2
+denegar_mas_ayuda,no ya no tengo mas consultas,2
+denegar_mas_ayuda,no por ahora,2
+denegar_mas_ayuda,nope,2
+denegar_mas_ayuda,no deseo nada mas,2
+denegar_mas_ayuda,no eso fue lo ultimo,2
+denegar_mas_ayuda,no es todo que tenga buen dia,2
+denegar_mas_ayuda,no gracias por la ayuda,2
+denegar_mas_ayuda,no eso es todo gracias por la ayuda,2
+denegar_mas_ayuda,"no eso fue todo, buenas noches",2
+denegar_mas_ayuda,por el momento es todo gracias,2
+denegar_mas_ayuda,eso fue todo gracias,2
+denegar_mas_ayuda,ninguna duda mss,2
+denegar_mas_ayuda,"por ahorra eso es todo , gracias",2
+denegar_mas_ayuda,por el homento es todo gracias,2
+denegar_mas_ayuda,no nada mas garcias,2
+denegar_mas_ayuda,no eso es todo graicas,2
+denegar_mas_ayuda,eso es todo,2
+denegar_mas_ayuda,nada maw,2
+denegar_mas_ayuda,eso fue todo gfaxias,2
+denegar_mas_ayuda,no tengo mas dusda,2
+denegar_mas_ayuda,no gracias por la ayud,2
+denegar_mas_ayuda,no deseo nada mmas,2
+denegar_mas_ayuda,no . gracais,2
+denegar_mas_ayuda,no por aora,2
+denegar_mas_ayuda,"no eso esria todo , muchas gracias",2
+denegar_mas_ayuda,onpe,2
+denegar_mas_ayuda,"eso es todo , gacias",2
+denegar_mas_ayuda,"no , rracias",2
+denegar_mas_ayuda,no grcaias es todo,2
+confirmar_requerir_mas_ayuda,si tengo otra consulta,3
+confirmar_requerir_mas_ayuda,si claro,3
+confirmar_requerir_mas_ayuda,si tengo otra duda mas,3
+confirmar_requerir_mas_ayuda,si una duda mas,3
+confirmar_requerir_mas_ayuda,si,3
+confirmar_requerir_mas_ayuda,si tenga una consulta,3
+confirmar_requerir_mas_ayuda,si una mas,3
+confirmar_requerir_mas_ayuda,si tengo otra consulta mas,3
+confirmar_requerir_mas_ayuda,si una consulta mas,3
+confirmar_requerir_mas_ayuda,tengo otra duda,3
+confirmar_requerir_mas_ayuda,tengo otra consulta,3
+confirmar_requerir_mas_ayuda,si por favor,3
+confirmar_requerir_mas_ayuda,si algo mas,3
+confirmar_requerir_mas_ayuda,si otra consulta,3
+confirmar_requerir_mas_ayuda,una mas,3
+confirmar_requerir_mas_ayuda,otra consulta,3
+confirmar_requerir_mas_ayuda,otra duda,3
+confirmar_requerir_mas_ayuda,si me puedes decir,3
+confirmar_requerir_mas_ayuda,si me puedes ayudar con esto,3
+confirmar_requerir_mas_ayuda,si por favor tengo esta otra duda,3
+confirmar_requerir_mas_ayuda,si hay algo mas con lo que puedes ayudar,3
+confirmar_requerir_mas_ayuda,una duda mas,3
+confirmar_requerir_mas_ayuda,hay otra constula que tengo,3
+confirmar_requerir_mas_ayuda,i,3
+confirmar_requerir_mas_ayuda,di por favor,3
+confirmar_requerir_mas_ayuda,is tengo otra duda mas,3
+confirmar_requerir_mas_ayuda,si tengo otra ocnsulfa mas,3
+confirmar_requerir_mas_ayuda,una dudaa mas,3
+confirmar_requerir_mas_ayuda,tengo otra ddua,3
+confirmar_requerir_mas_ayuda,si tenga una cosnulta,3
+confirmar_requerir_mas_ayuda,una mwa,3
+confirmar_requerir_mas_ayuda,si otra consulha,3
+confirmar_requerir_mas_ayuda,xi una consulta mas,3
+confirmar_requerir_mas_ayuda,si me puedes ayuudat con esto,3
+confirmar_requerir_mas_ayuda,hay otra constula q tengo,3
+formato_solicitud,¿cuál es el modelo para la solicitud?,4
+formato_solicitud,donde encuentro un modelo para la solicitud?,4
+formato_solicitud,dónde está el modelo de solicitud?,4
+formato_solicitud,una consulta hay algun modelo para la solicitud,4
+formato_solicitud,una duda porfavor existe algun modelo o formato para la solicitud,4
+formato_solicitud,existe alguna modelo para la solicitud,4
+formato_solicitud,donde puedo encontrar un modelo,4
+formato_solicitud,hay algun formato o modelo,4
+formato_solicitud,si hay algun formato para la solicitud que debo enviar,4
+formato_solicitud,cual es el formato para la solicitud,4
+formato_solicitud,que formato debe tener la solicitud,4
+formato_solicitud,necesito un modelo para esa solicitud,4
+formato_solicitud,que debo poner en la solicitud,4
+formato_solicitud,necesito un modelo para la solicitud que debo enviar a mesa de partes,4
+formato_solicitud,que datos debo colocar en la solicitud,4
+formato_solicitud,que informacion debe ir en la solicitud,4
+formato_solicitud,la solicitud debe estar dirigida al decano?,4
+formato_solicitud,debo colocar mi codigo y mi dni en la solicitud,4
+formato_solicitud,hay algun modelo a seguir para redactar la solicitud que debo enviar,4
+formato_solicitud,que formato debo seguir para redactar la solicitud,4
+formato_solicitud,a quien le puedo pedir un modelo para la solicitud,4
+formato_solicitud,la solicitud tiene un formato especial?,4
+formato_solicitud,que modelo debe seguir la solicitud?,4
+formato_solicitud,mi otra duda es que datos debo colocar en la solicitud o si hay algun formato me ayudaria,4
+formato_solicitud,porfavor enviame tambien el modelo para la solicitud,4
+formato_solicitud,tambien quisiera que me envie el modelo si hay para la solicitud,4
+formato_solicitud,como puedo conseguir un modelo para la solicitud,4
+formato_solicitud,necesito un modelo para esa solicitud,4
+formato_solicitud,quisiera saber tambien si hay algun modelo para esa solicitud,4
+formato_solicitud,quisiera sabes que informacion o datos debo colocar en esa solicitud,4
+formato_solicitud,no se si debo colocar mi dni en la solicitud,4
+formato_solicitud,no se que informacion debo colocar en la solicitud me puedes ayudar,4
+formato_solicitud,"me dijeron que la solicitud debe estar dirigida al decano pero no se que mas debo poner, me puedes ayudar enviandome un formato",4
+formato_solicitud,que modelo puedo seguir para redactar la solicitud,4
+formato_solicitud,en la pagina puedo encontrar un modelo para esta solicitud,4
+formato_solicitud,porfavor quiero que me envies el modelo para la solicitud,4
+formato_solicitud,que debo colocar en la solicitud,4
+formato_solicitud,como debo redactar la solicitud,4
+formato_solicitud,la solicitud debe seguir algun formato o modelo,4
+formato_solicitud,el modelo para la solicitud porfavor,4
+formato_solicitud,dime que formato debe seguir la solicitud,4
+formato_solicitud,dónde está el modelo de solisitud ?,4
+formato_solicitud,no se si debo colocar mi dni en la solisitud,4
+formato_solicitud,que daos debo colocar en la solicitud,4
+formato_solicitud,que cebo poner en la solicitud,4
+formato_solicitud,quisiera sabes que informacion o datos debo colocar en esa olicitud,4
+formato_solicitud,que modelo debe seguit la solicitud ?,4
+formato_solicitud,q formato debo seguir para redactar la solicitud,4
+formato_solicitud,la solicitud debe seguir algun formato o moelo,4
+formato_solicitud,que modelo puedo seguir para redacctar la solicitud,4
+formato_solicitud,dknde encuentro un modelo para la solicitud ?,4
+formato_solicitud,la solisitud tiene un formato especial ?,4
+formato_solicitud,donde puedo encontrar un moelo,4
+formato_solicitud,como debo redactar la solisitud,4
+formato_solicitud,que formato debe tener la soliciitud,4
+formato_solicitud,si hay algun formato para la solisitud que debo enviar,4
+formato_solicitud,dime q formato debe seguir la solicitud,4
+formato_solicitud,porfavor enviame tmb el modelo para la solicitud,4
+formato_solicitud,como puedo conseguir un modelo para la solkcitud,4
+formato_solicitud,nesesito un modelo para esa solicitud,4
+formato_solicitud,a quien le puedo pedir un modelo para la soñiciyud,4
+formato_solicitud,la solisitud debe estar dirigida al decano ?,4
+procedimiento_tramites_fechas,¿cuando puedo realizar el procedimiento o tramite?,5
+procedimiento_tramites_fechas,¿cuando se presenta la solicitud?,5
+procedimiento_tramites_fechas,¿en que fechas debo presentar la solicitud?,5
+procedimiento_tramites_fechas,cuales son las fechas limites para presentar la solicitud,5
+procedimiento_tramites_fechas,cuando puedo presentar la solicitud?,5
+procedimiento_tramites_fechas,cuando puedo enviar la solicitud,5
+procedimiento_tramites_fechas,cuando se habilita para enviar la solicitud,5
+procedimiento_tramites_fechas,cuando se habilita para realizar el tramite,5
+procedimiento_tramites_fechas,hasta cuando puedo enviar la solicitud,5
+procedimiento_tramites_fechas,hasta cuando puedo hacer dicho tramite,5
+procedimiento_tramites_fechas,cuando ya puedo presentar la solicitud,5
+procedimiento_tramites_fechas,hasta cuando puedo presentarlo,5
+procedimiento_tramites_fechas,cuando puedo realizarlo,5
+procedimiento_tramites_fechas,hasta cuando puedo realizar el tramite,5
+procedimiento_tramites_fechas,cual es la fecha limite para realizar el tramite o procedimiento,5
+procedimiento_tramites_fechas,"otra consulta, ¿hasta cuándo tengo tiempo para presentar mi solicitud?",5
+procedimiento_tramites_fechas,hasta que fecha puedo presentar la solicitud,5
+procedimiento_tramites_fechas,todavia puedo presentar mi solicitud,5
+procedimiento_tramites_fechas,hasta cuando puedo presentar la solicitud,5
+procedimiento_tramites_fechas,hasta cuando puedo tramitarlo,5
+procedimiento_tramites_fechas,me puedes decir cuando se habilita para subir la solicitud,5
+procedimiento_tramites_fechas,en este momento ya puedo enviar la solicitud,5
+procedimiento_tramites_fechas,esta semana ya puedo tramitarlo,5
+procedimiento_tramites_fechas,la siguiente semana puedo enviar la solicitud,5
+procedimiento_tramites_fechas,esta semana todavia puedo todavia solicitarlo,5
+procedimiento_tramites_fechas,aun puedo enviar la solicitud o ya se paso las fechas?,5
+procedimiento_tramites_fechas,este tramite ya lo podria hacer o a que fechas deberia esperar,5
+procedimiento_tramites_fechas,debo esperar para iniciar este tramite o ya lo puedo solicitarlo,5
+procedimiento_tramites_fechas,hasta que dia puedo solicitar esto,5
+procedimiento_tramites_fechas,que que dias tengo plazos para presentar la solicitud,5
+procedimiento_tramites_fechas,estamos en la sexta semana de clases todavia puedo solicitarlo,5
+procedimiento_tramites_fechas,el ciclo comienza la siguiente todavia puedo realizar,5
+procedimiento_tramites_fechas,recien me entero que esta semana ya comienza el ciclo todavia puedo enviar mi solicitud,5
+procedimiento_tramites_fechas,hay alguna fecha limite para enviar la solicitud o puedo hacerlo hasta la ultima semana,5
+procedimiento_tramites_fechas,ya va a terminar el ciclo esta semana todavia puedo pedirlo,5
+procedimiento_tramites_fechas,esta semana puedo enviar la solicitud,5
+procedimiento_tramites_fechas,hay alguna fecha limite para enviar esa solicitud,5
+procedimiento_tramites_fechas,todavia puedo presentarle,5
+procedimiento_tramites_fechas,otra duda puedo realizar el tramite esta semana,5
+procedimiento_tramites_fechas,en estas fechas todavia puedo realizar este procedimiento,5
+procedimiento_tramites_fechas,todavia puedo realizar este tramite,5
+procedimiento_tramites_fechas,q que dias tengo plazos para presentar la solicitud,5
+procedimiento_tramites_fechas,hasta cuando puedo enviar la solisitud,5
+procedimiento_tramites_fechas,todavia puedo realisar este tramite,5
+procedimiento_tramites_fechas,hay alguna fecha limite para enviar la solisitud o puedo hacerlo hasta la ultima semana,5
+procedimiento_tramites_fechas,esta semanna puedo enviar la solicitud,5
+procedimiento_tramites_fechas,me puedes decir cuando se habilita para subir la solisitud,5
+procedimiento_tramites_fechas,hasta que dia pue solicitar esto,5
+procedimiento_tramites_fechas,recien me entero que esta semana ya comienza el ciclo todavia puedo enviar mi solisitud,5
+procedimiento_tramites_fechas,debo esperar para iniciar este tramit o ya lo puedo solicitarlo,5
+procedimiento_tramites_fechas,ya va a terminarr el ciclo esta semana todavia puedo pedirlo,5
+procedimiento_tramites_fechas,el ciclo comienza la siguiente todavia puedo realisar,5
+procedimiento_tramites_fechas,cuando puedo envlr la solicitud,5
+procedimiento_tramites_fechas,la siguiente semana puedo enviar la solicitdu,5
+procedimiento_tramites_fechas,todavia pudeo presentarle,5
+procedimiento_tramites_fechas,"otra consulta , ¿ hasta cuándo tengo tiempo para presentar mi solisitud ?",5
+procedimiento_tramites_fechas,cual es la efcha limite para realizar el tramite o procedimiento,5
+procedimiento_tramites_fechas,en estas fechas todavia puedo realizar este procedimiento,5
+procedimiento_tramites_fechas,cando se habilita para realizar el tramite,5
+procedimiento_tramites_fechas,hay alguna fecha limite para enviar esa solisitud,5
+procedimiento_tramites_fechas,esta semana todavia pueod todavia solicitarlo,5
+procedimiento_tramites_fechas,hasta qeu fecha puedo presentar la solicitud,5
+costo_tramite,¿cuanto es el costo por el tramite?,6
+costo_tramite,¿cuánto se paga por el tramite?,6
+costo_tramite,el tramite es gratis?,6
+costo_tramite,cuanto se tiene que pagar por el tramite?,6
+costo_tramite,se debe pagar algo para el tramite?,6
+costo_tramite,cuanto se tiene pagar para dicho tramite,6
+costo_tramite,el tramite no tiene costo ?,6
+costo_tramite,que costo tiene el tramite?,6
+costo_tramite,cuanto debo pagar para el tramite?,6
+costo_tramite,cuanto cuesta el tramite,6
+costo_tramite,es gratis o tiene algun costo este tramite?,6
+costo_tramite,tiene algun costo?,6
+costo_tramite,debo pagar algo?,6
+costo_tramite,si cuanto es el costo,6
+costo_tramite,cuanto debo pagar por ese tramite,6
+costo_tramite,hay algun costo,6
+costo_tramite,esto tiene algun costo,6
+costo_tramite,cual es el precio para este tramite,6
+costo_tramite,debo pagar algo por este tramite,6
+costo_tramite,si otra duda este tramite seria gratis?,6
+costo_tramite,tengo que pagar algo?,6
+costo_tramite,dime si demo pagar algo para este tramite,6
+costo_tramite,hay algo que debo pagar por este tramite?,6
+costo_tramite,es gratis el tramite?,6
+costo_tramite,cuanto se tiene q pagar por el tramite ?,6
+costo_tramite,debo pagar algo por este trammite,6
+costo_tramite,¿ cuannto es el costo por el tramite ?,6
+costo_tramite,cuannto cuesta el tramite,6
+costo_tramite,hay algo que debo pagar por este tramie ?,6
+costo_tramite,debo pagad algo ?,6
+costo_tramite,si otra duad este tramite seria gratis ?,6
+costo_tramite,el tramite no tiene coto ?,6
+costo_tramite,el tramite es grtais ?,6
+costo_tramite,tengo q pagar algo ?,6
+costo_tramite,tiene algn costo ?,6
+costo_tramite,es gratis o tiene algn costo este tramite ?,6
+pago_fechas,¿hasta cuando puedo realizar el pago?,7
+pago_fechas,hasta que fechas puedo pagarlo,7
+pago_fechas,esta semana todavia puedo pagarlo,7
+pago_fechas,hasta que semana lo podria pagar,7
+pago_fechas,cuando es la fecha limite para pagarlo,7
+pago_fechas,debo pagarlo hasta cuando,7
+pago_fechas,hasta cuando tengo para pagarlo,7
+pago_fechas,en que fechas se realiza el pago,7
+pago_fechas,si hasta que dia lo puedo pagar,7
+pago_fechas,todavía puedo pagarlo?,7
+pago_fechas,hasta cuando podría realizar el pago?,7
+pago_fechas,hasta cunado puedo pagarlo?,7
+pago_fechas,hasta que dia se puede pagar?,7
+pago_fechas,cual es la fecha limite para el pago?,7
+pago_fechas,aun es posible pagarlo?,7
+pago_fechas,aun se puede pagar en estos dias?,7
+pago_fechas,aun es posible paarlo ?,7
+pago_fechas,hasta q dia se puede pagar ?,7
+pago_fechas,¿ hasta cuando peudo realizar el pago ?,7
+pago_fechas,hasta q fechas puedo pagarlo,7
+pago_fechas,cuando es la fecha limite para pagarl,7
+pago_fechas,hasta que semana lo porrria pagar,7
+pago_fechas,hasta cuanfo tengo para pagarlo,7
+pago_fechas,hasta cuando podría rwalizar el pago ?,7
+matricula_procedimiento,¿cuál es proceso de matricula?,8
+matricula_procedimiento,que pasos debo seguir para la matricula,8
+matricula_procedimiento,como realizo mi matrícula,8
+matricula_procedimiento,que debo hacer para realizar la matricula,8
+matricula_procedimiento,que pagos y que debo hacer para la matricula,8
+matricula_procedimiento,que debo tramitar para la matricula,8
+matricula_procedimiento,cuales son los pasos para matricularme en el siguiente ciclo,8
+matricula_procedimiento,que pagos debo hacer para la matrícula,8
+matricula_procedimiento,debo pagar algo para realizar mi matricula,8
+matricula_procedimiento,cuales son los pagos para realizar la matricula,8
+matricula_procedimiento,como me matriculo este ciclo,8
+matricula_procedimiento,que tramites debo hacer para la matricula,8
+matricula_procedimiento,hay algo que debo pagar para la matricula,8
+matricula_procedimiento,como puedo matricularme este ciclo,8
+matricula_procedimiento,hay algun pago para la matricula,8
+matricula_procedimiento,debo hacer algo para habilitar mi matricula,8
+matricula_procedimiento,hay algun pago que debo hacer para mi matricula,8
+matricula_procedimiento,cuanto se paga por la matricula,8
+matricula_procedimiento,que proceso debo seguir para la matricularme,8
+matricula_procedimiento,debo realizar algunos pagos por la matricula o es automatico?,8
+matricula_procedimiento,me dijeron que debo pagar el autoseguro para la matricula hay algo mas que se debe pagar?,8
+matricula_procedimiento,a parte del autoseguro debo pagar algo mas para la matricula?,8
+matricula_procedimiento,la matricula se habilita automaticamente cada ciclo o debo hacer algo mas?,8
+matricula_procedimiento,la matricula ya va a empezar esta semana debo pagar algo antes?,8
+matricula_procedimiento,debo realizar algun tramite para mi matricula este ciclo?,8
+matricula_procedimiento,solo debo pagar el autoseguro y el carnet para la matricula?,8
+matricula_procedimiento,como es el proceso para la matricula,8
+matricula_procedimiento,hay algunos tramites que debo hacer antes para la matricula?,8
+matricula_procedimiento,debo hacer alguna tramite para poder habilitar mi matricula?,8
+matricula_procedimiento,ya pague el autoseguro hay algun otro paga por la matricula?,8
+matricula_procedimiento,como habilito mi matricula,8
+matricula_procedimiento,quiero saber si tengo que hacer algun tramite para matricular este ciclo,8
+matricula_procedimiento,debo enviar el voucher del autoseguro para la matricula,8
+matricula_procedimiento,debo enviar los voucher del autoseguro y carnet para la matricula,8
+matricula_procedimiento,"ya pague el autoseguro, es necesario que entregue el voucher a la oficina de estadistica o no?",8
+matricula_procedimiento,ya realize los pagos que me dijeron para la matricula debo enviar las boletas?,8
+matricula_procedimiento,hay necesita de enviar la boleta del pago de autoseguro?,8
+matricula_procedimiento,debo llevar la boleta de pago del autoseguro a la oficina de estadistica?,8
+matricula_procedimiento,que cosas debo hacer para matricularme,8
+matricula_procedimiento,que pagos debo hacer para la matricula,8
+matricula_procedimiento,cuales son los pagos para matricula y que mas debo hacer para matricularme este ciclo,8
+matricula_procedimiento,hay necesita de enviar la boleta del pago de auto-seguro ?,8
+matricula_procedimiento,quee proceso debo seguir para la matricularme,8
+matricula_procedimiento,comoo habilito mi matricula,8
+matricula_procedimiento,que cosas debo acer para matricularme,8
+matricula_procedimiento,debo hcer alguna tramite para poder habilitar mi matricula ?,8
+matricula_procedimiento,a parte del autoseguro dbeo pagar algo mas para la matricula ?,8
+matricula_procedimiento,que tramites debo hacerr para la matricula,8
+matricula_procedimiento,q debo hacer para realizar la matricula,8
+matricula_procedimiento,hay algun pago que debo acer para mi matricula,8
+matricula_procedimiento,debo llevar la boleta de pago del auto seguro a la oficina de estadistica ?,8
+matricula_procedimiento,debo enviar los voucher del autoseguro y carnet para la matficula,8
+matricula_procedimiento,cimo es el proceso para la matricula,8
+matricula_procedimiento,como realizo mi matricula,8
+matricula_procedimiento,hay algo q debo pagar para la matricula,8
+matricula_procedimiento,debo hacer algo para haabilitar mi matricula,8
+matricula_procedimiento,cuales son los pagos para matricula y que mas ebo hacer para matricularme este ciclo,8
+matricula_procedimiento,q pagos debo hacer para la matricula,8
+matricula_procedimiento,me dijeron que debo pagar el autoseguro para la matricula hay algo mas qe se debe pagar ?,8
+matricula_procedimiento,ya realize los pagos q me dijeron para la matricula debo enviar las boletas ?,8
+matricula_procedimiento,que pasos debo seguirr para la matricula,8
+matricula_procedimiento,q pagos y que debo hacer para la matricula,8
+matricula__procedimiento_alumno_regular,¿cuál es el proceso de matrícula para un alumno regular?,9
+matricula__procedimiento_alumno_regular,soy alumno regular como es el proceso de matricula,9
+matricula__procedimiento_alumno_regular,"hola, soy alumno regular quiero saber como realizar mi matricula",9
+matricula__procedimiento_alumno_regular,soy alumno regular de fisica me podrias decir cual es el proceso de matricula,9
+matricula__procedimiento_alumno_regular,soy alumno regular de ciencias de la computación cual es el proceso de matricula,9
+matricula__procedimiento_alumno_regular,una consulta soy alumno regular de matematicas me indicaron que debo hacer unos pagos e ingresar a una plataforma para hacer mi matricula pero no entendi bien,9
+matricula__procedimiento_alumno_regular,soy alumno regular como realizo mi matricula,9
+matricula__procedimiento_alumno_regular,cual es el procedimiento de matricula como alumno regular,9
+matricula__procedimiento_alumno_regular,que pagos debo hacer este ciclo para la matricula soy alumno regular,9
+matricula__procedimiento_alumno_regular,como alumno regular que pagos debo hacer para realizar la matricula,9
+matricula__procedimiento_alumno_regular,actualmente soy alumno regular hay algo que debo pagar para la matricula,9
+matricula__procedimiento_alumno_regular,este va a ser mi segundo ciclo debo pagar algo por la matricula,9
+matricula__procedimiento_alumno_regular,es mi segundo ciclo hay algo que debo pagar a parte del autoseguro para la matricula,9
+matricula__procedimiento_alumno_regular,que pagos debo hacer para la matricula si soy alumno regular,9
+matricula__procedimiento_alumno_regular,tengo que hacer algun tramite para matricularme en el segundo ciclo,9
+matricula__procedimiento_alumno_regular,este ciclo debo realizar algun tramite mas para la matricula a parte pagar el autoseguro si soy alumno regular,9
+matricula__procedimiento_alumno_regular,este nuevo ciclo que se esta aperturando la matricula es automatica o debo hacer algun tramite actualmete soy alumno regular,9
+matricula__procedimiento_alumno_regular,como me puedo matricular si soy alumno regular,9
+matricula__procedimiento_alumno_regular,cual es procedimiento para la matricula siendo alumno regular,9
+matricula__procedimiento_alumno_regular,que pagos debo hacer como alumno regular para la matricula,9
+matricula__procedimiento_alumno_regular,a parte del autoseguro hay algo mas que pagar como alumno regular,9
+matricula__procedimiento_alumno_regular,no estoy seguro si debo pagar algo mas que el autoseguro para la matricula este ciclo es mi segundo ciclo,9
+matricula__procedimiento_alumno_regular,soy alumno de segundo ciclo como me matricula,9
+matricula__procedimiento_alumno_regular,quiero matricularme en el segundo ciclo,9
+matricula__procedimiento_alumno_regular,cuanto pagos debo hacer para la matricula si soy alumno regular,9
+matricula__procedimiento_alumno_regular,cual es el proceso de matricula para este segundo ciclo,9
+matricula__procedimiento_alumno_regular,acabo de pagar el autoseguro es necesario que le entregue el voucher a aera para matricularme si soy alumno regular?,9
+matricula__procedimiento_alumno_regular,ya pague el autoseguro debo realizar algo mas para mi matricula soy alumno en tercer ciclo,9
+matricula__procedimiento_alumno_regular,me gustaria matricularme en el tercer ciclo que pagos debo hacer,9
+matricula__procedimiento_alumno_regular,"hola que tal, soy alumno regular ya pague el autoseguro pero no me creo que pueda ir a dejar la boleta por que me encuentro en provincia. es necesario?",9
+matricula__procedimiento_alumno_regular,como alumno regular debo pagar algo mas a parte del autoseguro?,9
+matricula__procedimiento_alumno_regular,es mi segundo ciclo que mas pagos debo hacer aparte del autoseguro ?,9
+matricula__procedimiento_alumno_regular,soy alumno regular aparte de pagar el autoseguro que mas debo pagar o tramitar para la matricula?,9
+matricula__procedimiento_alumno_regular,acabo de pagar el autoseguro es necesario q le entregue el voucher a aera para matriculrame si soy alumno regular ?,9
+matricula__procedimiento_alumno_regular,es mi segundo ciclo qe mas pagos debo hacer aparte del autoseguro ?,9
+matricula__procedimiento_alumno_regular,como alumno regular que pagos debo hacer para realisar la matricula,9
+matricula__procedimiento_alumno_regular,no estoy seguro si debo agar algo mas q el autoseguro para la matricula este ciclo es mi segundo ciclo,9
+matricula__procedimiento_alumno_regular,es mi segundo ciclo hay algo q debo pagar a parte del autoseguro para la matricula,9
+matricula__procedimiento_alumno_regular,soy alumo regular aparte de pagaar el autoseguro que mas debo pagar o tramitar para la matricula ?,9
+matricula__procedimiento_alumno_regular,cuanto pagos debo acer para la matricula si soy alumno regular,9
+matricula__procedimiento_alumno_regular,como me puedo matricular si soy slumno regular,9
+matricula__procedimiento_alumno_regular,soy alumno regular como es el priceso de matricula,9
+matricula__procedimiento_alumno_regular,tengo que acer algun tramite para matricularme en el segundo ciclo,9
+matricula__procedimiento_alumno_regular,"hola , soy alumno regular quiero saber como realizar mi matriculaa",9
+matricula__procedimiento_alumno_regular,actualmente soy alumno reegular hay algo que debo pagar para la matricula,9
+matricula__procedimiento_alumno_regular,que pagos deob hacer este ciclo para la matricula soy alumno regular,9
+matricula__procedimiento_alumno_regular,"hola que tal , soy alumno regular ya pague el autoseguro pero no me creo que pueda ir a djar la boleta por que me encuentro en provincia . es nesesario ?",9
+matricula__procedimiento_alumno_regular,soy alumno regular de fisica me podrias decir cuai es el proceso de matricula,9
+matricula__procedimiento_alumno_regular,me gustaria matricularme en el tercer ciclo que pagos dbeo hacer,9
+matricula__procedimiento_alumno_regular,este nuevo ciclo que se esta aperturando la matricula es automatica o debo acer algun tramite actuamete soy alumno regular,9
+matricula__procedimiento_alumno_ingresante,¿cuál es el proceso de matrícula para un alumno ingresante?,10
+matricula__procedimiento_alumno_ingresante,soy ingresante como es el proceso de matricula,10
+matricula__procedimiento_alumno_ingresante,"hola, soy alumno ingresante quiero saber como realizar mi matricula",10
+matricula__procedimiento_alumno_ingresante,soy alumno ingresante de fisica me podrias decir cual es el proceso de matricula,10
+matricula__procedimiento_alumno_ingresante,soy ingresante de ciencias de la computación cual es el proceso de matricula,10
+matricula__procedimiento_alumno_ingresante,una consulta soy alumno ingresante de matematicas me indicaron que debo hacer unos pagos e ingresar a una plataforma para hacer mi matricula pero no entendi bien,10
+matricula__procedimiento_alumno_ingresante,soy alumno ingresante como realizo mi matricula,10
+matricula__procedimiento_alumno_ingresante,"soy ingresante de la carrera de matematicas, me puede indicar cual es procedimiento de matricula",10
+matricula__procedimiento_alumno_ingresante,es mi primer ciclo soy ingresante puede decirme cual es proceso a seguir para la matricula,10
+matricula__procedimiento_alumno_ingresante,he ingresado a la carrera de ingenieria fisica quisiera saber cuales son los para paso para la matricula,10
+matricula__procedimiento_alumno_ingresante,he ingresado a la carrera de quimica en el anterior examen de admisión quisiera que debo hacer para matricularme,10
+matricula__procedimiento_alumno_ingresante,"acabo de ingresar este ciclo, cuales son los pagos que debo hacer para la matricula",10
+matricula__procedimiento_alumno_ingresante,"que pagos demo hacer para la matricula, soy ingresante de la carrera de ciencias de la computación",10
+matricula__procedimiento_alumno_ingresante,como puedo matricularme si soy nuevo alumno,10
+matricula__procedimiento_alumno_ingresante,es mi primer ciclo como me puedo matricular,10
+matricula__procedimiento_alumno_ingresante,soy ingresante y este es mi primer ciclo como procedo con la matricula,10
+matricula__procedimiento_alumno_ingresante,como puedo matricular si es mi primer ciclo,10
+matricula__procedimiento_alumno_ingresante,ingrese este ciclo como me matriculo,10
+matricula__procedimiento_alumno_ingresante,soy ingresante de la carrera de ciencias de la computacion como me inscribo este ciclo,10
+matricula__procedimiento_alumno_ingresante,soy ingresante pero todavia no me han dicho como matricularme que debo hacer,10
+matricula__procedimiento_alumno_ingresante,"acabo de ingresar este ciclo, la matricula es automatica o debo realizar algun tramite o pagos?",10
+matricula__procedimiento_alumno_ingresante,que pagos debo hacer para la matricula soy ingresante?,10
+matricula__procedimiento_alumno_ingresante,este en mi primer ciclo como puedo matricularme,10
+matricula__procedimiento_alumno_ingresante,me han dicho que pague por el carnet y por el autoseguro para la matricula hay algo mas que pagar para la matricula soy nuevo alumno,10
+matricula__procedimiento_alumno_ingresante,cual es el proceso de matricula para un nuevo alumno,10
+matricula__procedimiento_alumno_ingresante,"hola, ingrese en el anterior examen de admision quiero saber si la matricula tiene algun costo y si debo hacer algun tramite mas",10
+matricula__procedimiento_alumno_ingresante,quiero matricularme pero no se quebo pagar o tramitar soy ingresante,10
+matricula__procedimiento_alumno_ingresante,hola soy ingresante ya pague todo lo que me dijeron para la matricula debo dejar los vouchers en estadistica?,10
+matricula__procedimiento_alumno_ingresante,ya pague el carnet y el autoseguro me dijeron que debo dejar las boletas en la oficina de estadistica. soy nuevo alumno ingresante.,10
+matricula__procedimiento_alumno_ingresante,soy ingresante tengo que ir a dejar las boletas del autoseguro y carnet o no es necesario?,10
+matricula__procedimiento_alumno_ingresante,soy nuevo alumno ingrese en el anterior examen que debo hacer para matricularme,10
+matricula__procedimiento_alumno_ingresante,"soy alumno ingresante, quisiera matricularme pero no entendi que pagos debo hacar me podria indicar que pagos debo hacer?",10
+matricula__procedimiento_alumno_ingresante,ual es el proceso de matricula para un nuevo alumno,10
+matricula__procedimiento_alumno_ingresante,soy nuevo alumno ingrese en el anterior examen q debo hacer para matricularme,10
+matricula__procedimiento_alumno_ingresante,he ingresado a la carrera de quimica en el anterior examen de admisión quiciera q debo hacer para matricularme,10
+matricula__procedimiento_alumno_ingresante,"acabo de ingresar este ciclo , la matricula es automatica o debo realisar algun tramite o pagos ?",10
+matricula__procedimiento_alumno_ingresante,este en mi primer ciclo como puedo matriicularme,10
+matricula__procedimiento_alumno_ingresante,"soy alumno ingresante , quisiera matricularme pero no entendi que pagos debo hacar me pordia indicar que pagos debo acer ?",10
+matricula__procedimiento_alumno_ingresante,soy ingresante y este es mi priimer ciclo como procedo con la matricula,10
+matricula__procedimiento_alumno_ingresante,ingrese este ciclo comoo me matriculo,10
+matricula__procedimiento_alumno_ingresante,soy ingresante como es el proceso de matrcula,10
+matricula__procedimiento_alumno_ingresante,soy ingresante pero todavia no me han dicho como matricularme que debo acer,10
+matricula__procedimiento_alumno_ingresante,"ola , soy alumno ingresante quiero saber como realizar mi matricula",10
+matricula__procedimiento_alumno_ingresante,"soy ingresante de la carrera de matematicas , me pudee indicar cual es procedimiento de matricula",10
+matricula__procedimiento_alumno_ingresante,he ingresado a la carrera de ingenieria fisica quiciera saber cuales son los para paso para la matricula,10
+matricula__procedimiento_alumno_ingresante,ya pague el carnet y el autoseguro me dijeron que debo dejar las boletas en la oficina de estadistica . soy unevo alummno ingresante .,10
+matricula__procedimiento_alumno_ingresante,que pagos debo acer para la matricula soy ingresante ?,10
+matricula__procedimiento_alumno_ingresante,como puedo matrricularme si soy nuevo alumno,10
+carnet_universitario__solicitud,¿cómo obtener mi carnet universitario?,11
+carnet_universitario__solicitud,¿cómo puedo obtener mi carnet universitario?,11
+carnet_universitario__solicitud,como puedo tramitar mi carnet universitario,11
+carnet_universitario__solicitud,como tramito mi carnet universitario,11
+carnet_universitario__solicitud,como solicitar mi carnet universitario,11
+carnet_universitario__solicitud,para que me den mi carnet universitario que debo hacer,11
+carnet_universitario__solicitud,quiero obtener mi carnet universitario que debo hacer,11
+carnet_universitario__solicitud,de mas debo hacer para obtener mi carnet universitario?,11
+carnet_universitario__solicitud,a quien le solicito mi carnet universitario,11
+carnet_universitario__solicitud,deseo obtener mi carnet universitario que debo hacer,11
+carnet_universitario__solicitud,quiero solicitar mi carnet de la universidad,11
+carnet_universitario__solicitud,como solicito mi carnet de medio pasaje,11
+carnet_universitario__solicitud,donde solicito mi carnet de la universidad,11
+carnet_universitario__solicitud,donde pago para mi carnet universitario,11
+carnet_universitario__solicitud,que tramite hago para mi carnet universitario,11
+carnet_universitario__solicitud,debo hacer algun para mi carnet universitario,11
+carnet_universitario__solicitud,debo pagar algo para obtener el carnet universitario,11
+carnet_universitario__solicitud,cuanto debo pagar para obtener mi carnet de medio pasaje,11
+carnet_universitario__solicitud,a que oficina le escribo para obtener mi carnet de universidad,11
+carnet_universitario__solicitud,en donde pago para tramitar mi carnet de universidad,11
+carnet_universitario__solicitud,en que banco para para el carnet universitario,11
+carnet_universitario__solicitud,como se realiza el pago para el carnet universitario,11
+carnet_universitario__solicitud,quiero informacion sobre como tramitar mi carnet universitario,11
+carnet_universitario__solicitud,no puede tramitar mi carnet universitario como lo hago,11
+carnet_universitario__solicitud,para sacar el carnet universitario debo pagar algo?,11
+carnet_universitario__solicitud,el carnet universitario es gratis?,11
+carnet_universitario__solicitud,a donde debo pagar por el carnet universitario?,11
+carnet_universitario__solicitud,a donde voy para tramitar mi carnet,11
+carnet_universitario__solicitud,a que oficina debo ir para tramitar mi carnet universitario,11
+carnet_universitario__solicitud,tengo que enviar mi voucher de pago para mi carnet de universitario,11
+carnet_universitario__solicitud,debo entregar la boleta de pago de mi carnet universitario,11
+carnet_universitario__solicitud,es necesario entregar mi voucher de pago para mi carnet,11
+carnet_universitario__solicitud,ya pague el carnet universitario hay algo mas que debo hacer?,11
+carnet_universitario__solicitud,acabo de pagar mi carnet universitario como puedo saber cuando estara?,11
+carnet_universitario__solicitud,ya pague el carnet universitario me informaran cuando ya este listo para recojo?,11
+carnet_universitario__solicitud,cuando sera el recojo de carnet universitario ya he pagado?,11
+carnet_universitario__solicitud,me avisaran para el recojo del carnet de universidad?,11
+carnet_universitario__solicitud,uno duda ya ague por el carnet cuando se estaran entregando?,11
+carnet_universitario__solicitud,cuando se estaran entregando los carnet de universidad?,11
+carnet_universitario__solicitud,debo pagar algo para el carnet de universidad?,11
+carnet_universitario__solicitud,a quien le solicito mi carrget universitario,11
+carnet_universitario__solicitud,ya pague el carnet universitario me infomaran cuando ya este listo para recojo ?,11
+carnet_universitario__solicitud,no puede tramitar mi carnet universitario como lo ahog,11
+carnet_universitario__solicitud,acabo de pagar mi caret universitario como puedo saber cuando estara ?,11
+carnet_universitario__solicitud,ya pague el carnet universitario hay algo mas que debo ahcer ?,11
+carnet_universitario__solicitud,cuanto debo pgara para obtener mi carnet de medio pasaje,11
+carnet_universitario__solicitud,quiero solisitar mi carnet de la universidad,11
+carnet_universitario__solicitud,deb pagar algo para obtener el carnet universitario,11
+carnet_universitario__solicitud,debo entregarr la boleta de pago de mi carnet universitario,11
+carnet_universitario__solicitud,es nesesario entregar mi voucher de pago para mi carnet,11
+carnet_universitario__solicitud,el carnet univercitario es gratis ?,11
+carnet_universitario__solicitud,deseo obtener mi carnet universitario q debo hacer,11
+carnet_universitario__solicitud,uno duda ya ague por el carnet cuanod se estaran entregando ?,11
+carnet_universitario__solicitud,me aviisaran para el recojo del carnet de universidad ?,11
+carnet_universitario__solicitud,tengo que enviar mi vpucher de pago para mi carnet de universitario,11
+carnet_universitario__solicitud,ocmo tramito mi carnet universitario,11
+carnet_universitario__solicitud,q tramite hago para mi carnet universitario,11
+carnet_universitario__solicitud,cimo puedo tramitar mi carnet universitario,11
+carnet_universitario__solicitud,como solisitar mi carnet universitario,11
+carnet_universitario__solicitud,de mas debo hacer para obtener mi carnet univercitario ?,11
+matricula__cronograma,¿cuando es la matrícula?,12
+matricula__cronograma,¿cuales son los dias de matrícula?,12
+matricula__cronograma,hola porfavor quiero saber la fecha de matricula del siguiente ciclo,12
+matricula__cronograma,"buen día, quiero saber cuando es la matrícula",12
+matricula__cronograma,"hola, cuales son los dias de matricula",12
+matricula__cronograma,"buenas tardes, podria  decirme que dias son las fechas de la matricula",12
+matricula__cronograma,"buenas dias, cuales son las fechas de la matricula",12
+matricula__cronograma,"buenos días, deseo que saber cuando comienza la matrícula",12
+matricula__cronograma,"buenas tardes, como puedo saber el día de mi matrícula",12
+matricula__cronograma,"buenos días, quiero información sobre la fecha de matrícula",12
+matricula__cronograma,hola quiero saber cuando se hara la matricula en el siguiente ciclo,12
+matricula__cronograma,quiero saber en que fechas se hara la matricula,12
+matricula__cronograma,"hola aerito, me puedes decir donde encontrar el cronograma de matricula",12
+matricula__cronograma,hola porfavor dime la fecha de matricula del siguiente ciclo,12
+matricula__cronograma,"hola que tal, quisiera saber en que fechas se hará la matricula",12
+matricula__cronograma,ayudame a saber cual son las fechas de matricula,12
+matricula__cronograma,cual es el cronograma de matricula,12
+matricula__cronograma,si dime cuales son las fechas de matricula,12
+matricula__cronograma,deseo que saber cuando comienza la matrícula,12
+matricula__cronograma,quiero saber donde esta el cronograma de matricula,12
+matricula__cronograma,"si, quiero saber que dias son la matricula",12
+matricula__cronograma,"si, me puedes decir la fecha de la matricula",12
+matricula__cronograma,soy ingresante quiero saber cuando es la matricula,12
+matricula__cronograma,donde puede encontrar las fechas de la matricula,12
+matricula__cronograma,puedes decirme que dias son la matricula.,12
+matricula__cronograma,"entiendo, y cuando seran los dias de la matricula",12
+matricula__cronograma,como puedo saber el día de mi matricula,12
+matricula__cronograma,cual es la fecha de la matricula del siguiente ciclo?,12
+matricula__cronograma,me puedes decir cuando sera la matricula para el siguiente ciclo,12
+matricula__cronograma,en el siguiente periodo academico cuando sera la matricula segun el calendario,12
+matricula__cronograma,ya salio las fechas de las matriculas para el siguiente ciclo,12
+matricula__cronograma,en que parte puedo encontrar el calendario de las fechas de matricula,12
+matricula__cronograma,ya salieron las fechas de matricula este ciclo?,12
+matricula__cronograma,en donde publicaran la fechas de matricula ?,12
+matricula__cronograma,ya se publico las fechas de la matricula?,12
+matricula__cronograma,aun no se publican la fechas de la matricula?,12
+matricula__cronograma,tengo entendido que ya salieron las fechas de la matricula en donde lo puedo encontrar?,12
+matricula__cronograma,si ya salieron la fechas de la matricula me lo puedes enviar?,12
+matricula__cronograma,cuando se realizar la matricula el proximo ciclo,12
+matricula__cronograma,todavia no se tienen fecha para la matricula del siguiente ciclo?,12
+matricula__cronograma,el cronograma de la matricula ya salio?,12
+matricula__cronograma,una consulta ya se publico el cronograma de la matricula?,12
+matricula__cronograma,"buenas tardes , como puedo saber el díía de mi matrícula",12
+matricula__cronograma,como puedo saber el dia de mi matricula,12
+matricula__cronograma,en donde publicaran la fechas de marticula ?,12
+matricula__cronograma,"buenos días , deseo que saber cuando comienza la matricula",12
+matricula__cronograma,"ola , cuales son los dias de matricula",12
+matricula__cronograma,ya salio las fechas de las matriculas para el siguient ciclo,12
+matricula__cronograma,me puedes decjr cuando sera la matricula para el siguiente ciclo,12
+matricula__cronograma,donde puede encontrar las fecahs de la matricula,12
+matricula__cronograma,ya salieron las fechas de matricual este ciclo ?,12
+matricula__cronograma,"buensa dias , cuales son las fechas de la matricula",12
+matricula__cronograma,aun no se publian la fechas de la matricula ?,12
+matricula__cronograma,cual es el cronogama de matricula,12
+matricula__cronograma,cuando se reeaizar la matricula el proximo ciclo,12
+matricula__cronograma,quiero saberr donde esta el cronograma de matricula,12
+matricula__cronograma,¿ cuales son los dias de matricula ?,12
+matricula__cronograma,ya se publico las fechas de la matrculq ?,12
+matricula__cronograma,"entiendo , y cuando serran los dias de la matricula",12
+matricula__cronograma,"si , me puees decir la fecha de la matricula",12
+matricula__cronograma,tengo entendido q ya salieron las fechas de la matricula en donde lo puedo encontrar ?,12
+matricula__cronograma,"buuenos días , quiero información sobre la fecha de matrícula",12
+matricula__cronograma,"hola que tal , quiciera saber en que fechas se hará la matricula",12
+matricula__horarios,¿cuál es mi horario de matrícula?,13
+matricula__horarios,"buenos días, deseo que saber a que hora comienza la matrícula",13
+matricula__horarios,"buenas tardes, como puedo saber la hora de mi matrícula",13
+matricula__horarios,"buen día, a que hora inicia la matrícula",13
+matricula__horarios,"buen día, necesito saber cuando me toca matricularme",13
+matricula__horarios,"buenos días, quisiera información sobre los horarios de matrícula",13
+matricula__horarios,cuales son los horarios de la matricula?,13
+matricula__horarios,donde puedo encontrar los horarios de la matricula?,13
+matricula__horarios,"buen día, quiero saber cual es el horario de la matrícula",13
+matricula__horarios,"si, quiero saber cuales son los horarios de la matricula",13
+matricula__horarios,ya veo tambien quisiera saber  mi horario de matricula.,13
+matricula__horarios,"entiendo, me podria decir como saber mi horario de matricula.",13
+matricula__horarios,me podria decir como saber mi horario de matricula.,13
+matricula__horarios,si tambien quiero saber mi horario de matricula,13
+matricula__horarios,y como puedo saber mi horario de matriculas,13
+matricula__horarios,quiero saber en que horario debo ingresar para mi matricula,13
+matricula__horarios,donde puedo ver el horario que me ha tocado para realizar mi matricula,13
+matricula__horarios,como veo mi horario de matricula,13
+matricula__horarios,donde encuentro mi horario de matricula,13
+matricula__horarios,a que hora me toca mi matricula,13
+matricula__horarios,donde veo mi horario de matricula,13
+matricula__horarios,ya salieron los horario de la matricula,13
+matricula__horarios,a que hora me toca mi matricula,13
+matricula__horarios,me han dicho que la matricula es por horarios como se cuando es el mio,13
+matricula__horarios,cuando es mi hora de matricula,13
+matricula__horarios,como puedo saber si me toca hoy la matricula,13
+matricula__horarios,que dia y hora me toca la matricula,13
+matricula__horarios,necesito saber la fecha de mi matrícula,13
+matricula__horarios,cuando puedo matricularme,13
+matricula__horarios,a que hora me toca la matricula,13
+matricula__horarios,que tal aerito dime si ya salio mi hora de matricula?,13
+matricula__horarios,donde encuentro mi horario de matricula?,13
+matricula__horarios,una consulta como puedo saber a que hora me toca mi matricula?,13
+matricula__horarios,en donde puedo ver cual es mi hora para la matricula?,13
+matricula__horarios,que turno soy en la matricula?,13
+matricula__horarios,como veo cual es mi turno para la matricula?,13
+matricula__horarios,quiero saber mi turno para la matricula?,13
+matricula__horarios,ya estan disponibles los horarios para la matricula?,13
+matricula__horarios,ya se publicaron los horarios de la matricula?,13
+matricula__horarios,"hola aerito, una consulta ya salieron los horarios de la matricula?",13
+matricula__horarios,me comentaron que ya estan disponibles los horarios de la matricula donde los puedo ver?,13
+matricula__horarios,"buen día , a que hora inicia la matricula",13
+matricula__horarios,"si , quiero saber cuales son los horarios de la matricula",13
+matricula__horarios,ya veo tambien quisiear saber   mi horario de matricula .,13
+matricula__horarios,me comentaron q ya estan disponibles los horarios de la matricula donde los puedo ver ?,13
+matricula__horarios,"buenos días , quisiera información sobre los ohrarios de matrícula",13
+matricula__horarios,como beo mi horario de matricula,13
+matricula__horarios,cuando puedo matricularmme,13
+matricula__horarios,nesesito saber la fecha de mi matrícula,13
+matricula__horarios,donde encuentro mi horsrio de matricula ?,13
+matricula__horarios,q turno soy en la matricula ?,13
+matricula__horarios,si tmb quiero saber mi horario de matricula,13
+matricula__horarios,"buen día , quiero saber cual es el horario de la matricula",13
+matricula__horarios,cuals son los horarios de la matricula ?,13
+matricula__horarios,cuando es mi hpra de matricula,13
+matricula__horarios,donde puedo ver el horario que me ha tocado para realisar mi matricula,13
+matricula__horarios,ya estan diponibles los horarios para la matricula ?,13
+matricula__horarios,"entiendo , me podria decir como saber mi horaril de matricula .",13
+matricula__horarios,que tal aerito dime si ya slio mi hora de matricula ?,13
+matricula__horarios,como puedo saber sii me toca hoy la matricula,13
+matricula__horarios,"hola aerito , una consultaa ya salieron los horarios de la matricula ?",13
+matricula__horarios,donde encuentro mi horaroi de matricula,13
+pago_autoseguro__fechas,¿cuando se puede pagar el autoseguro?,14
+pago_autoseguro__fechas,hoy puedo pagar el autoseguro?,14
+pago_autoseguro__fechas,quisiera saber si aun puedo pagar el autoseguro mañana ya es la matricula,14
+pago_autoseguro__fechas,todavía puedo pagar el autoseguro para matricularme,14
+pago_autoseguro__fechas,quisiera saber hasta cuando puedo pagar el autoseguro,14
+pago_autoseguro__fechas,cuando se paga el autoseguro,14
+pago_autoseguro__fechas,"debo pagar el autoseguro antes de la matricula, hasta cuando puedo pagarlo",14
+pago_autoseguro__fechas,hasta cuando se paga el autoseguro,14
+pago_autoseguro__fechas,tengo una consulta con cuantos dias antes de la matricula se debe pagar el autoseguro,14
+pago_autoseguro__fechas,me puede dar las fechas del pago de autoseguro,14
+pago_autoseguro__fechas,si y cuando puedo pagar el autoseguro,14
+pago_autoseguro__fechas,y hasta cuando se debe pagar el autoseguro,14
+pago_autoseguro__fechas,si hasta que dia se puede pagar el autoseguro,14
+pago_autoseguro__fechas,"si recien me acorde que debo pagar el autoseguro antes de la matricula, hasta cuando puedo pagarlo",14
+pago_autoseguro__fechas,que dias se paga el autoseguro,14
+pago_autoseguro__fechas,dime cuando pagar el autoseguro,14
+pago_autoseguro__fechas,cual es la fecha limite para pagar el autoseguro?,14
+pago_autoseguro__fechas,hasta que dias puedo pagar el autoseguro?,14
+pago_autoseguro__fechas,el autoseguro debo pagarlo antes de la matricula?,14
+pago_autoseguro__fechas,el autoseguro puedo pagarlo un dia antes de la matricula?,14
+pago_autoseguro__fechas,debo para el autoseguro cuantos dias antes de la matricula?,14
+pago_autoseguro__fechas,"recien me entero que debo pagar el autoseguro, cual es la fecha limite para no ir a rezagado",14
+pago_autoseguro__fechas,¿que sucede si demore en realizar el pago de autoseguro?,14
+pago_autoseguro__fechas,"buenos días una consulta, hace 02 días pague el autoseguro, soy rezagado?",14
+pago_autoseguro__fechas,"buenas dias que tal, que pasa si no pago el autoseguro con los 3 dias de anticipación",14
+pago_autoseguro__fechas,"buenos dias, que pasa si no pago a tiempo el autoseguro",14
+pago_autoseguro__fechas,"oye, no se si voy a poder pagar el autoseguro hoy y creo que es el ultimo dia que pasa si no lo pago a tiempo",14
+pago_autoseguro__fechas,"hola, recien pague autoseguro y me toca mi matrícula mañana, sería rezagado?",14
+pago_autoseguro__fechas,"hola, si no pago a tiempo el autoseguro me voy a matricula rezagada ?",14
+pago_autoseguro__fechas,"hola aerito que tal, no pague a tiempo el autoseguro entonces me voy a rezagado ?",14
+pago_autoseguro__fechas,hola creo que no pague a tiempo el autoseguro que debo hacer,14
+pago_autoseguro__fechas,"buenos dias, quiero saber si no pague a tiempo el autoseguro me voy a rezagada la matricula",14
+pago_autoseguro__fechas,"hola aerito, tengo una consulta si no pago el autoseguro con los 3 dias de anticipación pasare a resagado ?",14
+pago_autoseguro__fechas,"buen día, acabo de pagar el autoseguro, estoy a tiempo?",14
+pago_autoseguro__fechas,"buenos días, hoy pague el autoseguro, soy rezagado?",14
+pago_autoseguro__fechas,no se si voy a pagar el autoseguro hoy y creo que es el ultimo dia que paso si no lo pago a tiempo,14
+pago_autoseguro__fechas,quiero saber si no pague a tiempo el autoseguro me voy a rezagada la matricula,14
+pago_autoseguro__fechas,"acabo de pagar el autoseguro, estoy a tiempo?",14
+pago_autoseguro__fechas,tengo una consulta si no pago el autoseguro con los 3 dias de anticipación pasare a rezagado ?,14
+pago_autoseguro__fechas,que pasa si no pago el autoseguro con dias de anticipacion a la matricula,14
+pago_autoseguro__fechas,"hace 02 días pague el autoseguro, soy rezagado?",14
+pago_autoseguro__fechas,que pasa si no pago el autoseguro con los 3 dias de anticipación?,14
+pago_autoseguro__fechas,creo que no pague a tiempo el autoseguro que debo hacer?,14
+pago_autoseguro__fechas,"recien pague autoseguro y me toca mi matrícula mañana, sería rezagado?",14
+pago_autoseguro__fechas,no pague a tiempo el autoseguro entonces me voy a rezagado ?,14
+pago_autoseguro__fechas,si queria saber si no lo pago a tiempo que debo hacer,14
+pago_autoseguro__fechas,si no lo pago hoy me ire a rezagado?,14
+pago_autoseguro__fechas,"si demore en realizar el pago de autoseguro, que pasará?",14
+pago_autoseguro__fechas,entonces si no pago a tiempo el autoseguro me ire a rezagado,14
+pago_autoseguro__fechas,si no pago a tiempo  me voy a matricula rezagada ?,14
+pago_autoseguro__fechas,"tengo una consulta sobre la matrícula dado que el día de hoy realize el pago de autoseguro, puedo matricularme de forma normal o paso a rezagado",14
+pago_autoseguro__fechas,"hoy pague el autoseguro, soy rezagado?",14
+pago_autoseguro__fechas,entonces si no pago a tiempo me voy a matricula rezagada,14
+pago_autoseguro__fechas,soy rezagado si no pago el autoseguro con dias de anticipacion a la matricula,14
+pago_autoseguro__fechas,me confundi en las fechas de matricula y recien acado pagar el autoseguro faltando un dia para la matricula. entonces voy a rezagado?,14
+pago_autoseguro__fechas,que pasa si no pago el autoseguro a tiempo,14
+pago_autoseguro__fechas,me confundi en las fechas de matricula y recien acado pagar el auto seguro faltando un dia para la matricula . entonces voy a resagado ?,14
+pago_autoseguro__fechas,cuando se paga el auto-seguro,14
+pago_autoseguro__fechas,que pasa si no pago el autoseguro con disa de anticipacion a la matricula,14
+pago_autoseguro__fechas,tengo una consulta si no pago el auto seguro con los 3 dias de anticipación pasare a rezagado ?,14
+pago_autoseguro__fechas,"hola aerito , tengo una consulta si no pago el auto seguro con los 3 ias de anticipación pasare a resagado ?",14
+pago_autoseguro__fechas,"buenas dias q tal , q pasa si no pago el autoseguro con los 3 dias de anticipación",14
+pago_autoseguro__fechas,"hloa aerito que tal , no pague a tiempo el autoseguro entonces me voy a rezagado ?",14
+pago_autoseguro__fechas,"acabo de pagar el auto-seguro , estoy a tiempo ?",14
+pago_autoseguro__fechas,no se si voy a pagar el auto seguro hoy y creo q es el ultimo dia que paso si no lo pago a tiempo,14
+pago_autoseguro__fechas,quisiera sbaer si aun puedo pagar el autoseguro mañana ya es la matricula,14
+pago_autoseguro__fechas,"hola , si no pago a tiempo el autoseguro me voy a matricula rezagdaa ?",14
+pago_autoseguro__fechas,quiero sxbr si no pague a tiempo el autoseguro me voy a rezagada la matricula,14
+pago_autoseguro__fechas,que pasa si no pago el auto-seguro con los 3 dias de anticipación ?,14
+pago_autoseguro__fechas,si hasta que dia se puede pagar el auto seguro,14
+pago_autoseguro__fechas,debo para el autoseguro cuantos diias antes de la matricula ?,14
+pago_autoseguro__fechas,entonces si no pago a tiempo me voy a ¿atricula rezagada,14
+pago_autoseguro__fechas,hola creo que no pague a tiempo el auto-seguro que debo hacer,14
+pago_autoseguro__fechas,"hoy pague el autoceguro , soy rezagado ?",14
+pago_autoseguro__fechas,me peude dar las fechas del pago de autoseguro,14
+pago_autoseguro__fechas,todavía puueedo pagar el autoseguro para matricularme,14
+pago_autoseguro__fechas,si queria saber si no lo pago a tiempo q debo hacer,14
+pago_autoseguro__fechas,"debo pagar el auto-seguro antes de la matricula , hasta cuando puedo pagarlo",14
+pago_autoseguro__fechas,"recieen me entero que debo pagar el autoseguro , cual es la fecha limite para no ir a rezagadoo",14
+pago_autoseguro__fechas,q pasa si no pago el autoseguro a tiempo,14
+pago_autoseguro__fechas,y hasta cuando se debe pagar el auto seguro,14
+pago_autoseguro__fechas,hoy puedo pagar el auto-seguro ?,14
+pago_autoseguro__fechas,hasta cuando se paga el auto-seguro,14
+pago_autoseguro__fechas,¿ que sucede si demore en realizar el pago de auto seguro ?,14
+pago_autoseguro_procedimiento,¿como realizo el pago de autoseguro?,15
+pago_autoseguro_procedimiento,"buenas, cual es el procedimiento para pagar el autoseguro",15
+pago_autoseguro_procedimiento,"hola aerito, quiero saber como pagar el autoseguro",15
+pago_autoseguro_procedimiento,"hola, como puedo realizar el pago del autoseguro",15
+pago_autoseguro_procedimiento,"buen dia, donde pago el autoseguro?",15
+pago_autoseguro_procedimiento,"buenas tardes, como pago el autoseguro",15
+pago_autoseguro_procedimiento,"buenas tardes, en que banco pago el autoseguro",15
+pago_autoseguro_procedimiento,hola hoy quiero pagar el autoseguro puedes decirme como,15
+pago_autoseguro_procedimiento,"buenas dias, como hago para pagar el autoseguro",15
+pago_autoseguro_procedimiento,"hola, como pago el autoseguro",15
+pago_autoseguro_procedimiento,buenas dias es que me han dicho que pague el autoseguro pero no entiendo como,15
+pago_autoseguro_procedimiento,"buenas, como pago lo del autoseguro",15
+pago_autoseguro_procedimiento,"hola que tal, pude decirme como pagar el autoseguro",15
+pago_autoseguro_procedimiento,"buen día, como realizo el pago del autoseguro",15
+pago_autoseguro_procedimiento,"hola, para pagar el autoseguro que debo hacer",15
+pago_autoseguro_procedimiento,"buenas tardes, como pago el concepto de autoseguro",15
+pago_autoseguro_procedimiento,entonces como hago para pagar el autoseguro,15
+pago_autoseguro_procedimiento,quiero saber como es el método para pagar el autoseguro,15
+pago_autoseguro_procedimiento,como puedo realizar el pago de autoseguro,15
+pago_autoseguro_procedimiento,cual es el proceso para pagar el autoseguro,15
+pago_autoseguro_procedimiento,quiero pagar el autoseguro que debo hacer,15
+pago_autoseguro_procedimiento,el pago de autoseguro se hace en el banco bcp o como,15
+pago_autoseguro_procedimiento,por que banco que paga el autoseguro,15
+pago_autoseguro_procedimiento,quiero realizar el pago del autoseguro,15
+pago_autoseguro_procedimiento,dime que hacer para pagar el autoseguro,15
+pago_autoseguro_procedimiento,"puedes decirme que hacer para pagar el autoseguro, creo que ha cambiado el metodo",15
+pago_autoseguro_procedimiento,cual es el procedimiento para pagar el autoseguro,15
+pago_autoseguro_procedimiento,porfa ayudame no se como pagar el autoseguro,15
+pago_autoseguro_procedimiento,tengo una consulta como puedo pagar el autoseguro,15
+pago_autoseguro_procedimiento,cual es el metodo para pagar el autoseguro,15
+pago_autoseguro_procedimiento,para pagar el autoseguro debo emitir orden de pago ?,15
+pago_autoseguro_procedimiento,si quiera saber como hacer el pago de autoseguro,15
+pago_autoseguro_procedimiento,cual es metodo actual para pagar el autoseguro,15
+pago_autoseguro_procedimiento,en donde y cuanto debo pagar por el autoseguro?,15
+pago_autoseguro_procedimiento,por favor dime cuanto y adonde debo ir para pagar el autoseguro?,15
+pago_autoseguro_procedimiento,el autoseguro se paga en banco scotiabank?,15
+pago_autoseguro_procedimiento,en que entidad bancaria se puede pagar el autoseguro?,15
+pago_autoseguro_procedimiento,el autoseguro se paga en caja uni?,15
+pago_autoseguro_procedimiento,puedo pagar el autoseguro en el bcp?,15
+pago_autoseguro_procedimiento,puedo pagar el autoseguro por yape?,15
+pago_autoseguro_procedimiento,en donde puedo pagar el autoseguro?,15
+pago_autoseguro_procedimiento,"buen dia , donde pago el autosegui ?",15
+pago_autoseguro_procedimiento,hola hoy quiero pagar el auto-seguro puedes decirme como,15
+pago_autoseguro_procedimiento,is quiera saber como hacer el pago de autoseguro,15
+pago_autoseguro_procedimiento,por favor dime cuanto y adonde debo ir para pagar el auto seguro ?,15
+pago_autoseguro_procedimiento,"buenas , cual es el procedimiento para pagar el auto seguro",15
+pago_autoseguro_procedimiento,cua es metodo actual para pagar el autoseguro,15
+pago_autoseguro_procedimiento,"buegas tardes , como pago el concepto de autoseguro",15
+pago_autoseguro_procedimiento,"ola , como pago el autoseguro",15
+pago_autoseguro_procedimiento,cim puedo realizar el pago de autoseguro,15
+pago_autoseguro_procedimiento,lorfa ayudame no se como pagar el autoseguro,15
+pago_autoseguro_procedimiento,¿ como realizo el pago de auto seguro ?,15
+pago_autoseguro_procedimiento,cual es el proceso para pagaaf el autoseguro,15
+pago_autoseguro_procedimiento,"buenas , como pago lo del auto-seguro",15
+pago_autoseguro_procedimiento,puedo pagar el auhoseguro por yape ?,15
+pago_autoseguro_procedimiento,el auto-seguro se paga en banco scotiabank ?,15
+pago_autoseguro_procedimiento,"buen día , como realizo el pago del auto seguro",15
+pago_autoseguro_procedimiento,"buenas tardes , como pago el auto-seguro",15
+pago_autoseguro_procedimiento,el pago de autoseguro se hae en el banco bcp o como,15
+pago_autoseguro_procedimiento,quiero realizar el oago del autoseguro,15
+pago_autoseguro_procedimiento,"hola aerito , quierp saber como pagar el autoseguro",15
+pago_autoseguro_procedimiento,entonce como hago para pagar el autoseguro,15
+perdida_turno_matricula,¿como puedo matricularme si perdí mi turno de matricula?,16
+perdida_turno_matricula,"hola, he tenido problemas de conexion y no llegue a matricularme que debo hacer",16
+perdida_turno_matricula,tuve problemas con mi internet y no puede matricularme que debo hacer,16
+perdida_turno_matricula,"buenas, tuve problemas para realizar mi matricula y no pude matricularme que debo hacer",16
+perdida_turno_matricula,"buenas, perdí mi turno de matricula como procedo ahora",16
+perdida_turno_matricula,"hola, no tuve internet y no pude matricularme que debo hacer",16
+perdida_turno_matricula,"hola, quisiera saber que hacer por que no pude matricularme en mi horario no tuve internet",16
+perdida_turno_matricula,parece que hubo una falla de la red por mi zona y no tuve internet todo el dia por lo que no pude matricularme que debo hacer ahora,16
+perdida_turno_matricula,"buen día, perdí mi horario de matrícula, que hago",16
+perdida_turno_matricula,"tuve problemas de conexión y no pude entrar en mi horario de matrícula, que puedo hacer",16
+perdida_turno_matricula,"hola, si perdí mi turno pasaría ha rezagado entonces ?",16
+perdida_turno_matricula,"buenos dias, no pude conectarme en mi horario de matricula",16
+perdida_turno_matricula,que pasa si perdí mi horario de matrícula,16
+perdida_turno_matricula,no pude matricularme que debería hacer ahora,16
+perdida_turno_matricula,"buenas noches, no he tenido internet todo el dia y no pude matricularme que debo hacer",16
+perdida_turno_matricula,no vi el horario y se me paso mi turno de matricularme como hago ahora para matricularme,16
+perdida_turno_matricula,"buenas que tal, si no llegue a matricularme en mi turno pasaría a rezagado ?",16
+perdida_turno_matricula,perdi mi turno para matricularme como procedo,16
+perdida_turno_matricula,"buen día, no logre matricularme",16
+perdida_turno_matricula,"hola, no pude entrar en mi turno de matrícula, que puedo hacer",16
+perdida_turno_matricula,"buenas tardes, hoy me toco matricularme pero no me pude conectar que puedo hacer",16
+perdida_turno_matricula,"buenas tardes, no me percate bien y perdi mi turno de matricula que debo hacer",16
+perdida_turno_matricula,acabo de perder mi turno de matricula como me matriculo ahora,16
+perdida_turno_matricula,no puede matricularme por problemas de internet paso a matricula rezagada entonces ?,16
+perdida_turno_matricula,acabo de perder mi turno de matricula paso entonces a matricula rezagada?,16
+perdida_turno_matricula,si perdi mi turno de matricula paso a rezagado ?,16
+perdida_turno_matricula,perdi mi turno de matricula que debo hacer,16
+perdida_turno_matricula,acabo de perder mi turno de matricula,16
+perdida_turno_matricula,tuve algunes problemas de red y no pude matricular el sistema ahora ya no me deja que hago,16
+perdida_turno_matricula,el sistema no me deja matricularme y ya paso mi turno que debo hacer,16
+perdida_turno_matricula,no pude matricularme a tiempo y ya paso la matricula que hago,16
+perdida_turno_matricula,como puedo realizar mi matricula si ya perdi mi turno?,16
+perdida_turno_matricula,"no me puder conectar en hora de matricula y ya perdi mi turno. es sistema ya no me esta dejando matricularme, entiendo que ahora paso a matricula rezagada?",16
+perdida_turno_matricula,perdi mi turno de matricula paso entonces a rezagado?,16
+perdida_turno_matricula,tuve problemas con mi internet y no pueede matricularme que debo hacer,16
+perdida_turno_matricula,"buen día , perdí mi horario de matrícaul , que hago",16
+perdida_turno_matricula,"buenas , perdí mi turno de matricula como proccedo ahora",16
+perdida_turno_matricula,parece que hubo una falla de la red por mi zona y no tuve internet todo el dia por lo uqe no pude matricularme que debo acer ahora,16
+perdida_turno_matricula,acabo de perder mi turno de matricula paso entonces a mxtrifula rezagada ?,16
+perdida_turno_matricula,"buenas tardes , ho me toco matricularme pero no me pude conectar que puedo hacer",16
+perdida_turno_matricula,"buenos dias , no pdue conectarme en mi horario de matricula",16
+perdida_turno_matricula,acabo de perdre mi turno de matricula,16
+perdida_turno_matricula,que pasa i perdí mi horario de matrícula,16
+perdida_turno_matricula,"buen dia , no logre matricularme",16
+perdida_turno_matricula,"hola , he tenido problemas de conexion y no llegue a matriuclarme que debo hacer",16
+perdida_turno_matricula,"hola , no pude entrar en mi turno de matrícula , que pedo hacer",16
+perdida_turno_matricula,como puedo realizar mi matricula si ya perdi mi trno ?,16
+perdida_turno_matricula,"buenas noches , no he tenido internet todo el dia y no pude matricularme q debo hacer",16
+perdida_turno_matricula,peerdi mi turno de matricula que debo hacer,16
+perdida_turno_matricula,acabo de perder mi turno de matricula cojjo me matriculo ahora,16
+perdida_turno_matricula,tuve alguens problemas de red y no pude matricular el sistema ahora ya no me deja que hago,16
+matricula_rezagada__procedimiento,¿cuál es el procedimiento para la matricula rezagada?,17
+matricula_rezagada__procedimiento,hola mi matricula paso a rezagada cual es el procedimiento,17
+matricula_rezagada__procedimiento,"buenos dias, no pude matricularme en la fecha que me correspondía, cual es el procedimiento para rezagado",17
+matricula_rezagada__procedimiento,hola ayudame quiero saber como es el procedimiento para el pago de matricula rezagada,17
+matricula_rezagada__procedimiento,como es el procedimiento para la matricula rezagada,17
+matricula_rezagada__procedimiento,"buenas dias, mi matricula paso a rezagada como debo proceder",17
+matricula_rezagada__procedimiento,"buenas tardes, me dijeron que mi matricula paso a rezagada pero no se que debo hacer",17
+matricula_rezagada__procedimiento,"hola, disculpe como realiza la matricula rezagada",17
+matricula_rezagada__procedimiento,"hola, como me matriculo por rezagado",17
+matricula_rezagada__procedimiento,"hola, cual es procedimiento para matricularme por rezagada",17
+matricula_rezagada__procedimiento,"buenas, quiero saber como tramitar mi matricula rezagada",17
+matricula_rezagada__procedimiento,"hola, no pude matricularme y me dicen que pase a matricula rezagada que debo de hacer",17
+matricula_rezagada__procedimiento,"buenas tardes, cual es procedimiento para habilitar mi matricula rezagada",17
+matricula_rezagada__procedimiento,"buenas noches, que pasos debo seguir para la matricula rezagada",17
+matricula_rezagada__procedimiento,"hola, dime para la matricula rezagada debo pagar ?",17
+matricula_rezagada__procedimiento,no pude matricularme a tiempo cual es procedimiento para la matricula rezagada,17
+matricula_rezagada__procedimiento,como me matriculo como rezagado,17
+matricula_rezagada__procedimiento,que hago para que se me habilite el sistema de matricula por rezagado,17
+matricula_rezagada__procedimiento,no pude matricularme y me han dicho que mi matricula paso a rezagado cuales son los pasos,17
+matricula_rezagada__procedimiento,dime como puedo tramitar mi matricula rezagada,17
+matricula_rezagada__procedimiento,cuales son los requisitos para que me habiliten la matricula rezagada,17
+matricula_rezagada__procedimiento,debo pagar algo para que me habiliten la matricula rezagada,17
+matricula_rezagada__procedimiento,que debo pagar y a donde debo enviar el voucher para que se me habilite la matricula rezagada,17
+matricula_rezagada__procedimiento,ahora que mi matricula paso a rezagados que debo hacer no entiendo,17
+matricula_rezagada__procedimiento,cuales son los requisitos para la matricula rezagada,17
+matricula_rezagada__procedimiento,a quien solicito la matricula rezagada,17
+matricula_rezagada__procedimiento,para solicitar la matricula rezagada que debo hacer,17
+matricula_rezagada__procedimiento,disculpa cual es procedimiento para poder matricularme por rezagado,17
+matricula_rezagada__procedimiento,pase a mtracula rezagada cual es el proceso,17
+matricula_rezagada__procedimiento,no pague mi autoseguro a tiempo y ahora me mandaraon a rezago como proceso,17
+matricula_rezagada__procedimiento,como procedo con la matricula rezagada,17
+matricula_rezagada__procedimiento,de pagos debo hacer para la matricula rezagado,17
+matricula_rezagada__procedimiento,hay algun pago extra que debo hacer por matricula rezagada,17
+matricula_rezagada__procedimiento,recien paga mi autoseguro y me mandaron a rezagado como procedo,17
+matricula_rezagada__procedimiento,me mandaron a rezagado como realizo mi matricula,17
+matricula_rezagada__procedimiento,no pague el autoseguiro y el carnet a tiempo me dijeron que paso a rezagado debo hacer algun tramite o se habilitara automaticamente mi matricula,17
+matricula_rezagada__procedimiento,"hola , cual es procedimiento para matricuoarme por rezagada",17
+matricula_rezagada__procedimiento,"buenas , quiero saber como ttramitar mi matricula rezagada",17
+matricula_rezagada__procedimiento,debo pagar algo para que me habiliten la matricula resagada,17
+matricula_rezagada__procedimiento,"buenos dias , no pude matricularme en la fecha que me correspondía , cual es el prosedimiento para rezagado",17
+matricula_rezagada__procedimiento,hola mi matricula paso a rezagada cual es el prosedimiento,17
+matricula_rezagada__procedimiento,hay algun pago eextar que debo hacer por matricula rezagada,17
+matricula_rezagada__procedimiento,de pagos debo hacer para la matricula resagado,17
+matricula_rezagada__procedimiento,cuales son los requisitos para q me habiliten la matricula rezagada,17
+matricula_rezagada__procedimiento,cuales son los requisitos para la matricula resagada,17
+matricula_rezagada__procedimiento,no pude matricularme y me han dicho que mi matricula psso a rezagado cuales son los pasos,17
+matricula_rezagada__procedimiento,"hola , coom me matriculo por rezagado",17
+matricula_rezagada__procedimiento,pase a mtracula resagada cual es el proceso,17
+matricula_rezagada__procedimiento,"buenas tardes , me dijeron que mi matricula paso a rezagada pero no se que debo acer",17
+matricula_rezagada__procedimiento,para solicitar la matricula rezaagda que debo hacer,17
+matricula_rezagada__procedimiento,"buenas noches , que pasos debo seguir para la matricula resagada",17
+matricula_rezagada__procedimiento,dime como puedo tramitar mi matricula rezagzda,17
+matricula_rezagada__procedimiento,¿ cuál es el prosedimiento para la matricula rezagada ?,17
+matricula_rezagada__procedimiento,no pude matricularme a tiempo cual es procedimiento para la matricula rezagadda,17
+cambio_seccion,¿cuál es procedimiento para hacer un cambio de sección?,18
+cambio_seccion,buenas tardes amigo puedes decirme como hacer un cambio de seccion,18
+cambio_seccion,"hola que tal aerito, quiero hacer un cambio de horario ya que tengo un cruce en el curso de fundamentos de programacion",18
+cambio_seccion,"hola que tal, dime como realizo un cambio de seccion",18
+cambio_seccion,"hola, deseo realizar un cambio de sección como se realiza",18
+cambio_seccion,buenos dias dime como realizar un cambio de horario de un curso,18
+cambio_seccion,buenas quiero cambiarme el horario del curso de biología es posible?,18
+cambio_seccion,"hola, necesito hacer un cambio de seccion por que se me crusan los horarios de teoria",18
+cambio_seccion,"hola aerito, tengo problemas con mi horario actual del curso de fisica i en la sección b, quiero hacer el cambio a la seccion a",18
+cambio_seccion,"hola que tal, quiero hacer un cambio de horario en el curso de quimica general",18
+cambio_seccion,"hola, dime como realizo el cambio de seccion de un curso",18
+cambio_seccion,"hola, quiero hacer un cambio de seccion",18
+cambio_seccion,buenos dias como realizo un cambio de horario de un curso,18
+cambio_seccion,"buenos días, quiero hacer un cambio de sección",18
+cambio_seccion,quiero hacer un cambio de horario en curso de quimica general,18
+cambio_seccion,"tengo problemas con mi horario actual del curso de fisica i en la seccion b, quiero hacer el cambio a la seccion a",18
+cambio_seccion,por favor ayudame a hacer un cambio de seccion,18
+cambio_seccion,ayudame hacer un cambio de seccion,18
+cambio_seccion,necesito hacer un cambio de seccion me puedes ayudar,18
+cambio_seccion,me puedes ayudar con un cambio de seccion,18
+cambio_seccion,como hago el cambio de seccion del curso de fundamentos de programacion,18
+cambio_seccion,como hago el cambio de seccion del curso de fisica ii,18
+cambio_seccion,como realizo el cambio de horario de un curso,18
+cambio_seccion,quiero saber el procedimiento de un cambio de seccion por que tengo un cruce,18
+cambio_seccion,dime cual el procedimiento para hacer un cambio de seccion de un curso,18
+cambio_seccion,puedes ayudarme quiero hacer un cambio de seccion,18
+cambio_seccion,tengo un problema con los horarios de un curso quisiera solicitar un cambio de seccion a donde lo pido?,18
+cambio_seccion,se me crusa una hora en del horario de teoria del curso de calculo direncial con biologia como puedo solicitar un cambio de horario,18
+cambio_seccion,quiero cambiarme de seccion el curso de quimica general se me hace imposible venir a esa hora,18
+cambio_seccion,quiero cambiar a la seccion b en el curso de fundamentos de programacion en donde lo pido,18
+cambio_seccion,por ffavor ayudame a hacer un cambio de seccion,18
+cambio_seccion,quiero acer un cambio de horario en curso de quimica general,18
+cambio_seccion,dime cual el procedimiento para hacer un cambo de seccion de un curso,18
+cambio_seccion,ayudame acer un cambio de seccion,18
+cambio_seccion,"hola aerito , tengo problemas con mi horario actual del curso de fisica  en la secsion b , quiero hacer el cambio a la seccion a",18
+cambio_seccion,me puees ayudar con un cambio de seccion,18
+cambio_seccion,como hago el cambio de seccion del curso de fisica j,18
+cambio_seccion,se me crusa una hor en del horairo de teoria del curso de calculo direncial con biologia como puedo solicitar un cambio de horario,18
+cambio_seccion,"hola quue tal , dime como realizo un cambio de seccion",18
+cambio_seccion,"hola , deseo realizar un cambio de seccion como se realiza",18
+cambio_seccion,quiero saber el procedimiento de un cambio de seccion por q tengo un cruce,18
+cambio_seccion,buenos dias como realizo un cambioo de horario de un curso,18
+cambio_seccion,"hola , quiero acer un cambio de seccion",18
+cambio_seccion,"hola , dime como realiizoo el cambio de seccion de un curso",18
+cambio_seccion,tengo un problema con los horarrrios de un curso quisiera solicitar un cambio de seccion a donde lo pido ?,18
+cursos_horarios,¿donde puedo ver los horarios de los cursos de este ciclo?,19
+cursos_horarios,"que tal, quiero saber el horario de un curso",19
+cursos_horarios,"hola, me puedes ayudar no encuentro los horarios de los cursos",19
+cursos_horarios,"hola que tal aerito, dime donde encuentro los horarios de los cursos",19
+cursos_horarios,"hola, no logro encontrar los horarios de los cursos donde estas ?",19
+cursos_horarios,"hola que tal, quiero saber el horario de mis cursos",19
+cursos_horarios,"buenos tardes, dime donde puedo encontrar los horarios de los cursos",19
+cursos_horarios,donde encuentro los horarios de los cursos,19
+cursos_horarios,sabes donde puedo encontrar los horarios de las asignaturas para este semestre,19
+cursos_horarios,puedes decirme donde encontrar el horario de los cursos,19
+cursos_horarios,donde puedo encontrar los horarios de los cursos,19
+cursos_horarios,quiero saber los horario de los cursos de este ciclo,19
+cursos_horarios,donde publicaran los horarios de los curso para este ciclo,19
+cursos_horarios,quisiera los el horario de los cursos de este periodo academico,19
+cursos_horarios,quiero saber el horario de mis asignaturas,19
+cursos_horarios,no encuentro los horarios de los curso de este ciclo donde estan?,19
+cursos_horarios,cual es el horario del curso de algoritmos y estructuras de datos?,19
+cursos_horarios,cual es el horario de la seccion b del curso de calculo diferencial ?,19
+cursos_horarios,en que horario se dicta el curso de quimica i?,19
+cursos_horarios,cuando se dicta el curso de fisica i?,19
+cursos_horarios,el curso de programacion orientada a objetos se dicta el lunes?,19
+cursos_horarios,dime cual el dia que se dicta el curso de matematica discreta?,19
+cursos_horarios,que dias se dicta el curso de ingles i?,19
+cursos_horarios,aerito ya salieron los horarios de los cursos?,19
+cursos_horarios,aerito forvaor dime si ya estan los horarios de los cursos,19
+cursos_horarios,ya estan disponibles los hoarios de los cursos?,19
+cursos_horarios,a que hora comienza las clases del curso de biologia?,19
+cursos_horarios,cual es el horario para la seccion b del curso de quimica i?,19
+cursos_horarios,"hola, quiero saber el horario del curso de fisica iii",19
+cursos_horarios,"buenas dias, me podria decir cuales son los horarios para el curso de algoritmos",19
+cursos_horarios,"buenas noches, quiero saber el curso de electomagnetismo",19
+cursos_horarios,quiero saber el horario del curso de algebra lineal para fisicos,19
+cursos_horarios,dime cual el horario del curso de calculo diferencial e integral avanzado,19
+cursos_horarios,dime el horario de calculo integral,19
+cursos_horarios,ya salieron los horarios de los cursos?,19
+cursos_horarios,"hola aerito, dime los horarios de los cursos ya estan publicados?",19
+cursos_horarios,cuando se publican los horarios de los cursos?,19
+cursos_horarios,cuando salen los horarios de los cursos,19
+cursos_horarios,todavia no ha salido los horarios de los cursos?,19
+cursos_horarios,cuando salen los horarios de los cursos?,19
+cursos_horarios,quiciera los el horario de los cursos de este periodo academico,19
+cursos_horarios,quiero sabe el horario del curso de algebra lineal para fisicos,19
+cursos_horarios,el crso de programacion orientada a objetos se dicta el lunes ?,19
+cursos_horarios,"buenas noches , quiero saber el curso de eletcomagnetimso",19
+cursos_horarios,q dias se dicta el curso de ingles i ?,19
+cursos_horarios,cual es el hrario de la seccion b del curso de calculo diferencial ?,19
+cursos_horarios,en q horario se dicta el curso de quimica i ?,19
+cursos_horarios,donde encuentro los hrarios de los cursos,19
+cursos_horarios,aerito orvaor dime si ya estan los horarios de los cursos,19
+cursos_horarios,"hola , auiero saber el horario del curso de fisica iii",19
+cursos_horarios,donde oubllcaran los horarios de los curso para este ciclo,19
+cursos_horarios,a que hora comienzw las clases del curso de biologia ?,19
+cursos_horarios,quiero saber los horario de los cutsos de este ciclo,19
+cursos_horarios,todavia no ha salido los horarois de los cursos ?,19
+cursos_horarios,ya estan disponkbles los hoarios de los cursos ?,19
+cursos_horarios,"hloa , no logro encontrar los horarios de los cursos donde estas ?",19
+cursos_horarios,puedes deciirme donde encontrar el horario de los cursos,19
+cursos_horarios,"que tal , uiero saber el horario de un curso",19
+cursos_horarios,aerito ya salieron los hroarios de los cursos ?,19
+cursos_horarios,"ola , me puedes ayudar no encuentro los horarios de los cursos",19
+retiro_parcial__fechas,¿en que semana se realiza el retiro parcial?,20
+retiro_parcial__fechas,hasta cuándo puedo hacer el retiro parcial?,20
+retiro_parcial__fechas,una duda a partir de semana puedo solicitar el retiro parcial ?,20
+retiro_parcial__fechas,en que semana puedo realizar el retiro parcial?,20
+retiro_parcial__fechas,y hasta cuando podria enviar la solicitud de retiro parcial?,20
+retiro_parcial__fechas,hasta cuando hacer el retiro de un curso ?,20
+retiro_parcial__fechas,quisiera saber hasta que dias puedo hacer el retiro parcial ?,20
+retiro_parcial__fechas,una consulta cuando se habilitara en el sistema el retiro parcial?,20
+retiro_parcial__fechas,me prodrían decir la fecha máxima para hacer el retiro parcial?,20
+retiro_parcial__fechas,quiero solicitar el retiro de un curso hasta cuando puedo hacerlo ?,20
+retiro_parcial__fechas,hasta que fecha podría hacer el retiro parcial?,20
+retiro_parcial__fechas,"una consulta estamos ya en la cuarta semana de clases, podria hacer el retiro parcial ?",20
+retiro_parcial__fechas,"hola, he querido retirarme de un curso pero me parece que un no esta habilitado cuando se habilitara el retiro parcial?",20
+retiro_parcial__fechas,"buenos dias, cuando puedo realizar el retiro de un curso",20
+retiro_parcial__fechas,cuando puedo realizar el retiro de una asignatura,20
+retiro_parcial__fechas,"hola, ¿cuándo son las fechas para el retiro parcial?",20
+retiro_parcial__fechas,"hola, quiero retirarme de unos cursos y quiero saber las fechas",20
+retiro_parcial__fechas,quiero retirarme algunas asignaturas y quiero saber las fechas,20
+retiro_parcial__fechas,"hola, una consulta cuando se habilitara el retiro parcial",20
+retiro_parcial__fechas,"buenos dias, quisiera saber cuando vence el plazo de retiro parcial",20
+retiro_parcial__fechas,"hola, una duda estamos en la cuarta semana de clases puedo hacer el retiro parcial?",20
+retiro_parcial__fechas,"buenas, quisiera saber si aún se puede hacer el retiro parcial, el motivo es que estoy con tratamiento psiquiátrico y me recomendaron que me retire de algunos cursos",20
+retiro_parcial__fechas,"buenos días, cuándo es la fecha para el retiro parcial?",20
+retiro_parcial__fechas,"hola, ¿hasta cuando puedo hacer el retiro parcial?",20
+retiro_parcial__fechas,"hola aerito, hasta que dias puedo realizar el retiro parcial",20
+retiro_parcial__fechas,"hola, cuándo inicia el retiro parcial?",20
+retiro_parcial__fechas,"hola, una duda el retiro parcial se habilitara en la quinta semana de clases ?",20
+retiro_parcial__fechas,"hola, tengo una duda en que semana se habilitara el retiro parcial",20
+retiro_parcial__fechas,"buenas, ¿cuáles son las fechas para realizar el retiro parcial?",20
+retiro_parcial__fechas,"hola, quisiera retirarme de un curso me podria decir hasta cuando se habilitara en el sistema ?",20
+retiro_parcial__fechas,cuando es el retiro parcial,20
+retiro_parcial__fechas,puedo hacer el retiro parcial todavia estamos ya en la sexta semana?,20
+retiro_parcial__fechas,el retiro parcial se puede pedir en la primera semana?,20
+retiro_parcial__fechas,puedo solicitar el retiro parcial en la quinta semana?,20
+retiro_parcial__fechas,el la segunda semana ya puedo retirarme de un curso?,20
+retiro_parcial__fechas,quiero saber la fechas para poder retirarme de algunos cursos,20
+retiro_parcial__fechas,el retiro parcial se puede pedir en la primera semanx ?,20
+retiro_parcial__fechas,"bunos dias , quisiera saber cuando vence el plazo de retiro parcial",20
+retiro_parcial__fechas,una consulta cuando se habilitara en el sistema el retito parcial ?,20
+retiro_parcial__fechas,"hola , una consultq cuando se habilitara el retiro parcial",20
+retiro_parcial__fechas,"hola , ¿ hasta cuando puedo hacer el retiro parcail ?",20
+retiro_parcial__fechas,el la segnda semana ya puedo retirarme de un curso ?,20
+retiro_parcial__fechas,puedo solicitar el retiro parcial en la quintq semana ?,20
+retiro_parcial__fechas,"ola , quisiera retirarme de un curso me podria decir hasta cuando se habilitara en el sistema ?",20
+retiro_parcial__fechas,y hasta cuando podria enviar la solicitu de retiro parcial ?,20
+retiro_parcial__fechas,"hooola , ¿ cuándo son las fechas para el retiro parcial ?",20
+retiro_parcial__fechas,"hola , tengo una duda en que semana se habilitara el retiiro parcial",20
+retiro_parcial__fechas,cuando puedo realisar el retiro de una asignatura,20
+retiro_parcial__fechas,puedo acer el retiro parcial todavia estamos ya en la sexta semana ?,20
+retiro_parcial__fechas,cuando es el retiro pracial,20
+retiro_parcial__fechas,"una consulta estamos ya en la cuarta semana de clases , podria hacer el retiro parcial ?",20
+retiro_parcial__fechas,"buenos dias , cuando puedo realisar el retiro de un curso",20
+retiro_parcial__fechas,quiero rwtirarme algunas asignaturas y quiero saber las fechas,20
+retiro_parcial__fechas,"hola , una duda el retiro parcial se habilitara en la quinta aemana de clases ?",20
+retiro_parcial__procedimiento,¿cómo realizo un retiro parcial?,21
+retiro_parcial__procedimiento,como hago un retiro parcial,21
+retiro_parcial__procedimiento,¿cómo me retiro de un curso?,21
+retiro_parcial__procedimiento,estoy matriculado en 3 cursos y quiero salirme de uno,21
+retiro_parcial__procedimiento,¿qué pasos debo seguir para el retiro parcial?,21
+retiro_parcial__procedimiento,¿cómo se inicia el trámite para el retiro parcial?,21
+retiro_parcial__procedimiento,"mande un correo a estadística pidiendo que me retire de un curso, pero aún figura en mi intranet",21
+retiro_parcial__procedimiento,¿cómo se tramita el retiro parcial?,21
+retiro_parcial__procedimiento,debo presentar una carta a orce para retirarme de un curso?,21
+retiro_parcial__procedimiento,¿dónde encuentro un modelo de solicitud para el retiro parcial?,21
+retiro_parcial__procedimiento,puede decirme como realizar un retiro parcial ?,21
+retiro_parcial__procedimiento,"por motivos de fuerza mayor quiero dejar de llevar un curso, ¿qué debo hacer?",21
+retiro_parcial__procedimiento,podría indicarme el procedimiento para realizar el retiro parcial para el presente ciclo?,21
+retiro_parcial__procedimiento,me puede indicar cual es el procedimiento del retiro parcial,21
+retiro_parcial__procedimiento,cual es el procedimiento del retiro parcial,21
+retiro_parcial__procedimiento,cual es el procedimiento para realizar un retiro de un curso?,21
+retiro_parcial__procedimiento,que procedimiento puedo seguir para realizar el retiro parcial?,21
+retiro_parcial__procedimiento,me han dicho que puedo retirarme de un curso solo por el intranet de orce cuales son lo paso ?,21
+retiro_parcial__procedimiento,como puedo solicitar el retiro parcial,21
+retiro_parcial__procedimiento,deseo realizar el retiro parcial de un curso como procedo,21
+retiro_parcial__procedimiento,deseo realizar el retiro paracial de varios curso como procedo,21
+retiro_parcial__procedimiento,como procedo para hacer el retiro parcial ?,21
+retiro_parcial__procedimiento,"hola, estoy matriculado en 3 cursos y quiero salirme de uno",21
+retiro_parcial__procedimiento,"buenos dias, ¿qué pasos debo seguir para el retiro parcial?",21
+retiro_parcial__procedimiento,"hola que tal, un consulta ¿cómo se inicia el trámite para el retiro parcial?",21
+retiro_parcial__procedimiento,"hola, mande un correo a estadística pidiendo que me retire de un curso, pero aún figura en mi intranet",21
+retiro_parcial__procedimiento,"buenas tardes, ¿cómo se tramita el retiro parcial?",21
+retiro_parcial__procedimiento,"hola que tal, debo presentar una carta a orce para retirarme de un curso?",21
+retiro_parcial__procedimiento,"hola aerito, ¿dónde encuentro un modelo de solicitud para el retiro parcial?",21
+retiro_parcial__procedimiento,"hola amigo, puede decirme como realizar un retiro parcial ?",21
+retiro_parcial__procedimiento,"que tal una consulta lo que pasa es que por motivos de fuerza mayor quiero dejar de llevar un curso, ¿qué debo hacer?",21
+retiro_parcial__procedimiento,"buenas, me podría indicarme el procedimiento para realizar el retiro parcial para el presente ciclo?",21
+retiro_parcial__procedimiento,"hola, podría   indicarme el procedimiento para realizar el retiro parcial    para el presente ciclo?",21
+retiro_parcial__procedimiento,"buenos dias, podría indicarme el procedimiento para realizar el retiro parcial para el presente ciclo?",21
+retiro_parcial__procedimiento,"hola, podría indicarme el procedimiento, para realizar el retiro parcial para el presente ciclo?",21
+retiro_parcial__procedimiento,"que tal amigo,  puedes decirme cual es el prodecimiento para realizar un retiro de un curso?",21
+retiro_parcial__procedimiento,"hola que tal, que procedimiento puedo seguir para realizar el retiro parcial?",21
+retiro_parcial__procedimiento,"hola, me han dicho que puedo retirarme de un curso solo por el intranet de orce cuales son lo paso ?",21
+retiro_parcial__procedimiento,"hola amigo, dime como puedo solicitar el retiro parcial",21
+retiro_parcial__procedimiento,"hola, deseo realizar el retiro parcial de un curso como procedo",21
+retiro_parcial__procedimiento,"hola, deseo realizar el retiro parcial de varios curso como procedo",21
+retiro_parcial__procedimiento,"hola, como procedo para hacer el retiro parcial ?",21
+retiro_parcial__procedimiento,me puede indicar cual es el procedimiento del retiro parcia,21
+retiro_parcial__procedimiento,¿ qué pasos ddbo seguir para el retiro parcial ?,21
+retiro_parcial__procedimiento,"mande un correo a estadistica pidiendo que me retire de un curso , pero aún figura en mi intranet",21
+retiro_parcial__procedimiento,"hola amigo , dime como puedo solicitar el reitro parcial",21
+retiro_parcial__procedimiento,¿ cómo me retiro de un curo ?,21
+retiro_parcial__procedimiento,"hola aerito , ¿ dónde encuentro un modelo de solisitud para el retiro parcial ?",21
+retiro_parcial__procedimiento,estoy matriculado en 3 cursos y quiero saoirme de uno,21
+retiro_parcial__procedimiento,cual es el procedimlento para realizar un retiro de un curso ?,21
+retiro_parcial__procedimiento,"ola , me han dicho q puedo retirarme de un curso solo por el intranet de orce cuales son lo paso ?",21
+retiro_parcial__procedimiento,"hola , mandee un correo a estadística pidiendo q me retire de un curso , pero aún figura en mi intranet",21
+retiro_parcial__procedimiento,"hola que tal , que procedimieto puedo seguir para realizar el retiro parcial ?",21
+retiro_parcial__procedimiento,¿ cómo se tramita el retiro paecial ?,21
+retiro_parcial__procedimiento,me han dicho q puedo retirarme de un curso solo por el intranet de orce cuales son lo paso ?,21
+retiro_parcial__procedimiento,"hola , deseo realizar el retiro parcial de un curso om procedo",21
+retiro_parcial__procedimiento,"hola que tl , un consulta ¿ cómo se inicia el trámite para el retiro parcial ?",21
+retiro_parcial__procedimiento,"hola q tal , debo presentar una carta a orce para retirarme de un curso ?",21
+retiro_parcial__procedimiento,como hago un retiro paarcial,21
+retiro_parcial__procedimiento,"hola , deseo realisar el retiro parcial de varios curso como procedo",21
+retiro_parcial__procedimiento,que procedimeinto puedo seguir para realizar el retiro parcial ?,21
+retiro_parcial__procedimiento,¿ dónde encuentro un modelo de solicitud para el reetiro parcial ?,21
+retiro_parcial__procedimiento,"que tal una consulta lo q pasa es que por motivos de fuerza mayor quiero dejar de llevar un curso , ¿ que debo hacer ?",21
+retiro_parcial__unico_curso,"estoy matriculado en solo un curso, puedo acceder al retiro parcial?",22
+retiro_parcial__unico_curso,si estoy matriculado en un solo curso puedo hacer el retiro parcial?,22
+retiro_parcial__unico_curso,¿el retiro parcial aplica para los estudiantes que llevan solo un curso?,22
+retiro_parcial__unico_curso,"buenas tardes, estoy matriculado en un solo curso y deseo realizar mi retiro parcial pero el sistema no me lo permite, que debo hacer",22
+retiro_parcial__unico_curso,"buenas noches, estoy llevando un solo curso y el sistema no me permite retirarme",22
+retiro_parcial__unico_curso,"buenas tardes, actualemte estoy llevando un solo curso pero por motivos de fuerza mayor deseo retirarme pero el sistema no me lo permite, que puedo hacer",22
+retiro_parcial__unico_curso,"hola, ¿es posible realizar el retiro parcial si estoy llevando un único curso?",22
+retiro_parcial__unico_curso,"hola, puedo hacer un retiro parcial si solo estoy llevando un curso",22
+retiro_parcial__unico_curso,una consulta puedo realizar el retiro parcial si solo llevo un curso,22
+retiro_parcial__unico_curso,estoy llevando solo un curso y deseo retirarme puedo hacer el retiro parcial de ese curso,22
+retiro_parcial__unico_curso,puedo hacer el retiro parcial si solo estoy llevando un curso,22
+retiro_parcial__unico_curso,si solo estoy matricula en un solo curso puedo realizar el retiro parcial,22
+retiro_parcial__unico_curso,si estoy llevando solo un curso como puedo retirarme de ese curso,22
+retiro_parcial__unico_curso,estoy llevando solo una asignatura puedo retirarme de esa,22
+retiro_parcial__unico_curso,si estoy matricula en una solo asignatura es posible retirarme ese curso,22
+retiro_parcial__unico_curso,este ciclo solamente me matricule en un por temas de tiempo pero quiero retirarme,22
+retiro_parcial__unico_curso,actualmente solo me han dejado llevar un curso pero quiero retirarme por motivos de fuerza mayor,22
+retiro_parcial__unico_curso,"este ciclo solo pude matricular en un solo curso, pero no creo poder seguir asistiendo y quisiera retirarme",22
+retiro_parcial__unico_curso,el retiro parcial tambien se aplica si solo llevo un curso,22
+retiro_parcial__unico_curso,en el caso de solo llevar un curso y quiero retirarme seria retiro total o parcial?,22
+retiro_parcial__unico_curso,me he matriculado solo a un curso por que no tenia mas creditos que llavar pero quiero retirma sim embargo el sistema no me esta dejando,22
+retiro_parcial__unico_curso,la unica asignatura que estoy llevando el la de administracion de redes y quiero retirarme por que no creo poder seguir asistiendo,22
+retiro_parcial__unico_curso,puedo retirarme del curso si solo estoy estoy llevando uno,22
+retiro_parcial__unico_curso,si solo llevo un curso es posible retirarme?,22
+retiro_parcial__unico_curso,solo estoy llevando el curso de calculo diferencia puedo retirarme?,22
+retiro_parcial__unico_curso,quiero retirarme del unico curso en el que estoy matriculado como lo hago?,22
+retiro_parcial__unico_curso,solo estoy llevando un curso y me quiero retirar pero el sistema no me lo permite como hago,22
+retiro_parcial__unico_curso,cuando quiero retirarme del unico curso que llevo en orce no me lo permite como lo hago?,22
+retiro_parcial__unico_curso,como me retiro si solo llevo un curso,22
+retiro_parcial__unico_curso,una duda como puedo realizar el retiro de un curso si solo estoy llevando ese curso,22
+retiro_parcial__unico_curso,como me puedo retirar de un curso si es el unico que estoy llevando,22
+retiro_parcial__unico_curso,como hago el retiro de un curso si solo llevo ese,22
+retiro_parcial__unico_curso,"orce no me permite retirarme del unico curso que estoy matriculado, como puedo retirarme?",22
+retiro_parcial__unico_curso,dom hago el retiro de un curso si solo llevo ese,22
+retiro_parcial__unico_curso,"orce no me permite retirarme del unico curso q estoy matriculado , como puedo retirarme ?",22
+retiro_parcial__unico_curso,si estoy matricula en una solo asignatur es posible retirarme ese curso,22
+retiro_parcial__unico_curso,"buenas tardes , actualemte estoy llevando un solo curso pero por motivos de fuerza mayor deseo retirarme pero el sistema no me lo permite , ue puedo haccer",22
+retiro_parcial__unico_curso,si solo llevo un curso es posible rerirarme ?,22
+retiro_parcial__unico_curso,quiero retiarme del unico curso en el que estoy matriculado como lo hago ?,22
+retiro_parcial__unico_curso,si solo estoy matricula en un sool curso puedo realizar el retiro parcial,22
+retiro_parcial__unico_curso,una duda como puedo realisar el retiro de un curso si solo estoy llevando ese curso,22
+retiro_parcial__unico_curso,"buenas goches , estoy llevando un solo curso y el sistema no me permite retirarme",22
+retiro_parcial__unico_curso,como me retiro si oslo llevo un curso,22
+retiro_parcial__unico_curso,"este ciclo solo pude matricular en un solo ccurso , pero no creo poder seguir asistiendo y quiciera retirarme",22
+retiro_parcial__unico_curso,este ciclo solamente me matricule en un por temas de tiempo pero quiero retiarme,22
+retiro_parcial__unico_curso,cuando quiero rettirqrme del unico curso q llevo en orce no me lo permite como lo hago ?,22
+retiro_parcial__unico_curso,puedo retirarme del curso si solk estoy estoy llevando uno,22
+retiro_parcial__unico_curso,si estoy matriculado en un solo curso puedo acer el retiro parcial ?,22
+retiro_parcial__unico_curso,actualmente solo me han dejado llevar un curso pero qquiero retirarme por motivos de fuerza mayor,22
+retiro_parcial__unico_curso,el retiro parcial tmb se aplica si solo llevo un curso,22
+retiro_parcial__maximo_cursos,¿cuantos cursos es el máximo que puedo retirarme?,23
+retiro_parcial__maximo_cursos,¿cuál es numero máximo de cursos que retirarme?,23
+retiro_parcial__maximo_cursos,¿cuál es la cantidad limite de cursos que puedo retirarme?,23
+retiro_parcial__maximo_cursos,¿cuál es la cantidad limite de cursos que puedo hacer un retiro parcial?,23
+retiro_parcial__maximo_cursos,¿hay un límite de cursos para retirarme de modo parcial?,23
+retiro_parcial__maximo_cursos,el retiro parcial permite 4 cursos?,23
+retiro_parcial__maximo_cursos,¿cuál es el número máximo de cursos para hacer retiro parcial?,23
+retiro_parcial__maximo_cursos,de cuántos cursos puedo solicitar retiro parcial?,23
+retiro_parcial__maximo_cursos,es posible retirarme de 2 cursos si estoy llevando 3?,23
+retiro_parcial__maximo_cursos,¿puedo retirarme de todos mis cursos en la fecha de retiro parcial?,23
+retiro_parcial__maximo_cursos,hasta de cuantos cursos puedo hacer el retiro parcial ?,23
+retiro_parcial__maximo_cursos,es posible hacer el retiro parcial de todos los cursos que estoy matricula,23
+retiro_parcial__maximo_cursos,puedo retirarme de los 4 cursos que estoy llevando?,23
+retiro_parcial__maximo_cursos,puedo retirarme de 2 cursos?,23
+retiro_parcial__maximo_cursos,de cuantas asignaturas como maximo puedo retirarme,23
+retiro_parcial__maximo_cursos,el posible retirarme de 3 asignaturas distintas,23
+retiro_parcial__maximo_cursos,me he matricula a 7 asignaturas y quiero retirarme de 3 es posible?,23
+retiro_parcial__maximo_cursos,estoy llevando 6 cursos pero quiero hacer el retiro de dos de ellas,23
+retiro_parcial__maximo_cursos,solo estoy llevando dos asignaturas puedo retirarme de una de ellas?,23
+retiro_parcial__maximo_cursos,me he matriculado en 7 asignaturas pero quiero retirarma de 4 por que no podre asiste por trabajo . eso es posible?,23
+retiro_parcial__maximo_cursos,cual es el limite de cursos que me puedo retirar?,23
+retiro_parcial__maximo_cursos,puedo retirarme de todos los cursos execpto de uno?,23
+retiro_parcial__maximo_cursos,hay una cantidad limite o maximo de cursos de los cuales puedo retirarme?,23
+retiro_parcial__maximo_cursos,me preguntaba si es que una cantidad maxima de cursos del cual puedes retirarte?,23
+retiro_parcial__maximo_cursos,quisiera saber si es factible retirarse de 3 cursos?,23
+retiro_parcial__maximo_cursos,hay un maximo de cursos del cual puedes retirarte?,23
+retiro_parcial__maximo_cursos,cual es el maximo de cursos que uno puede retirarse?,23
+retiro_parcial__maximo_cursos,dime si es posible retirarse de 5 cursos?,23
+retiro_parcial__maximo_cursos,estoy llevando 4 cursos y quiero retirarme de 3 es posible?,23
+retiro_parcial__maximo_cursos,tengo una de cuantos es permitido retirarse?,23
+retiro_parcial__maximo_cursos,se permite retirarse de 3 cursos?,23
+retiro_parcial__maximo_cursos,¿ cuantos cursos es el máximo que puedo retirarrme ?,23
+retiro_parcial__maximo_cursos,cual es el limite de cursos que me puedo rettirar ?,23
+retiro_parcial__maximo_cursos,es ppisible retirarme de 2 cursos si estoy llevando 3 ?,23
+retiro_parcial__maximo_cursos,hay un maximo de cursos del cual uedes retirarte ?,23
+retiro_parcial__maximo_cursos,de cuantas asignaturas coo maximo puedo retirarme,23
+retiro_parcial__maximo_cursos,el pposible retirarme de 3 asignaturas distintas,23
+retiro_parcial__maximo_cursos,de cuántos cursos puedo solicitar rtiro parcial ?,23
+retiro_parcial__maximo_cursos,es posible hacer el retiro parcial de todos los cursos q estoy matricula,23
+retiro_parcial__maximo_cursos,estoy llevando 6 cursos pero quiero acer el retiro de dos de ellas,23
+retiro_parcial__maximo_cursos,puedo retirarme de los 4 cursos q estoy llevando ?,23
+retiro_parcial__maximo_cursos,pueso retirarme de 2 cursos ?,23
+retiro_parcial__maximo_cursos,el retiro pagcial permite 4 cursos ?,23
+retiro_parcial__maximo_cursos,solo estoy llevando doss asignaturas puedo retirarme de una de ellas ?,23
+retiro_parcial__maximo_cursos,puedo retrarme de todos los cursos execpto de uno ?,23
+retiro_parcial__maximo_cursos,¿ cual es la cantidad limite de cursos que puedo retirarme ?,23
+retiro_parcial__maximo_cursos,¿ puedo retirarme de todos mis curss en la fecha de retiro parcial ?,23
+retiro_total__fechas,¿en que fecha se realiza el retiro total?,24
+retiro_total__fechas,hasta cuando puedo presentar los documentos para el retiro total?,24
+retiro_total__fechas,cuando es la fecha para el retiro total?,24
+retiro_total__fechas,¿cuál es la fecha límite para enviar los documentos del retiro total?,24
+retiro_total__fechas,"buenos dias, quisiera saber cuando vence el plazo de retiro total",24
+retiro_total__fechas,¿qué días se hace el trámite del retiro total?,24
+retiro_total__fechas,¿en qué fechas puedo realizar el retiro total?,24
+retiro_total__fechas,cuando es la fecha limite para el retiro total?,24
+retiro_total__fechas,hasta cuando se puede presentar los documentos para el retiro total?,24
+retiro_total__fechas,"buen día, ¿hasta cuándo puedo hacer retiro total?",24
+retiro_total__fechas,"hola, hasta cuando puedo hacer el retiro total?",24
+retiro_total__fechas,"buenas tardes, una consulta hasta cuando puedo hacer el retiro total",24
+retiro_total__fechas,hola disculpa una consulta hasta que dias puedo realizar el retiro total,24
+retiro_total__fechas,hola una consulta en que semana se activa el retiro total,24
+retiro_total__fechas,cuando puedo hacer un retiro total,24
+retiro_total__fechas,que dias puedo hacer el retiro total,24
+retiro_total__fechas,en que semana puedo hacer el retiro total,24
+retiro_total__fechas,cuando puedo presentar mis documentos para el retiro total,24
+retiro_total__fechas,en que semana se habilita el retiro total?,24
+retiro_total__fechas,el retiro total se habilita recien la semana 5?,24
+retiro_total__fechas,puedo solicitar el retiro total hasta la ultima semana de clases?,24
+retiro_total__fechas,estoy en la segunda semana de clases pero por motivos quiero hacer el retiro parcial puedo solicitarlo?,24
+retiro_total__fechas,cual es la fecha limite para solicitar un retiro total?,24
+retiro_total__fechas,me dijeron que puedo solicitar el retiro total hasta la ultima semana de clases es cierto?,24
+retiro_total__fechas,cuando es la fecha limite para el fetior total ?,24
+retiro_total__fechas,"hola , hasta cuando puedo hcaer el retiro total ?",24
+retiro_total__fechas,hola disculpa una consulta hasta que dias pueco realizar el retiro total,24
+retiro_total__fechas,hasta cuando se puede presentar los documentos para el retiro toatl ?,24
+retiro_total__fechas,estoy en la segunda semana de clases pero por motivos quiero hacer el retiro parcial ouedo solicitarlo ?,24
+retiro_total__fechas,"buenas tardes , una consulta hasta cuando pued hacer el retiro total",24
+retiro_total__fechas,¿ cuál es la fecha límite para enviar los documentos del regiro total ?,24
+retiro_total__fechas,¿ en que fechas puedo realizar el retiro total ?,24
+retiro_total__fechas,¿ que días se hace el trámite del retiro total ?,24
+retiro_total__fechas,cual es la fecha limite para solisitar un retiro total ?,24
+retiro_total__fechas,el rretiro total se habilita recien la semana 5 ?,24
+retiro_total__fechas,puedo solisitar el retiro total hasta la ultima semana de clases ?,24
+retiro_total__requisitos_documentos_justificacion,¿es necesario justificar con documentos el motivo de retiro total?,25
+retiro_total__requisitos_documentos_justificacion,debo justificar mis motivos para solicitar mi retiro total?,25
+retiro_total__requisitos_documentos_justificacion,sera necesario presentar documentos para justificar el retiro total?,25
+retiro_total__requisitos_documentos_justificacion,y es necesario justificar con documentos el retiro total?,25
+retiro_total__requisitos_documentos_justificacion,se tiene que justificar con documentos para solicitar el retiro total?,25
+retiro_total__requisitos_documentos_justificacion,¿se requiere documentos para justificar el retiro total?,25
+retiro_total__requisitos_documentos_justificacion,debo presentar documentos para justificar los motivos de retiro total?,25
+retiro_total__requisitos_documentos_justificacion,para solicitar el retiro total debo presentar algun documento que justifique mis motivos?,25
+retiro_total__requisitos_documentos_justificacion,es necesario presentar documentos para justificar el retiro total?,25
+retiro_total__requisitos_documentos_justificacion,solo debo enviar la solicitud de retiro total o tambien algun documento que justifique mi retiro?,25
+retiro_total__requisitos_documentos_justificacion,necesito justificar con documentos mi retiro total?,25
+retiro_total__requisitos_documentos_justificacion,se tiene que justificar el retiro total?,25
+retiro_total__requisitos_documentos_justificacion,como debo justificar el retiro total?,25
+retiro_total__requisitos_documentos_justificacion,debo justificar la razon del retiro toal?,25
+retiro_total__requisitos_documentos_justificacion,si no tengo documentos para justificar el retiro total puedo retirarme?,25
+retiro_total__requisitos_documentos_justificacion,es necesario tener algun documento que justique el retiro total?,25
+retiro_total__requisitos_documentos_justificacion,puedo solicitar el retiro parcial solo enviando la solicitud?,25
+retiro_total__requisitos_documentos_justificacion,si no tengo algun documento para justificar mi retiro total puedo solicitarlo?,25
+retiro_total__requisitos_documentos_justificacion,no tengo ningun documento que validar mi retiro total que puedo hacer?,25
+retiro_total__requisitos_documentos_justificacion,quiero realizar el retiro total por razones de salud pero actualmente no tengo una constancia salud en necesario que consiga una para solicitar mi retiro?,25
+retiro_total__requisitos_documentos_justificacion,he sufrido un accidente y quiero retirme del ciclo pero aun no tengo una constancia de salud podria solicitarlo sin la constancia,25
+retiro_total__requisitos_documentos_justificacion,quiero retirarme de este ciclo es necesario enviar documentacion que justifique mis razones?,25
+retiro_total__requisitos_documentos_justificacion,de que manera se tiene que justificar el retiro total?,25
+retiro_total__requisitos_documentos_justificacion,el retiro total debe ser justificado con documentos?,25
+retiro_total__requisitos_documentos_justificacion,solo debo enviar la solisitud de retiro total o tmb algun documento que justifique mi retiro ?,25
+retiro_total__requisitos_documentos_justificacion,necesito jutificr con documentos mi retiro total ?,25
+retiro_total__requisitos_documentos_justificacion,si no tengo documentos para justificar el rtteiro total puedo retirarme ?,25
+retiro_total__requisitos_documentos_justificacion,debo presentar documentos para jusificar los motivos de retiro total ?,25
+retiro_total__requisitos_documentos_justificacion,puedo solicitar el retiro parcial solo enviando la solisitud ?,25
+retiro_total__requisitos_documentos_justificacion,es nesesario tener algun documento que justique el retiro total ?,25
+retiro_total__requisitos_documentos_justificacion,se tiene q justificar el retiro total ?,25
+retiro_total__requisitos_documentos_justificacion,no tengo ningun documento que validar mi retiro total que pueddo hacer ?,25
+retiro_total__requisitos_documentos_justificacion,y es nesesario justificar con documentos el retiro total ?,25
+retiro_total__requisitos_documentos_justificacion,para solicitar el retiro total debo presentar algun documento que justifique mis moitvos ?,25
+retiro_total__requisitos_documentos_justificacion,si no tengo algun docuento para justificar mi retiro total puedo solicitarlo ?,25
+retiro_total__requisitos_documentos_justificacion,debo justificar la razon del retiro otal ?,25
+retiro_total__motivos_procede,¿cuáles son los motivos para acceder al retiro total?,26
+retiro_total__motivos_procede,¿qué motivos justifican el retiro total de cursos?,26
+retiro_total__motivos_procede,trabajar es un motivo para el retiro total?,26
+retiro_total__motivos_procede,¿cuándo procede el retiro total?,26
+retiro_total__motivos_procede,el covid es un motivo para retiro total?,26
+retiro_total__motivos_procede,cuales son los motivos para hacer un retiro total?,26
+retiro_total__motivos_procede,deseo realizar un retiro total y quiero saber por que motivos procede,26
+retiro_total__motivos_procede,cuales son los motivos de fuerza mayor por que procede el retiro total?,26
+retiro_total__motivos_procede,que motivos de fuerza mayor permiten el retiro total,26
+retiro_total__motivos_procede,cual seria un motivo para hacer un retiro total,26
+retiro_total__motivos_procede,el covid es un motivo para poder hacer un retiro total,26
+retiro_total__motivos_procede,una lesion es un motivo valido para acceder al retiro total?,26
+retiro_total__motivos_procede,una fractura es un motivo valido para poder acceder al retiro total?,26
+retiro_total__motivos_procede,cual es un motivo valido para acceder al retiro total?,26
+retiro_total__motivos_procede,cual motivo puedo justificar para hacer un retiro total?,26
+retiro_total__motivos_procede,¿cuáles son los motivos que justifican el retiro total?,26
+retiro_total__motivos_procede,un accidente es motivo suficiente para solicitar el retiro parcial?,26
+retiro_total__motivos_procede,puedo realizar el retiro total por razones de trabajo,26
+retiro_total__motivos_procede,que razones justifican un retiro total,26
+retiro_total__motivos_procede,voy a realizar un viaje al extranjero por razones de trabajo puedo realizar un retiro total?,26
+retiro_total__motivos_procede,tengo una lesion que me impide ir a la universidad es es un motivo valido para el retiro total?,26
+retiro_total__motivos_procede,"por razones de trabajo quiero retirarme este ciclo, esto seria un movito sufiente para el poder solicitarlo?",26
+retiro_total__motivos_procede,que motivos son validos para solicitar el retiro total?,26
+retiro_total__motivos_procede,una enfermedad limitante es motivo valido para solicitar el retiro total?,26
+retiro_total__motivos_procede,problemas economicos puede ser un motivo para acceder al retiro total?,26
+retiro_total__motivos_procede,cuales son los motivos de fuerza mayor por q procede el retiro total ?,26
+retiro_total__motivos_procede,cual seria un motivo para acer un retiro total,26
+retiro_total__motivos_procede,¿ cuándo prosede el retiro total ?,26
+retiro_total__motivos_procede,cuales son los motivos para hacre un retiro total ?,26
+retiro_total__motivos_procede,una lesion es un motivo valido para acceder al retiiro total ?,26
+retiro_total__motivos_procede,el covid es un motivo para retiro ottal ?,26
+retiro_total__motivos_procede,un accidentee es motivo suficiente para solicitar el retiro parcial ?,26
+retiro_total__motivos_procede,una fractura es un motivo valido para poder acseder al retiro total ?,26
+retiro_total__motivos_procede,cual es un motivo valido para accedder al retiro total ?,26
+retiro_total__motivos_procede,voy a realizar un viaje al extranjfro por razones de trabajo puedo realizar un retiro total ?,26
+retiro_total__motivos_procede,una enfermedad limitante es motivo valido para solisitar el retiro total ?,26
+retiro_total__motivos_procede,desso realizar un retiro total y quiero saber por que motivos procede,26
+retiro_total__motivos_procede,q razones justifican un retiro total,26
+retiro_total__formato_solicitud,¿cuál es el modelo para la solicitud de retiro total?,27
+retiro_total__formato_solicitud,donde encuentro un modelo para la solicitud de retiro total?,27
+retiro_total__formato_solicitud,dónde está el modelo de solicitud para el retiro total?,27
+retiro_total__formato_solicitud,una consulta hay algun modelo para la solicitud de retiro total,27
+retiro_total__formato_solicitud,una duda porfavor existe algun modelo o formato para la solicitud de retiro total,27
+retiro_total__formato_solicitud,existe alguna modelo para la solicitud de retiro total,27
+retiro_total__formato_solicitud,donde puedo encontrar un modelo para la solicitud de retiro total,27
+retiro_total__formato_solicitud,hay algun formato o modelo para la solicitud de retiro total,27
+retiro_total__formato_solicitud,quiero solicitar el retiro total me puedes enviar el modelo para la solicitud,27
+retiro_total__formato_solicitud,quisiera hacer el retiro total y necesito un modelo para la solicitud,27
+retiro_total__formato_solicitud,que informacion debo colocar el la solicitud para el retiro total,27
+retiro_total__formato_solicitud,como debo redactar la solicitud del retiro total?,27
+retiro_total__formato_solicitud,hay algun formato especial para el retiro total?,27
+retiro_total__formato_solicitud,debo colocar mi dni en la solicitud de retiro total?,27
+retiro_total__formato_solicitud,quiero solicitar el retiro total me puedes enviar el modelo de la solicitud,27
+retiro_total__formato_solicitud,"este ciclo voy a hacer el retiro total por motivos de fuerza mayor, quisiera el modelo para la solicitud",27
+retiro_total__formato_solicitud,"voy a solicitar el retiro total, cual es el modelo para la solicitud",27
+retiro_total__formato_solicitud,"me indicaron que debo enviar una solicitud dirigida al decano para el retiro total, que mas debo colocar en esa solicitud?",27
+retiro_total__formato_solicitud,en que parte puedo encontra el modelo para la solicitud retiro total,27
+retiro_total__formato_solicitud,"hola aeito, un favor necesito el modelo para la solcitud de retiro total me lo pudes enviar porfavor?",27
+retiro_total__formato_solicitud,una consulta hay algun modelo para la solicitud de retirro total,27
+retiro_total__formato_solicitud,hay algun formato o modelo para la solisitud de retiro total,27
+retiro_total__formato_solicitud,donde puedo encontrar un modelo para la solicitud de retiro yotal,27
+retiro_total__formato_solicitud,como debo rerwctar la solicitud del retiro total ?,27
+retiro_total__formato_solicitud,deb colocar mi dni en la solicitud de retiro total ?,27
+retiro_total__formato_solicitud,dónde está el modelo de solisitud para el retiro total ?,27
+retiro_total__formato_solicitud,quiciera hacer el retiro total y necesito un modelo para la solicitud,27
+retiro_total__formato_solicitud,quiero solicitar el retiro total me puedes enviar el modelo de la solisitud,27
+retiro_total__formato_solicitud,"ola aeito , un favor nesesito el modelo para la solcitud de retiro total me lo pudes enviar porfavor ?",27
+retiro_total__formato_solicitud,"voy a solicitar el retiro total , cual es el modleo para la solicitud",27
+retiro_total__procedimiento,¿cómo hago el retiro total de mis cursos?,28
+retiro_total__procedimiento,¿cuál es el procedimiento para el retiro total?,28
+retiro_total__procedimiento,¿cuáles son los pasos para solicitar el retiro total?,28
+retiro_total__procedimiento,envié un correo a mi escuela para que me oriente en el retiro total,28
+retiro_total__procedimiento,¿el trámite para retiro total es presencial?,28
+retiro_total__procedimiento,el retiro total es presencial?,28
+retiro_total__procedimiento,como puedo solicitar el retiro total de todos los cursos?,28
+retiro_total__procedimiento,como puedo solcitar el retiro de todas las asignaturas que estoy llevando,28
+retiro_total__procedimiento,"quiero hacer el retiro total, ¿cómo puedo hacerlo?",28
+retiro_total__procedimiento,¿puedo realizar el retiro total por correo?,28
+retiro_total__procedimiento,por motivos de trabajo deseo dejar todos los cursos,28
+retiro_total__procedimiento,"por motivos familiares, requiero hacer el retiro total de mi matrícula, cual es el procedimiento",28
+retiro_total__procedimiento,puedo retirarme de todos los cursos?,28
+retiro_total__procedimiento,el retiro total se hace virtual?,28
+retiro_total__procedimiento,quiero retirarme del ciclo,28
+retiro_total__procedimiento,"buenos días, que documentos debo presentar para el proceso de retiro total",28
+retiro_total__procedimiento,"buenos días, me veo obligada de retirarme de todos los cursos por motivos de trabajo, cual es el procedimiento por favor",28
+retiro_total__procedimiento,"buen día, cómo se hace un retiro total",28
+retiro_total__procedimiento,"hola, deseo saber qué trámite seguir para el retiro total",28
+retiro_total__procedimiento,"hola, tengo que retirarme de todos mis cursos, ¿cómo podria hacerlo?",28
+retiro_total__procedimiento,"hola, ¿cómo hago el retiro total?",28
+retiro_total__procedimiento,"hola, ¿cómo se inicia el proceso de retiro total?",28
+retiro_total__procedimiento,"buen día, ¿cómo se realiza el retiro total?",28
+retiro_total__procedimiento,"buenas tardes, como realizo un retiro total.gracias.",28
+retiro_total__procedimiento,"buenas, quiero hacer el retiro total, ¿podrian ayudarme?",28
+retiro_total__procedimiento,"buenas, una consulta cual es el procedimiento para el retiro total",28
+retiro_total__procedimiento,"buenas tardes, quisiera saber cual es el procedemiendo para el retiro total",28
+retiro_total__procedimiento,"buenas noches, me puedes decir el procedemiendo para el retiro total?",28
+retiro_total__procedimiento,"quiero hacer el retiro total de mis cursos del presente ciclo, quiero saber que documentos se necesitan presentar y que me asegure que no voy a perder mi vacante y que pueda retomar de nuevo las clases en el siguiente ciclo.",28
+retiro_total__procedimiento,que tramite debo hacer para el retiro total?,28
+retiro_total__procedimiento,"buenas tardes , quiciera saber cual es el procedemiendo para el retiro total",28
+retiro_total__procedimiento,como puedo solisitar el retiro total de todos los cursos ?,28
+retiro_total__procedimiento,"buenos días , q documentos debo presentar para el proceso de retiro total",28
+retiro_total__procedimiento,"quiero hacer el retiro total , ¿ cómmo puedo hacerlo ?",28
+retiro_total__procedimiento,por motivos de trabajo deeseo dejar todos los cursos,28
+retiro_total__procedimiento,¿ puedo realisar el retiro total por correo ?,28
+retiro_total__procedimiento,"buenas , una consulta cual es el prosedimiento para el retiro total",28
+retiro_total__procedimiento,"buen día , como se hace un retiro total",28
+retiro_total__procedimiento,"ola , deseo saber qué trámite seguir para el retiro total",28
+retiro_total__procedimiento,¿ el tramite para retiro total es presencial ?,28
+retiro_total__procedimiento,"hola , ¿ cómo se inicia el prroceso de retiro total ?",28
+retiro_total__procedimiento,"buenas noches , me puedes decir el procedemiendo para el reitro total ?",28
+retiro_total__procedimiento,"buenas twrdes , como realizo un retiro total.gracias .",28
+retiro_total__procedimiento,¿ cual es el procedimiento para el retiro total ?,28
+retiro_total__procedimiento,"buenos días , me beo obligada de retirarme de todos los cursos por motivos de trabajo , cual es el procedimiento por ravor",28
+reserva_matricula__procedimiento,¿cómo reservo mi matricula?,29
+reserva_matricula__procedimiento,"hola, mi duda es como poder reservar mi matricula",29
+reserva_matricula__procedimiento,"hola, tengo una duda me podria decir que tramites debo hacer para realizar la reserva de matricula no tengo podre matricularme es siguiente ciclo por temas de salud",29
+reserva_matricula__procedimiento,"hola, no podre matricula como puedo postergar mi matricula",29
+reserva_matricula__procedimiento,"buenas noches, quisiera saber como puedo hacer una reserva de matricula y ¿hasta cuándo tengo plazo para presentar mi solicitud? ya que este ciclo que viene no podré llevarlo bien por motivos de trabajo.",29
+reserva_matricula__procedimiento,"buenos dias, quisiera realizar reserva de matrícula para este periodo que viene por cuestiones de salud .¿que procedimiento deberia seguir?",29
+reserva_matricula__procedimiento,"hola, mi consulta es como reservar mi matricula",29
+reserva_matricula__procedimiento,"buenas tardes, tengo una consulta cual es el procedimiento para la reserva de matricula",29
+reserva_matricula__procedimiento,"buen día, el ciclo pasado no me pude matricular ni hice el trámite de reserva de matrícula, les escribo porque necesito saber ¿cuál es el procedimiento para solicitar reserva de matrícula? porque tampoco podré matrícularme en este período por problemas de salud,",29
+reserva_matricula__procedimiento,"buenas, estoy buscando el procedimiento para reservar me puedes decir como encontrarlo",29
+reserva_matricula__procedimiento,"buenas noches, dime que debo hacer para reservar mi matricula",29
+reserva_matricula__procedimiento,hola me puedes decir como realizar la reserva de matricula,29
+reserva_matricula__procedimiento,"hola, este ciclo no podre matricularme por motivos de salud cual seria el procedimiento para poder reservar la matricula",29
+reserva_matricula__procedimiento,"buenos dias, quisiera realizar reserva de matrícula para este periodo por problemas familiar .¿que procedimiento deberia seguir?",29
+reserva_matricula__procedimiento,"buenos dias, quisiera realizar reserva de matrícula para este periodo que viene por cuestiones de trabajo .¿que procedimiento deberia seguir?",29
+reserva_matricula__procedimiento,"buenas tardes, quiero postergar mi matricula como puedo hacer ese tramite",29
+reserva_matricula__procedimiento,"hola ciencito, queria consultarte lo que pasa es que por temas familiares este ciclo estaba pensando no matricular que debo hacer",29
+reserva_matricula__procedimiento,buenos dias que hago para hacer la reserva de matricula,29
+reserva_matricula__procedimiento,"hola, tengo una duda no entendí bien que tramites debo hacer par reservar mi matricula",29
+reserva_matricula__procedimiento,"buenos días, necesito información para solicitar reserva de matrícula?",29
+reserva_matricula__procedimiento,"hola, disculpa cual es tramite para reservar mi matricula posiblemente tenga no pueda matricularme el siguiente ciclo",29
+reserva_matricula__procedimiento,"buenas dias, por temas económicos no creo poder matricularme este ciclo me han dicho que puedo reservar mi matricula para el siguiente ciclo como puedo realizar ese tramite",29
+reserva_matricula__procedimiento,por motivos económicos no podre matricularme este ciclo como puedo reservar la matricula,29
+reserva_matricula__procedimiento,deseo reservar la matricula como puedo hacer ?,29
+reserva_matricula__procedimiento,"podria indicar tambien que debo hacer para realizar reserva de matricula, este semestre no podre matricuarme",29
+reserva_matricula__procedimiento,"me podria indicar tambien que debo hacer para realizar una reserva de matricula, este semestre no podre matricularme",29
+reserva_matricula__procedimiento,¿cuál es el procedimiento para solicitar reserva de matrícula?,29
+reserva_matricula__procedimiento,"si, quisiera saber como realizar mi reserva de matricula por motivos económicos no podre matricularme",29
+reserva_matricula__procedimiento,mi consulta es como realizar la reserva de mi matricula,29
+reserva_matricula__procedimiento,por motivos de salud no podre matricularme este ciclo como puedo postergar mi matricula,29
+reserva_matricula__procedimiento,como realizo la reserva de matricula,29
+reserva_matricula__procedimiento,quisiera postergar mi matricula como puedo realizar este tramite,29
+reserva_matricula__procedimiento,quisiera hacer la reserva de matricula cual es el procedimiento,29
+reserva_matricula__procedimiento,como puedo proceder para hacer la reserva de matricula del siguiente ciclo,29
+reserva_matricula__procedimiento,no podre matricular el siguiente ciclo que hago para reservar mi matricula,29
+reserva_matricula__procedimiento,puede decirme como realizar un reserva de matrícula?,29
+reserva_matricula__procedimiento,por motivos personales no podre matricularme este ciclo que como puedo reservar mi matricula,29
+reserva_matricula__procedimiento,que tengo que hacer para reservar mi matricula,29
+reserva_matricula__procedimiento,cual es el procedimiento para realizar la reserva de matricula ?,29
+reserva_matricula__procedimiento,"le escribo porque necesito información, el semestre que viene estaré haciendo un intercambio estudiantil por lo que quisiera saber si necesito hacer algo en la orce ya que este semestre no podré matricularé en la uni. mi escuela ya sabe que haré intercambio y ya les envié el sílabo de los cursos pero aún no tengo respuesta.",29
+reserva_matricula__procedimiento,por motivos de encomicos y de trabajo no podre matricularme el siguiente ciclo que puedo hacer para no perder mi vacante,29
+reserva_matricula__procedimiento,quiero pedir la reseva de matrcula como hago?,29
+reserva_matricula__procedimiento,"buen día , el ciclo pasado no me pude matricularr ni hice el trámite de reserva de matricula , les escribo porque necesito saber ¿ cuál es el pprocedimiento para solicitar reserva de matrícula ? porque tampoco podré matrícularme en este período por problemas de salud ,",29
+reserva_matricula__procedimiento,"buenas tardes , tengo una consulta cual es el prosedimiento para la reserva de matricula",29
+reserva_matricula__procedimiento,que tengo qje hacer para reservar mi matricula,29
+reserva_matricula__procedimiento,"podria indicar tambien q weob hacer para realizar reserva de matricula , este semestre no podre matricuarme",29
+reserva_matricula__procedimiento,por motivos económicos no podre matricularme este ciclo com puedo reservar la matricula,29
+reserva_matricula__procedimiento,"si , quiciera saber como realizar mi recerba de matricula por motivos económicos no podre matricularme",29
+reserva_matricula__procedimiento,"ola , disculpa cual es tramite para recervar mi matricula posiblemente tenga no pueda matricularme el siguiente ciclo",29
+reserva_matricula__procedimiento,quiero pedir la reseva de matrcula como haog ?,29
+reserva_matricula__procedimiento,"buenas tardes , quireo postergar mi matricula como puedo hacer ese tramite",29
+reserva_matricula__procedimiento,buenos dias que hago para hacer la recerba de matricula,29
+reserva_matricula__procedimiento,"buenos dias , quisiera eralizar reserva de matrícula para este periodo que viene por cuestiones de salud .¿que prosedimiento deberia seguir ?",29
+reserva_matricula__procedimiento,por motivos de encomicos y de trabajo no podre matrucularme el siguiente ciclo que puedo acer para no perder mi vacante,29
+reserva_matricula__procedimiento,quuisiera hacer la reserva de matricula cual es el procedimiento,29
+reserva_matricula__procedimiento,"buenos días , nesesito información para solicitar reserva de matrícula ?",29
+reserva_matricula__procedimiento,mi consulta es como realizar la recerva de mi matricula,29
+reserva_matricula__procedimiento,deseo recervar la matricula como puedo hacer ?,29
+reserva_matricula__procedimiento,por motivos personales no podre matricularme este ciclo q como puedo reservar mi matricula,29
+reserva_matricula__procedimiento,"buenas , estoy buscando el prosedimiento para reservar me puedes decir como encontrarlo",29
+reserva_matricula__procedimiento,"le escribo lorque necesito información , el semestre q viene estaré haciendo un intercambio estudiantil por lo que quiciera saber si necesito hacer algo en la orce ya que este semestre no podré matricularé en la uni . mi escuela ya sabe q haré intercambio y ya les envié el sílabo de los cursos pero aún no tengo respuesta .",29
+reserva_matricula__procedimiento,¿ como reservo mi matricula ?,29
+reserva_matricula__procedimiento,"buenas dias , por temas económicos no creo podwr matricularme este ciclo me han dicho q puedo reservar mi matricula para el siguiente ciclo como puedo realizar ese tramite",29
+reserva_matricula__fechas,¿hasta cuándo tengo tiempo para presentar mi solicitud de reserva de matricula?,30
+reserva_matricula__fechas,aun puedo enviar la solicitud de reserva de matricula ?,30
+reserva_matricula__fechas,hasta cuando puedo enviar la solicitud para reserva de matricula ?,30
+reserva_matricula__fechas,también quisiera saber hasta cuando puedo enviar la solicitud de reserva de matricula,30
+reserva_matricula__fechas,hasta cuando puedo subir las solicitud la reserva de matricula en el sistema de internet ?,30
+reserva_matricula__fechas,hasta cuando puedo tramitar la reserva de matricula ?,30
+reserva_matricula__fechas,hasta que dias podria enviar la solicitud de reserva de matricula entonces,30
+reserva_matricula__fechas,"quiero hacer la reserva de matricula, hasta que dia puedo enviar la solicitud ?",30
+reserva_matricula__fechas,¿hasta que dias puedo enviar la solicitud de reserva de matricula ?,30
+reserva_matricula__fechas,la reserva de matricula tiene que enviarse antes de la matricula ?,30
+reserva_matricula__fechas,y hasta cuando podria enviar la solicitud de reserva de matricula ?,30
+reserva_matricula__fechas,si donde puedo encontrar las fechas para hacer la reserva de matricula,30
+reserva_matricula__fechas,hasta que fecha puedo subir la solicitud de reserva de matricula ?,30
+reserva_matricula__fechas,cual es la fecha para enviar la solicitud de reserva de matricula,30
+reserva_matricula__fechas,"este ciclo que esta por comenzar no me voy a matricular, me puedes decir cual es la fecha limite para enviar mi solicitud",30
+reserva_matricula__fechas,"la matricula ya va ser la siguiente semana pero no podre matricularme, aun puedo enviar mi solicitud de reserva de matricula",30
+reserva_matricula__fechas,"la matricula es mañana pero por motivos de fuerza he decido no matricularme, entiendo que debo reservar la matricula todavia  podria hacerlo?",30
+reserva_matricula__fechas,todavia puedo enviar mi reserva de matricula?,30
+reserva_matricula__fechas,esta semana todavia puedo solicitar mi reserva de matricula?,30
+reserva_matricula__fechas,"este ciclo q esta por comenzar no me voy a matricular , me puuedes decir cual es la fecha limite para enviar mi solicitud",30
+reserva_matricula__fechas,la reserva de matricula tiene que enviarse antes de la amtricula ?,30
+reserva_matricula__fechas,todavia puedo enviar mi reservaa de matricula ?,30
+reserva_matricula__fechas,y hasta cuando podria enviar la sliictud de reserva de matricula ?,30
+reserva_matricula__fechas,aun puedo enviar la solisitud de reserva de matricula ?,30
+reserva_matricula__fechas,¿ hasta q dias puedo enviar la solicitud de reserva de matricula ?,30
+reserva_matricula__fechas,"quiero hacer la reserav de matricula , hasta que dia puedo enviar la solicitud ?",30
+reserva_matricula__fechas,¿ hasta cuándo tengo tiempo para presentar mi solicitud de reserva de maatricua ?,30
+reserva_matricula__fechas,hasta cuando puedo tramitar la recerva de matricula ?,30
+reserva_matricula__fechas,también quidiera saber hasta cuando puedo enviar la solicitud de reserva de matricula,30
+reserva_matricula__formato_solicitud,hay algun formato para la solicitud de reserva de matricula ?,31
+reserva_matricula__formato_solicitud,¿cuál es el modelo de solicitud para la reserva de matricula?,31
+reserva_matricula__formato_solicitud,cual es el formato de solicitud para la reserva de matricula ?,31
+reserva_matricula__formato_solicitud,si hay algun formato o modelo para la solicitud de reserva de matricula,31
+reserva_matricula__formato_solicitud,puedes decirme si hay algun modelo para la solicitud de reserva de matricula?,31
+reserva_matricula__formato_solicitud,existe algun modelo para la solicitud de reserva de matricula ?,31
+reserva_matricula__formato_solicitud,puedes decirme donde encuentro un modelo de solicitud para la reserva de matricula ?,31
+reserva_matricula__formato_solicitud,si tambien puedes decirme si hay algun formato para la solicitud de reserva de matricula ?,31
+reserva_matricula__formato_solicitud,puedes decirme si hay algun formato para la solicitud de reserva de matricula,31
+reserva_matricula__formato_solicitud,puedes enviarme el modelo para la solicitud de reserva de matricula,31
+reserva_matricula__formato_solicitud,si porfavor mandame el modelo para la solicitud de reserva de matricula,31
+reserva_matricula__formato_solicitud,tengo un duda cual es el modelo o formato para la solicitud de reserva de matricula,31
+reserva_matricula__formato_solicitud,voy a solicitar mi reserva de matricula pero quiero un modelo para la solicitud que debo enviar,31
+reserva_matricula__formato_solicitud,quiero solicitar mi reserva de matricula me puedes enviar el modelo para solicitud,31
+reserva_matricula__formato_solicitud,que informacion debo colocar en la solicitud para la reserva de matricula?,31
+reserva_matricula__formato_solicitud,aparte de mi dni y mi codigo que ma debo colocar en la solicitud de reserva de matricula?,31
+reserva_matricula__formato_solicitud,la solicitud de reserva de matricula es solo una solicitud simpre dirigida al decano?,31
+reserva_matricula__formato_solicitud,me un puedes un modelo para la solicitud de reserva de matricula porfavor,31
+reserva_matricula__formato_solicitud,en donde puedo encontar un modelo para la solicitud de reserva de matricula?,31
+reserva_matricula__formato_solicitud,puedes decirme si hay algun formato para la solisitud de reserva de matricula,31
+reserva_matricula__formato_solicitud,si porfavor mandame el modelo para la solicitud de reserba de matricula,31
+reserva_matricula__formato_solicitud,voy a solisitar mi reserva de matricula pero quiero un modelo para la solicitud que debo enviar,31
+reserva_matricula__formato_solicitud,me un puedes un modelo para la solicitud de reservaa de matricula porfavor,31
+reserva_matricula__formato_solicitud,existe algun modelo para la solisitud de reserva de matricula ?,31
+reserva_matricula__formato_solicitud,si tambien puedes decirme si hay algun formato para la solicitud de reserva de matridula ?,31
+reserva_matricula__formato_solicitud,puedes decirme si hay algun modelo para la solisitud de reserva de matricula ?,31
+reserva_matricula__formato_solicitud,si hay algun formato o modelo para la solisitud de reserva de matricula,31
+reserva_matricula__formato_solicitud,¿ cual es el modelo de solicitud para la reserva de matricula ?,31
+reserva_matricula__formato_solicitud,tengo un duda cual es el modelo o formato para la solicitud de reserva de maticula,31
+reincorporacion__procedimiento,¿cuál es el procedimiento para solicitar reincorporación?,32
+reincorporacion__procedimiento,"hola, deseo solicitar mi reincorporación este ciclo que viene como puedo solicitarla",32
+reincorporacion__procedimiento,"buenas noches, el anterior ciclo reserve mi matricula por motivos familiares , este ciclo si quiero matricularme realizo mi matricula como siempre o hay algun tramite que debo hacer ?",32
+reincorporacion__procedimiento,buenas tardes me dirijo a ustedes porque quiero reincorporarme en el siguiente periodo académico,32
+reincorporacion__procedimiento,"hola, quiero solicitar mi reincorporación para el proximo ciclo que deberia hacer para que me habiliten la matricula",32
+reincorporacion__procedimiento,"buenos dias, tengo una duda quiero matricularme este ciclo pero el anterior por motivos de trabajo solicite la reserva de matricula, para realizar mi matricula debo hacer algo adicional ?",32
+reincorporacion__procedimiento,"hola, como solicito mi reincorporacion para este ciclo",32
+reincorporacion__procedimiento,"hola, quiero solicitar mi reincorporación para este periodo cual seria el procedimiento que debo seguir ?",32
+reincorporacion__procedimiento,"hola, como realizo la reincorporación",32
+reincorporacion__procedimiento,"hola buenos días, me podrían hacer llegar el proceso de reincorporación ya que el ciclo pasado me retire.no encuentro el formato y ¿cuánto debo de pagar y en que banco?",32
+reincorporacion__procedimiento,"buenas tardes, el ciclo pasado no pude matricularme asi que reserve mi matricula quisiera saber ahora como puedo matricularme en el ciclo que viene",32
+reincorporacion__procedimiento,"hola, podria indicarme como puedo solicitar la reincorporación para este ciclo",32
+reincorporacion__procedimiento,buenas tardes me dirijo a ustedes porque quiero incorporarme en el siguiente ciclo,32
+reincorporacion__procedimiento,"hola aerito, este ciclo quisiera reincorporarme cual es procedimiento ?",32
+reincorporacion__procedimiento,"hola, quisiera tramitar mi reicorporacion como puedo proceder como mi matricula",32
+reincorporacion__procedimiento,cual es el proceso para solicitar mi reicorporacion,32
+reincorporacion__procedimiento,si tambien quisiera que debaria de hacer luego de la reserva de matricula para reincoporarme el siguiente ciclo,32
+reincorporacion__procedimiento,"buenas tardes, realice la reserva de matrícula el periodo pasado, que me corresponde hacer para matricularme este periodo",32
+reincorporacion__procedimiento,como puedo realizar mi reicorporacion para el siguiente periodo academico,32
+reincorporacion__procedimiento,podría indicarme ¿cuál es el procedimiento? para solicitar reincorporación,32
+reincorporacion__procedimiento,cual es el procedimiento para solicitar mi reincorporacion este ciclo,32
+reincorporacion__procedimiento,que tramite debo hacer para solicitar mi reincorporacion,32
+reincorporacion__procedimiento,"habia reservado mi matricula hace dos ciclos por motivos de saludo, ahora deseo realizar mi matricula para al proximo ciclo que debo hacer para que se me habilite",32
+reincorporacion__procedimiento,"buenos días, soy ingresante del período anterior desde entonces no pude culminar mis estudios del primer ciclo, quisiera que me digan ¿en qué condición me encuentro y ¿qué tengo que hacer para retomar mis estudios en el siguiente ciclo?",32
+reincorporacion__procedimiento,quisiera reincorporarme este ciclo que deberia hacer,32
+reincorporacion__procedimiento,que proceso debo seguir para que se me habilite mi matricula dando que reserve mi matricula el ciclo pasado,32
+reincorporacion__procedimiento,necesitaría mayor información de como es el procedimiento de reincorporación por favor,32
+reincorporacion__procedimiento,soy alumno de la facultad de ciencias que desea matricularse. deje de matricularme algunos semestres por la pandemia y deseo retomar los estudios. me dijeron que debo realizar un pago por el trámite de reincorporación. me gustaría saber ¿en qué entidad bancaria se realiza este pago? y ¿cuánto es el monto?.,32
+reincorporacion__procedimiento,"realice la reserva de matrícula el periodo pasado, que me corresponde hacer para matricularme este periodo",32
+reincorporacion__procedimiento,"he dejado de estudiar hace año, como podria matricularme en el siguiente ciclo",32
+reincorporacion__procedimiento,como me puedo reincorporar al siguiente ciclo,32
+reincorporacion__procedimiento,cual es prodimiento de reicorporacion,32
+reincorporacion__procedimiento,podría indicarme ¿cuál es el procedimiento? para solicitar reincorporación,32
+reincorporacion__procedimiento,"buenas tardes,le envio este mensaje porque quiero información, el ciclo pasado no pude matricularme pero tampoco hice el trámite de reserva de matricula, quisiera saber si aún puedo realizar el trámite de reincorporación para matricularme o en todo caso como podria reservar mi matricula. por favor agradecería como arreglar este asunto, gracias.",32
+reincorporacion__procedimiento,"buenas tardes aerito, el ciclo pasado no puede matricularme quisiera saber si aún puedo realizar el trámte de reincorporación.",32
+reincorporacion__procedimiento,el ciclo pasado no me matricula quiero saber si puedo reincorporarme este ciclo,32
+reincorporacion__procedimiento,una consulta el ciclo pasado no reserve mi matricula pero no puede matricularme podria reincorporame este ciclo o ya perdi mi vacante?,32
+reincorporacion__procedimiento,no pude matricularme el ciclo pasado quisiera que digan como puedo retormar mis estudios este ciclo que viene,32
+reincorporacion__procedimiento,"he dejado de matricularme hace dos ciclos, pero quiero retormar mis estudios como puedo matricularme este ciclo?",32
+reincorporacion__procedimiento,"deje mis estudios hace dos años y quiero retormalo este ciclo, que tramites debo hacer?",32
+reincorporacion__procedimiento,"por trabajo tuve que dejar mis estudios, pero quiero volver a matricularme este ciclo como puedo hacerlo?",32
+reincorporacion__procedimiento,"ola , como solicito mi reincorporacion para este ciclo",32
+reincorporacion__procedimiento,"he dejado de estudiar hace año , como podria matricularme en el siguinete ciclo",32
+reincorporacion__procedimiento,"por trabajo tuve q dejar mis estudios , pero quiero volver a matricularme este ciclo como puedo hacrlo ?",32
+reincorporacion__procedimiento,"hola , como realizo la reincorporacion",32
+reincorporacion__procedimiento,"hola , quiero solicitar mi reincorporasion para este periodo cual serai el procedimiento que debo seguir ?",32
+reincorporacion__procedimiento,¿ cuál es el procedimiento para solicitqr reincorporación ?,32
+reincorporacion__procedimiento,buenas tardes me dirijo a ustedes porque quiero re incorporarme en el siguiente periodo académico,32
+reincorporacion__procedimiento,"ola , quisiera tramitar mi reicorporacion como puedo proceder como mi matricula",32
+reincorporacion__procedimiento,no pude matricularme el civlo pasado quisiera que digan como ppuedo retormar mis estudios este ciclo que viene,32
+reincorporacion__procedimiento,buenas tardes me dirijo a usredes porque quiero incorporarme en el siguiente ciclo,32
+reincorporacion__procedimiento,necesitaría mwyor información de como es el procedimiento de reincorporación por favor,32
+reincorporacion__procedimiento,cual es prodimiento de reicorporacin,32
+reincorporacion__procedimiento,"hols , podria indicarme como puedo solicitar la reincorporación para este ciclo",32
+reincorporacion__procedimiento,que tramite debo haer para solicitar mi reincorporacion,32
+reincorporacion__procedimiento,cual es el procedimieento para solicitar mi reincorporacion este ciclo,32
+reincorporacion__procedimiento,como me puedo reincorporar al siguiente cidño,32
+reincorporacion__procedimiento,"buenas noches , el anterior ciclo reserve mi matricula por motivos familiares , este ciclo si qiueor matricularme realizo mi matricula como siempre o hay algun tramite q debo acer ?",32
+reincorporacion__procedimiento,como puedo realizar mi reicorporacion para el siguiente periodo acdaemico,32
+reincorporacion__procedimiento,"buenos días , soy ingresante del período anterior desde entonces no pude culminar mis estudios del primer cixlo , quisiera que me digan ¿ en qué condición me enccuentro y ¿ qué tengo que haceer para retomar mis estudios en el siguiente ciclo ?",32
+reincorporacion__procedimiento,podría indicarme ¿ cul es el procedimiento ? para solicitar reincorporación,32
+reincorporacion__procedimiento,quisiera re incorporarme este ciclo que deberia hacer,32
+reincorporacion__fechas,"otra consulta, ¿hasta cuándo tengo tiempo para presentar mi solicitud de reincoporacion?",33
+reincorporacion__fechas,"una consulta, es que fechas deberia solicitar mi reincorparacion",33
+reincorporacion__fechas,hasta cuando podria solicitar mi reincoporarcion,33
+reincorporacion__fechas,tengo una duda quiero reincorpararme el siguiente ciclo pero no se en que fechas debo comenzar el tramite,33
+reincorporacion__fechas,tengo una consulta desde que fecha ya puedo iniciar el tramite para mi reicorporacion en el siguiente ciclo,33
+reincorporacion__fechas,cuando puedo enviar mi solicitud para mi reincorporacion,33
+reincorporacion__fechas,cuando enviar mi solicitud para mi reincorporacion para el siguiente ciclo,33
+reincorporacion__fechas,cuando debo enviar mi solictud para mi reincorporacion para el siguiente periodo academico,33
+reincorporacion__fechas,hasta que dias puedo enviar mi solicitud de reincorporacion,33
+reincorporacion__fechas,cual es la fecha limite para enviar mi solicitud de reincorporacion,33
+reincorporacion__fechas,¿hasta cuando enviar mi solicitud de reincorporacion?,33
+reincorporacion__fechas,hasta cuando es posible reincoparme?,33
+reincorporacion__fechas,cuando puedo solicitar la reincorporacion para el siguiente ciclo?,33
+reincorporacion__fechas,"si ya pasaron las fechas de reincorporacion, ¿puedo enviar mi solicitud de reincorporacion?",33
+reincorporacion__fechas,"si ya pasó la fecha de la reincorporación, pasaría a rezagado",33
+reincorporacion__fechas,si ya se me paso la fecha para reincorporacion pasaria a matricula rezagada?,33
+reincorporacion__fechas,entonces que pasa si me paso de la fecha limite para la reincorporacion,33
+reincorporacion__fechas,una consulta si se me paso la fecha de reincorporacion que debo hacer,33
+reincorporacion__fechas,disculpa un consulta se me ha pasado la fecha de reincorporacion pero quiero matricuarme este ciclo que debo hacer,33
+reincorporacion__fechas,disculpe no vi bien la fechas de reincorporacion y ya se pasaraon podria aun reincorporarme?,33
+reincorporacion__fechas,una duda las fechas de reincorporacion ya pasaron podria aun reincorporarme aunque sea como rezagado ?,33
+reincorporacion__fechas,segun el calendario academico las fechas de reincorporacion finalizaron ayer podria aun reincorporarme ?,33
+reincorporacion__fechas,veo que segun el calendario academico las fechas de reincorporacion finalizaron hace una semana podria todavia reincorporarme como rezagado ?,33
+reincorporacion__fechas,quisiera reincorporarme este ciclo pero las fechas ya finalizaron puedo hacerlo como rezagado ?,33
+reincorporacion__fechas,"la fecha de reincorporacion ya paso, podria aun enviar mi solicitud de reincorporacion?",33
+reincorporacion__fechas,quiero solicitar mi reincorporacion este ciclo. todavia puedo hacerlo?,33
+reincorporacion__fechas,cual es la fecha limite para solicitar la reincorporacion para el siguiente ciclo?,33
+reincorporacion__fechas,la fechas para solicitar la reincorporacion ya salieron?,33
+reincorporacion__fechas,en donde puedo ver las fechas para solicitar la reincorporacion?,33
+reincorporacion__fechas,la siguente semana es la matricula puedo solicitar mi reincorpacion?,33
+reincorporacion__fechas,aun puedo solicitar mi reincorporacion?,33
+reincorporacion__fechas,en que fecha puedo tramitar mi reincorporacion?,33
+reincorporacion__fechas,ya faltan dos dias para la matricula podria solicitar mi reincorporacion o debo esperar al siguiente ciclo?,33
+reincorporacion__fechas,"quisiera reincorporarme este ciclo pero la matricula es en unos dias, puedo reincorporame o ya no es posible?",33
+reincorporacion__fechas,discuple no vi bien la fechas de reincorporacion y ya se pasaraon podria aun reincorporarme ?,33
+reincorporacion__fechas,disculpa un consulta se me ha pasado la fecha de reincorporacion pero quiero matricuarme este ciclo qu debo acer,33
+reincorporacion__fechas,hasta q dias puedo enviar mi solicitud de reincorporacion,33
+reincorporacion__fechas,ucando puedo enviar mi solicitud para mi reincorporacion,33
+reincorporacion__fechas,quisiera re incorporarme este ciclo pero las fechas ya finalizaron puedo hacerlo como rezagado ?,33
+reincorporacion__fechas,"otra consulta , ¿ hasta cuándo tengo tiemppo para presentar mi solicitud de reincoporacion ?",33
+reincorporacion__fechas,veo que segun el calendario academico las fechas de deincorporacion finalizaron hace una semana podria todavia reincorporarme como resagado ?,33
+reincorporacion__fechas,ya faltan dos dias para la matricula podria solisitar mi reincorporasion o debo esperar al siguiente ciclo ?,33
+reincorporacion__fechas,cuando puedo solicitar la reincorporacio para el siguiente ciclo ?,33
+reincorporacion__fechas,"la fecha de reincorporacion ya paso , podia aun enviar mi solicitud de reincorporacion ?",33
+reincorporacion__fechas,cual es la rceha limite para solicitar la reincorporacion para el siguiente ciclo ?,33
+reincorporacion__fechas,"una consulta , es q fechas deberia solicitar mi reincorparacion",33
+reincorporacion__fechas,aaun puedo solicitar mi reincorporacion ?,33
+reincorporacion__fechas,"quisiera re incorporarme este ciclo pero la matricula es en unos dias , puedo reincorporame o ya no es posible ?",33
+reincorporacion__fechas,¿ hasta cuando enviar mi solisitud de reincorporacion ?,33
+reincorporacion__fechas,cuando debo enviar mi solictud para mi reincorporasion para el siguiente periodo academico,33
+reincorporacion__fechas,tengo una duda quiero reincorpararme el siguiente ciclo pero no se en q fechas debo comenzar el tramite,33
+reincorporacion__costo,¿cuánto se paga por el tramite de reincorporación?,34
+reincorporacion__costo,el tramite de reincoporacion tiene alguna costo ?,34
+reincorporacion__costo,cuanto seria el pago por el tramite de reincoporacion ?,34
+reincorporacion__costo,cuanto cuesta el tramite de reincoporacion ?,34
+reincorporacion__costo,el tramite de reincoporacion es gratuito o tiene algun costo ?,34
+reincorporacion__costo,una consulta se debe pagar algo para el tramite de reincoporacion ?,34
+reincorporacion__costo,cuanto es el costo por el tramite de reincoporacion?,34
+reincorporacion__costo,cuanto debo pagar por la reincoporacion?,34
+reincorporacion__costo,cuanto pago por la reincoporacion?,34
+reincorporacion__costo,cuanto se paga por el tramite de reincorporación?,34
+reincorporacion__costo,cuanto es el costo por la reincoporacion?,34
+reincorporacion__costo,debo pagar algo por la reincoporacion?,34
+reincorporacion__costo,el tramite de reincoporacion se debe pagar o es gratuito?,34
+reincorporacion__costo,se debe pagar algo para la reincoporacion?,34
+reincorporacion__costo,¿cuánto se pago por reincorporación?,34
+reincorporacion__costo,soy alumno de la facultad de ciencias que desea matricularse. deje de matricularme algunos semestres por la pandemia y deseo retomar los estudios. me dijeron que debo realizar un pago por el trámite de reincorporación. me gustaría saber ¿en qué entidad bancaria se realiza este pago? y ¿cuánto es el monto?.,34
+reincorporacion__costo,habia reservado mi matricula hace dos ciclo por motivos de trabajo. quiero retomar que pagos debo hacer?,34
+reincorporacion__costo,"reserve mi matricula el ciclo pasado, quiero reincorporarme este que esta por comenzar cuando es lo que debo pagar?",34
+reincorporacion__costo,que debo pagar adicional para poder reincorporme este ciclo,34
+reincorporacion__costo,debo pago algo mas para poder reincorporarme?,34
+reincorporacion__costo,que pagos debo hacer para reincorporarme este ciclo,34
+reincorporacion__costo,el tramite de reincorporacion es gratis?,34
+reincorporacion__costo,"quiero reincorporame este ciclo, el tramite es gratis ?",34
+reincorporacion__costo,para el tramite de reincorporacion debo pagar algo o es gratis?,34
+reincorporacion__costo,cual es precio que tiene el tramite de reincorporacion?,34
+reincorporacion__costo,que pagos debo acer para reincorporarme este ciclo,34
+reincorporacion__costo,cuanto se paga por el tramite de reincorporacion ?,34
+reincorporacion__costo,cuanto seria el pago por el tramute de reincoporacion ?,34
+reincorporacion__costo,soy alumno de la facultad de ciencias q desea matricularse . deje de matricularme algunos semestres por la pandemia y deseo retomar los estudios . me dijeron que debo realizar un pago por el trámite de reincorporación . me gustaría saber ¿ en que entidad bancaria se realiza este pxgo ? y ¿ cuánto es el monto ? .,34
+reincorporacion__costo,cuanto cuesta el tramite de reibcoporcion ?,34
+reincorporacion__costo,para el tramite de reincorporasion debo pagar algo o es gratis ?,34
+reincorporacion__costo,el tramite de reincoporacion se debe pagar o es grtuito ?,34
+reincorporacion__costo,el tramite de reincorporasion es gratis ?,34
+reincorporacion__costo,"resreve mi matricula el ciclo pasado , quiero re incorporarme este que esta por comenzar cuando es lo que debo pagar ?",34
+reincorporacion__costo,cuanto pago por la reincporacion ?,34
+reincorporacion__costo,el tramte de reincoporacion tiene alguna costo ?,34
+reincorporacion__costo,cuanto es el vosto por la reincoporacion ?,34
+reincorporacion__costo,habia reservado mi matricula hace dos ciclo por motivos de trabajo . suiero retomar que pagos debo hacre ?,34
+reincorporacion__formato_solicitud,¿hay un modelo para la solicitud de reincorporación?,35
+reincorporacion__formato_solicitud,¿hay un formato de solicitud para la reincorporacion?,35
+reincorporacion__formato_solicitud,y hay alguna modelo para la solicitud de reincorporación?,35
+reincorporacion__formato_solicitud,existe algun modelo para la solicitud de reincorporacion ?,35
+reincorporacion__formato_solicitud,donde puedo encontrar un modelo para la solicitud de reincorporacion?,35
+reincorporacion__formato_solicitud,podria enviarme un modelo para la solicitud de reincorporacion ?,35
+reincorporacion__formato_solicitud,un consulta mas donde podria descargar un modelo o formato para la solicitud de reincorporacion,35
+reincorporacion__formato_solicitud,dime hay algun formato para la solicitud de reincorporacion ?,35
+reincorporacion__formato_solicitud,como debe ser la solictud de reincorporacion ?,35
+reincorporacion__formato_solicitud,el modelo de la solicitud de reincorporacion tambien esta el la pagina de la fc,35
+reincorporacion__formato_solicitud,estoy buscando el modelo de la solitud de reincorporacion y no lo encuetro puedes decirme donde esta ?,35
+reincorporacion__formato_solicitud,una duda para la solicitud de reincorporacion hay algun modelo o formato ?,35
+reincorporacion__formato_solicitud,una duda porfavor la solicitud de reincorporacion tiene algun modelo ?,35
+reincorporacion__formato_solicitud,no quiero saber cual es el formato para las solicitud de reincorporacion,35
+reincorporacion__formato_solicitud,que informacion debo colocar en la solicitud para la reincorporacion?,35
+reincorporacion__formato_solicitud,debo colocar mi dni en la solcitud de reincorporacion?,35
+reincorporacion__formato_solicitud,este ciclo quiero solicitar la reincorporacion me puedes enviar un formato?,35
+reincorporacion__formato_solicitud,la solicitud de reincorporacion debe estar dirigida al decano?,35
+reincorporacion__formato_solicitud,me dijeron que envie una solicitud para la reincorporacion esta debe esta dirigida al decano?,35
+reincorporacion__formato_solicitud,la solicitud de reincorporacion debo redactarlar dirigida al decano o alguien mas?,35
+reincorporacion__formato_solicitud,debo ponde mi dni en la solcitud de reincorporacion?,35
+reincorporacion__formato_solicitud,existe algun modelo para la solisitud de reincorporacion ?,35
+reincorporacion__formato_solicitud,el modelo de la solicitud de reincorporacion tmb esta el la pagina de la fc,35
+reincorporacion__formato_solicitud,la solicitud de reincorporasion debe estar dirigida al decano ?,35
+reincorporacion__formato_solicitud,una duda para la solicitud de re incorporacion hay algun modelo o formato ?,35
+reincorporacion__formato_solicitud,no quiero saber cual es el formato para las solifitud de reincorporacion,35
+reincorporacion__formato_solicitud,como debe ser la solictud de reincorpporaicon ?,35
+reincorporacion__formato_solicitud,un consulta mas donde podriaa descargar un modelo o formato para la solicitud de reincorporacion,35
+reincorporacion__formato_solicitud,estoy buscando el modelo de la solitud de reincorporasion y no lo encuetro puedes decirme donde esta ?,35
+reincorporacion__formato_solicitud,dime hay alrun formato para la solicitud de reincorporacion ?,35
+reincorporacion__formato_solicitud,la solicitud de reincorporacion deb redactarlar dirigida al decano o alguien mas ?,35
+reincorporacion__formato_solicitud,me dijeron que envie una solicitud para la reincorporasion esta debe esta dirigida al decano ?,35
+constancia_matricula__solicitud_procedimiento,"buenas tardes una consulta, ¿cómo puedo obtener una constancia de matricula?",36
+constancia_matricula__solicitud_procedimiento,que tal quiero saber como obtener la constancia de matricula,36
+constancia_matricula__solicitud_procedimiento,"hola, quisiera tramitar mi un constancia de matricula, como puedo pedirla ?",36
+constancia_matricula__solicitud_procedimiento,"buenas dias, un consulta como puedo tramitar una constancia de matricula ?",36
+constancia_matricula__solicitud_procedimiento,"buenas noches, cual es el procedimiento para tramitar mi constancia de matricula ?",36
+constancia_matricula__solicitud_procedimiento,"hola, una consulta deseo tramitar una constancia de matricula me puedes decir el procedimiento",36
+constancia_matricula__solicitud_procedimiento,"buenos dias, estoy necesitando una constancia de matricula de este ciclo como puedo tramitarla ?",36
+constancia_matricula__solicitud_procedimiento,"hola que tal, una ayuda quiero tramitar una constancia de matricula de este ciclo donde puedo hacerlo?",36
+constancia_matricula__solicitud_procedimiento,"hola, como puedo solicitar una constancia de matricula?",36
+constancia_matricula__solicitud_procedimiento,quisiera tramitar una constancia de matricula de este ciclo,36
+constancia_matricula__solicitud_procedimiento,como puedo tramitar una constancia de matricula de este ciclo,36
+constancia_matricula__solicitud_procedimiento,como puedo solicitar un constancia de matricula de este ciclo,36
+constancia_matricula__solicitud_procedimiento,deseo tramitar una constancia de matricula de este ciclo,36
+constancia_matricula__solicitud_procedimiento,quisiera tramitar una constancia de matricula como puedo hacerlo,36
+constancia_matricula__solicitud_procedimiento,cual es el procedemiento para tramitar una constancia de matricula,36
+constancia_matricula__solicitud_procedimiento,cuales son los paso para tramitar una constancia de matricula,36
+constancia_matricula__solicitud_procedimiento,quisiera tramitar una constancia de matricula a quien le puedo consultar,36
+constancia_matricula__solicitud_procedimiento,me estan piediendo una constancia de matricula como puedo tramitarla,36
+constancia_matricula__solicitud_procedimiento,una consulta me puedes decir el procedimiento para tramitar una constancia de matricula,36
+constancia_matricula__solicitud_procedimiento,una duda a quien puedo solicitar una constancia de matricula,36
+constancia_matricula__solicitud_procedimiento,como solicito una constancia de matricula?,36
+constancia_matricula__solicitud_procedimiento,a quien le puedo solicitar una constancia de matricula?,36
+constancia_matricula__solicitud_procedimiento,"hola , una consulta deseo tramitar una constansia de matricula me puedes decir el procedimiento",36
+constancia_matricula__solicitud_procedimiento,"bueons dias , estoy necesitando una constancia de matricula de este ciclo como puedo tramitarla ?",36
+constancia_matricula__solicitud_procedimiento,como solicito una costaancia de matricula ?,36
+constancia_matricula__solicitud_procedimiento,que tal quiero saer como obtener la constancia de matricula,36
+constancia_matricula__solicitud_procedimiento,"ola que tal , una ayuda quiero tramitar una constansia de matricula de este ciclo donde puedo hacerlo ?",36
+constancia_matricula__solicitud_procedimiento,una onsulta me puedes decir el procedimiento para tramitar una constancia de matricula,36
+constancia_matricula__solicitud_procedimiento,cual es el procedemiento para tramitar una constansia de matricula,36
+constancia_matricula__solicitud_procedimiento,"buenas tardes una consulta , ¿ cóo puedo obtener una constancia de matricula ?",36
+constancia_matricula__solicitud_procedimiento,a quiien le puedo solicitar una constancia de matricula ?,36
+constancia_matricula__solicitud_procedimiento,como puedo solisitar un constancia de matricula de este ciclo,36
+constancia_matricula__solicitud_procedimiento,"buenas dias , un consulta como puedo tramitar una constansia de matricula ?",36
+constancia_matricula__pago,¿cuánto se paga por la constancia de matrícula?,37
+constancia_matricula__pago,el trámite de la constancia de matricula es gratuito?,37
+constancia_matricula__pago,se debe pagar algo para el tramite de la constancia de matricula,37
+constancia_matricula__pago,existe algun pago por la constancia de matricula,37
+constancia_matricula__pago,cuanto es el monto que se paga por la constancia de matricula,37
+constancia_matricula__pago,para el tramite de constancia de matricula se debe paga algo?,37
+constancia_matricula__pago,cuanto es el costo del tramite de matricula?,37
+constancia_matricula__pago,el tramite de la constancia de matricula seria gratuito?,37
+constancia_matricula__pago,cuanto se debe pagar por el tramite de constancia de matricula,37
+constancia_matricula__pago,cuanto pago por la constancia de matricula,37
+constancia_matricula__pago,se debe pagar algo por la constancia de matricula?,37
+constancia_matricula__pago,cuanto cuesta la constancia de matricula?,37
+constancia_matricula__pago,el tramite de constancia de matricula es gratuito o se paga algo?,37
+constancia_matricula__pago,para solicitar la constancia de matricula debo pagar algo primero?,37
+constancia_matricula__pago,la constancia de matricula tiene algun costo?,37
+constancia_matricula__pago,la constancia de matricula es gratis o tiene algun costo?,37
+constancia_matricula__pago,cuanto tengo que pagar para una constancia de matricula?,37
+constancia_matricula__pago,quiero solicitar una constancia de matricula cuanto debo pagar?,37
+constancia_matricula__pago,me dijeron que la constancia de matricula es gratis. es cierto?,37
+constancia_matricula__pago,"me comentaron que la constancia de matricula tiene un costo, cuanto es?",37
+constancia_matricula__pago,¿ cuántoo se paga por la constancia de matrícula ?,37
+constancia_matricula__pago,canto tengo que pagar para una constancia de matricula ?,37
+constancia_matricula__pago,cuanto cuesta la constancia de atricula ?,37
+constancia_matricula__pago,cuanto pagoo por la constancia de matricula,37
+constancia_matricula__pago,me dijeron que la constancia de matricula es gatis . es cierto ?,37
+constancia_matricula__pago,se debe pagar algo por la constansia de matricula ?,37
+constancia_matricula__pago,el trámite de la constancia de matriculw es gratuito ?,37
+constancia_matricula__pago,el tramite de la constansia de matricula seria gratuito ?,37
+constancia_matricula__pago,para solicitar la constancia de matricula debo pagar algo pdimero ?,37
+constancia_matricula__pago,para el trmite de constancia de matricula se debe paga algo ?,37
+constancia_matricula__formato_solicitud,¿hay un modelo para la solicitud de constancia de matricula?,38
+constancia_matricula__formato_solicitud,"exacto, es lo que necesito. hay algún formato para la solicitud de constancia matricula?",38
+constancia_matricula__formato_solicitud,existe alguna formato para la solicitud de constancia de matricula,38
+constancia_matricula__formato_solicitud,cual es el formato para la solicitud de la constancia de matricula,38
+constancia_matricula__formato_solicitud,donde puedo encontrar un modelo para la solicitud de la constancia de matricula,38
+constancia_matricula__formato_solicitud,"una consulta, hay algun modelo para la solicitud de constancia de matricula",38
+constancia_matricula__formato_solicitud,me puedes enviar un formato o modelo para la solicitud de constancia de matricula,38
+constancia_matricula__formato_solicitud,me puedes facilitar un modelo o formato para la constancia de matricula,38
+constancia_matricula__formato_solicitud,quisiera saber si hay algun modelo para la solicitud de constancia de matricula,38
+constancia_matricula__formato_solicitud,"no encuentro un modelo para la solicitud de constancia de matricula, existe alguno?",38
+constancia_matricula__formato_solicitud,donde se encontra un modelo o formato para esta solicitud de constancia matricula,38
+constancia_matricula__formato_solicitud,existe algun modelo o formato para esta solicitud de constancia matricula,38
+constancia_matricula__formato_solicitud,cual es el modelo para la solicitud de constancia de matricula?,38
+constancia_matricula__formato_solicitud,me comentaron que hay un modelo para la solicitud de constancia de matricula en donde la encuentro?,38
+constancia_matricula__formato_solicitud,"quiero solicitar una constancia de matricula, puedes enviarme el modelo para la solicitud",38
+constancia_matricula__formato_solicitud,que informacion debo colocar en la solicitud de constancia de matricula,38
+constancia_matricula__formato_solicitud,la solicitud de constancia de matricula debe estar dirigida al decano?,38
+constancia_matricula__formato_solicitud,la solicitud de constancia de matricula debe contener mi dni?,38
+constancia_matricula__formato_solicitud,la solicitud de constancia de matricula tambien es dirigida al decano?,38
+constancia_matricula__formato_solicitud,como es la solicitud que debo enviar para mi constancia de matricula?,38
+constancia_matricula__formato_solicitud,me comentaron que hay un modelo para la sloicitud de constancia de matricula en donde la encuentro ?,38
+constancia_matricula__formato_solicitud,donde se enccontra un modelo o formato para esta solicitud de constancia matricula,38
+constancia_matricula__formato_solicitud,existe algun modelo o formato para esta solisitud de constancia matricula,38
+constancia_matricula__formato_solicitud,quisiera saber si hay algun modelo para la solicitud de constansia de matricula,38
+constancia_matricula__formato_solicitud,"no encuentro un modelo para la solisitud de constancia de matricula , existe alguno ?",38
+constancia_matricula__formato_solicitud,me puedes fasilitar un modelo o formato para la constancia de matricula,38
+constancia_matricula__formato_solicitud,como es la soilcitud que debo enviar para mi constancia de matricula ?,38
+constancia_matricula__formato_solicitud,"exacto , es lo que necesito . hay algún formato para la splicitud de constancia matricula ?",38
+constancia_matricula__formato_solicitud,"quiero solicitar una constancia de matricula , puedes enviarhe el modelo para la solicitud",38
+constancia_matricula__formato_solicitud,¿ hay un modelo para la solisitud de constancia de matricula ?,38
+constancia_de_notas__procedimiento,¿como solicitar una constancia de notas?,39
+constancia_de_notas__procedimiento,"buenas tardes, voy a postular para a una beca necesito una constancia de notas en inglés ¿cuál es el procedimeinto?",39
+constancia_de_notas__procedimiento,"hola, quiero saber como tramitar una constancia de notas en ingles y español",39
+constancia_de_notas__procedimiento,"buenas, como solicito una constancia de notas",39
+constancia_de_notas__procedimiento,"buenos dias, una consulta como puedo solicitar una constancia de notas",39
+constancia_de_notas__procedimiento,"solicito constancia de notas en español e inglés (transcript) oficial, esto significa que esté firmada y sellada por los órganos que correspondan. por favor me dice lo que necesita para ello.",39
+constancia_de_notas__procedimiento,"que tal, acabo de realizar mi pago para obtener una constancia de notas pero no sé qué más hacer?",39
+constancia_de_notas__procedimiento,me podria indicar como solicitar una constancia de notas,39
+constancia_de_notas__procedimiento,como podria tramitar una constancia de notas?,39
+constancia_de_notas__procedimiento,"deseo solicitar una constancia de notas, cual es el procedimiento?",39
+constancia_de_notas__procedimiento,como puedo solicitar una constancia de notas?,39
+constancia_de_notas__procedimiento,donde puedo solicitar una constancia de notas?,39
+constancia_de_notas__procedimiento,cual es el proceso para solicitar una constancia de notas?,39
+constancia_de_notas__procedimiento,que tramites debo hacer para solicitar una constancia de notas?,39
+constancia_de_notas__procedimiento,donde puedo solictar una constancias de matricula?,39
+constancia_de_notas__procedimiento,a quien le puedo solcitar una constancia de notas?,39
+constancia_de_notas__procedimiento,a que oficina puedo consultar por una constancia de notas?,39
+constancia_de_notas__procedimiento,en donde puedo consultar por una constancia de notas?,39
+constancia_de_notas__procedimiento,es en estadistica donde puedo solicitar una constancia de notas?,39
+constancia_de_notas__procedimiento,las constancia de notas la solicito en escuelas academicas?,39
+constancia_de_notas__procedimiento,¿ como solicitar una constansia de notas ?,39
+constancia_de_notas__procedimiento,como puedo solicitar una constansia de notas ?,39
+constancia_de_notas__procedimiento,a q oficina puedo consultar por una constancia de notas ?,39
+constancia_de_notas__procedimiento,"que tal , acabo de realisar mi pago para obteneer una constancia de notas pero no sé qué más hacer ?",39
+constancia_de_notas__procedimiento,las constancia de notas la solicito en escuelsa academicas ?,39
+constancia_de_notas__procedimiento,es en estadistica donde puedo solisitar una constancia de notas ?,39
+constancia_de_notas__procedimiento,a quien le puedo solcitar una constansia de notas ?,39
+constancia_de_notas__procedimiento,dond puedo solictar una constancias de matricula ?,39
+constancia_de_notas__procedimiento,donde puedo solicitar una constancia de tas ?,39
+constancia_de_notas__procedimiento,"buenas , coom solicito una constancia de notas",39
+constancia_de_notas__formato_solicitud,¿hay algun modelo para la solicitud de constancia de notas?,40
+constancia_de_notas__formato_solicitud,no. ¿dónde puedo ver un modelo de la solicitud de constancia de notas?,40
+constancia_de_notas__formato_solicitud,donde puedo encontrar el modelo de solicitud para la constancia de notas,40
+constancia_de_notas__formato_solicitud,existe algun modelo para la solicitud de constancia de notas,40
+constancia_de_notas__formato_solicitud,habria algun modelo o formato para la solicitud de constancia de notas,40
+constancia_de_notas__formato_solicitud,me puedes enviar un modelo para la solicitud de constancia de notas,40
+constancia_de_notas__formato_solicitud,donde un encontra un modelo o formato para esta solicitud,40
+constancia_de_notas__formato_solicitud,existe algun modelo o formato para esta solicitud de constancia de notas,40
+constancia_de_notas__formato_solicitud,donde podria encontar un modelo de solicitud para la constacia de notas,40
+constancia_de_notas__formato_solicitud,hay algun formato para la solicitud de constancia de notas,40
+constancia_de_notas__formato_solicitud,me puede facilitar un modelo para la solicitud de constancia de notas si la hubiera,40
+constancia_de_notas__formato_solicitud,que debo colocar en mi solicitud para la constancia de notas,40
+constancia_de_notas__formato_solicitud,que informacion debo colocar en mi solicitud de constancia de notas?,40
+constancia_de_notas__formato_solicitud,la solicitud de constancia de notas tambien debe ir dirigida al decano?,40
+constancia_de_notas__formato_solicitud,una consulta quiero enviar una solicitud para la constancia de notas esta debe ir dirigida al decano?,40
+constancia_de_notas__formato_solicitud,debo colocar solo mi nombre y codigo en la solicitud de constancia de notas?,40
+constancia_de_notas__formato_solicitud,que mas informacion debe ir a parte de mi codigo y nombre en la solicitud de constancia de notas,40
+constancia_de_notas__formato_solicitud,me pueden facilitar un modelo para la solicitud de constancia de notas?,40
+constancia_de_notas__formato_solicitud,debo colocar sol mi nombre y codigo en la solicitud de constancia de notas ?,40
+constancia_de_notas__formato_solicitud,habria algun modelo o formato para la soliitud de constancia de notas,40
+constancia_de_notas__formato_solicitud,donde un encontra un modelo o formato para esta solisitud,40
+constancia_de_notas__formato_solicitud,q debo colocar en mi solicitud para la constancia de notas,40
+constancia_de_notas__formato_solicitud,me puede facilitar un modelo para la sollicitud de constancia de notas si la hubiera,40
+constancia_de_notas__formato_solicitud,la solicitud de constansia de notas tambien debe ir dirigida al decano ?,40
+constancia_de_notas__formato_solicitud,¿ hay algun modeol para la solicitud de constancia de notas ?,40
+constancia_de_notas__formato_solicitud,q mas informacion debe ir a parte de mi codigo y nombre en la solicitud de constansia de notas,40
+constancia_de_notas__formato_solicitud,me pueden faciiitar un modelo para la solicitud de constancia de notas ?,40
+constancia_de_estudios__formato_solicitud,¿hay algún modelo para la solicitud de constancia de estudios?,41
+constancia_de_estudios__formato_solicitud,¿hay algún formato de solicitud de constancia de estudios?,41
+constancia_de_estudios__formato_solicitud,hay algun formato para la solictud de constancia de estudios,41
+constancia_de_estudios__formato_solicitud,para la solicitud de constancia de estudios existe algun modelo,41
+constancia_de_estudios__formato_solicitud,puede enviarme un modelo para la solicitud de constancia de estudios,41
+constancia_de_estudios__formato_solicitud,existe algun modelo para la solicitud de constancia de estudios,41
+constancia_de_estudios__formato_solicitud,me puedes facilitar un modelo para la solicitud de constacia de estudios,41
+constancia_de_estudios__formato_solicitud,donde puedo encontra un modelo para la solicitud de constancia de estudios,41
+constancia_de_estudios__formato_solicitud,donde un encontra un modelo o formato para la solicitud de constancia de estudios,41
+constancia_de_estudios__formato_solicitud,existe un modelo o formato para esta solicitud de constancia de estudios,41
+constancia_de_estudios__formato_solicitud,cual es el modelo para solicitud de constancia de estudios?,41
+constancia_de_estudios__formato_solicitud,que datos debe tener la solicitud  de constancia de estudios que debo enviar al mesa de parter,41
+constancia_de_estudios__formato_solicitud,que informacion debo colocar en la solicitud para un constancia de estudios?,41
+constancia_de_estudios__formato_solicitud,la solicitud que debo enviar para la constancia de estudios debe estar dirigida al decano?,41
+constancia_de_estudios__formato_solicitud,mi soliciutd para la constancia de estudios debe estar dirigida al decano?,41
+constancia_de_estudios__formato_solicitud,la solicitud para la constancia de estudios debo dirigirla al decano?,41
+constancia_de_estudios__formato_solicitud,debo colocar mi dni en la solicitud de constancia de estudios?,41
+constancia_de_estudios__formato_solicitud,que debo colocar en la solicitud de constancia de estudios?,41
+constancia_de_estudios__formato_solicitud,que informacion debe ir la solcitud de constancia de estudios?,41
+constancia_de_estudios__formato_solicitud,mi soliciutd para la constansia de estudios debe estar dirigida al decano ?,41
+constancia_de_estudios__formato_solicitud,¿ hay algún formato de soilcitud de constancia de estudios ?,41
+constancia_de_estudios__formato_solicitud,para la solicitud de constansia de estudios existe algun modelo,41
+constancia_de_estudios__formato_solicitud,existe algun modelo para la soolicitud de constancia de estudios,41
+constancia_de_estudios__formato_solicitud,la solicitud q debo enviar para la constancia de estudios debe estar dirigida al decano ?,41
+constancia_de_estudios__formato_solicitud,¿ hay algún mdelo para la solicitud de constancia de estudios ?,41
+constancia_de_estudios__formato_solicitud,puede enviarme un modelo para la solisitud de constancia de estudios,41
+constancia_de_estudios__formato_solicitud,la solicitud para la constansia de estudios debo dirigirla al decano ?,41
+constancia_de_estudios__formato_solicitud,cual es el modelo para solicitud de constansia de estudios ?,41
+constancia_de_estudios__formato_solicitud,ue datos debe tener la solicitud   de constancia de estudios que debo enviar al emsz de parter,41
+constancia_de_estudios__procedimiento,¿cómo solicitar una constancia de estudios?,42
+constancia_de_estudios__procedimiento,"buenas tardes, ¿cuál es el procedimiento para obtener una constancia de estudios?",42
+constancia_de_estudios__procedimiento,"hola, pudria decirme cual el procedimiento para obtener una constancia de estudios",42
+constancia_de_estudios__procedimiento,hola como puedo tramitar una constancia de estudios,42
+constancia_de_estudios__procedimiento,"buenas tardes, puedes decirme el procedemiento para tramitar una constancia de estudios",42
+constancia_de_estudios__procedimiento,"buenos dias, una duda como puedo tramitar una constancia de estudios",42
+constancia_de_estudios__procedimiento,"hola, una consulta estoy necesitando una constancia de estudios como puedo tramitarla",42
+constancia_de_estudios__procedimiento,"hola que tal, me podria indicar como puedo tramitar una constancia de estudios",42
+constancia_de_estudios__procedimiento,"hola, me podrias mandar el procedimiento para tramitar una constacia de estudios",42
+constancia_de_estudios__procedimiento,"buenas noches, quiero saber como tramitar una constancia de estudios",42
+constancia_de_estudios__procedimiento,"hola, como puedo solicitar una constancia de estudios",42
+constancia_de_estudios__procedimiento,deseo solicitar una constancia de estudios como puedo hacer,42
+constancia_de_estudios__procedimiento,a quien le solicito una constancia de estudios,42
+constancia_de_estudios__procedimiento,donde solicito una constancia de estidios,42
+constancia_de_estudios__procedimiento,voy a postular a una beca quiero una constancia de estudios,42
+constancia_de_estudios__procedimiento,estoy postulando para un intercambio me piden una constancia de estudios,42
+constancia_de_estudios__procedimiento,quisiera una constancia de estudios como la tramito,42
+constancia_de_estudios__procedimiento,a que oficina puedo solicitar una constancia de estudios,42
+constancia_de_estudios__procedimiento,donde puedo solicitar uns constancia de estudios?,42
+constancia_de_estudios__procedimiento,me ayudaas quiero solicitar una constancia de estudios pero no se a donde,42
+constancia_de_estudios__procedimiento,necesito una constancia de estudios para postular a un intercambio en dondo la puedo solicitar,42
+constancia_de_estudios__procedimiento,"he sido eligido para una beca del pronabec pero me estan pidiendo una constancia de estudios, donde puedo tramitarla y cuanto debo pagar",42
+constancia_de_estudios__procedimiento,la constancia de estudios la tramito en escuelas academicas?,42
+constancia_de_estudios__procedimiento,la constnacia de estudios la solicito a la oficina de estadisticas?,42
+constancia_de_estudios__procedimiento,para pedir una constancia de estudios solo debo enviar una solicitud o mesa de partes?,42
+constancia_de_estudios__procedimiento,la constansia de estudios la tramito en escuelas academicas ?,42
+constancia_de_estudios__procedimiento,"he sido eligido para una beca del pronabec pero me estan pidiendo una constansia de estudios , donde puedo tramitarla y cuuato debo pagar",42
+constancia_de_estudios__procedimiento,quisiera una constansia de estudios como la tramito,42
+constancia_de_estudios__procedimiento,donde puedo solicitar uns constansia de estudios ?,42
+constancia_de_estudios__procedimiento,la constnacia de estudios la solicito a la oficina de estaadisticas ?,42
+constancia_de_estudios__procedimiento,"hola q tal , me podria indicar como puedo tramitar una constancia de estudios",42
+constancia_de_estudios__procedimiento,"hola , como puedo solisitar una constancia de estudios",42
+constancia_de_estudios__procedimiento,para pedir una constancia de estudios solo debo enviar una solisitud o mesa de partes ?,42
+constancia_de_estudios__procedimiento,a que oficina puedo solisitar una constancia de estudios,42
+constancia_de_estudios__procedimiento,hoña como puedo tramitar una constancia de estudios,42
+constancia_de_estudios__procedimiento,"hola , una consulta estoy necesitando una constancia de estudios como puedo trammitrala",42
+constancia_de_estudios__procedimiento,necesito una constancia de estudios para postular a un intercambio en dondo la puedo solisitar,42
+constancia_de_estudios__procedimiento,deseo solicitar una constancia de estudios como puedo hcaer,42
+horario_atencion_aera,¿cuál es el horario de aera?,43
+horario_atencion_aera,puede decirme cual es el horario de atencion ?,43
+horario_atencion_aera,puede decirme cual es el horaro de atencion de la oficina?,43
+horario_atencion_aera,podria saber los horarios de atencion de la oficina de estadistica?,43
+horario_atencion_aera,puede decirme cual es el horario de atencion de la oficina de estadistica?,43
+horario_atencion_aera,cual es el horario de atencion de aera ?,43
+horario_atencion_aera,cuales es el horario de atencion de la oficina de estadística ?,43
+horario_atencion_aera,en que horario atiende la oficina de estadistica,43
+horario_atencion_aera,a que hora hay atencion en la oficina de estadística,43
+horario_atencion_aera,aera atiende en la noches,43
+horario_atencion_aera,hasta que hora atiende aera,43
+horario_atencion_aera,hasta que hora atiende la oficina de estadistica,43
+horario_atencion_aera,a que hora abre la oficina de estadistica,43
+horario_atencion_aera,desde que hora atiende la oficina la estadistica,43
+horario_atencion_aera,cual es el horario de estadistica?,43
+horario_atencion_aera,quiero saber el horario de estadistica,43
+horario_atencion_aera,cual es el horario de atencion de estadistica?,43
+horario_atencion_aera,que dias atiende estadistica?,43
+horario_atencion_aera,una consulta mas cual el horario de atencion presencial de estadística?,43
+horario_atencion_aera,hasta que hora atienden en la oficina de estadistica?,43
+horario_atencion_aera,que dias esta atendiendo la oficina de estadistica?,43
+horario_atencion_aera,aera atiende los sabados?,43
+horario_atencion_aera,a apartir de que hora estan atendiento en la oficina de estadistica?,43
+horario_atencion_aera,a que hora abren aera?,43
+horario_atencion_aera,desde que hora esta abierto la oficina de estadistica?,43
+horario_atencion_aera,hasta que hora esta abierto la oficina de estadistica?,43
+horario_atencion_aera,¿ cuál es el horario de area ?,43
+horario_atencion_aera,hasta que hora a tiende aera,43
+horario_atencion_aera,hasta q hora atiende la oficina de estadistica,43
+horario_atencion_aera,q dias esta atendiendo la oficina de estadistica ?,43
+horario_atencion_aera,aera atiende en la nocmes,43
+horario_atencion_aera,que dias atidne estadistica ?,43
+horario_atencion_aera,cual es el horario de atencion de esradistida ?,43
+horario_atencion_aera,a q hora abren aera ?,43
+horario_atencion_aera,podria saber los horarios de atension de la oficina de estadistica ?,43
+horario_atencion_aera,puede decirme cual es el horario de atension ?,43
+horario_atencion_aera,cual es el horario de atension de aera ?,43
+horario_atencion_aera,en que horario a tiende la oficina de estadistica,43
+horario_atencion_aera,puede decirme cual es el horaor de atencion de la oficina ?,43
+solicitud_correo_institucional_procedimiento,¿cómo solicito mi correo uni?,44
+solicitud_correo_institucional_procedimiento,una pregunta como obtengo mi correo institucional,44
+solicitud_correo_institucional_procedimiento,una duda como puedo obtener mi correo institucional,44
+solicitud_correo_institucional_procedimiento,como puedo solicitar mi correo institucional,44
+solicitud_correo_institucional_procedimiento,quisiera solicitar mi correo institucional,44
+solicitud_correo_institucional_procedimiento,donde puedo solicitar mi correo institucional,44
+solicitud_correo_institucional_procedimiento,a quien puedo perdirle mi correo institucional,44
+solicitud_correo_institucional_procedimiento,hola quisiera tramitar mi correo institucional,44
+solicitud_correo_institucional_procedimiento,donde puedo tramitar mi correo institucional,44
+solicitud_correo_institucional_procedimiento,quisiera tramitar mi correo institucional,44
+solicitud_correo_institucional_procedimiento,como solicito mi correo institucional,44
+solicitud_correo_institucional_procedimiento,hola como solicito mi correo uni,44
+solicitud_correo_institucional_procedimiento,hola quisiera tramitar mi correo uni,44
+solicitud_correo_institucional_procedimiento,como puedo tramitar mi correo uni,44
+solicitud_correo_institucional_procedimiento,como tramito mi correo uni,44
+solicitud_correo_institucional_procedimiento,quero pedir mi correo uni,44
+solicitud_correo_institucional_procedimiento,quisiero tramitar mi correo uni,44
+solicitud_correo_institucional_procedimiento,quiero solicitar mi correo uni donde lo pido,44
+solicitud_correo_institucional_procedimiento,aun no tengo mi correo uni en donde lo solicito,44
+solicitud_correo_institucional_procedimiento,a que oficina le solicito mi correo uni,44
+solicitud_correo_institucional_procedimiento,"hola que tal, todavia no me han dado mi correo uni, a quien puedo pedirle?",44
+solicitud_correo_institucional_procedimiento,quiciera tramitar mi correo institucional,44
+solicitud_correo_institucional_procedimiento,hola como solicito mi orreo uni,44
+solicitud_correo_institucional_procedimiento,quiciera solicitar mi correo institucional,44
+solicitud_correo_institucional_procedimiento,donde puedo solisitar mi correo institucional,44
+solicitud_correo_institucional_procedimiento,quisiero tramtar mi correo uni,44
+solicitud_correo_institucional_procedimiento,como solisito mi correo institucional,44
+solicitud_correo_institucional_procedimiento,a qu oficina le solicito mi correo uni,44
+solicitud_correo_institucional_procedimiento,una pregunta como obtengo mi correo instituciona,44
+solicitud_correo_institucional_procedimiento,hola quisiera tramitra mi correo uni,44
+solicitud_correo_institucional_procedimiento,quiero solisitar mi correo uni donde lo pido,44
+solicitud_correo_institucional_procedimiento,donde puedo tramitat mi correo institucional,44
+retiro_parcial__cursos_repetidos,¿es posible retirarme de un curso que haya repetido?,45
+retiro_parcial__cursos_repetidos,puedo retirarme de cursos con repitencias?,45
+retiro_parcial__cursos_repetidos,puedo retirarme de una asginatura que he repetido,45
+retiro_parcial__cursos_repetidos,es posible retirarse de una asignatura que llevo por segunda vez,45
+retiro_parcial__cursos_repetidos,puedo retirarme de un curso que haya repetido el ciclo anterior ?,45
+retiro_parcial__cursos_repetidos,si he repetido un curso en el ciclo paso puedo retirarme en este ciclo de este curso?,45
+retiro_parcial__cursos_repetidos,es posible retirase de cursos con repitencias ?,45
+retiro_parcial__cursos_repetidos,puedo retirarme de un curso que he jalado el ciclo anterior ?,45
+retiro_parcial__cursos_repetidos,quiero retirarme de un curso que ya he desaprobado es posible?,45
+retiro_parcial__cursos_repetidos,es posible retirarme de un curso que estoy llevando por segunda vez?,45
+retiro_parcial__cursos_repetidos,el posible retirarme de un curso que he desaprobado el ciclo anterior?,45
+retiro_parcial__cursos_repetidos,puedo solicitar el retiro de un curso que he repetido el ciclo anterior?,45
+retiro_parcial__cursos_repetidos,"quisiera hacer el retiro de un curso pero lo he desaprobado el ciclo, es posible o no procede?",45
+retiro_parcial__cursos_repetidos,quisero hacer el retiro de un curso que estoy llevando por segunda vez es posible?,45
+retiro_parcial__cursos_repetidos,estoy llevando un curso por segunda vez y quiero retirarme es posible?,45
+retiro_parcial__cursos_repetidos,quero solicitar el retiro de un curso que estoy llevando por segunda vez,45
+retiro_parcial__cursos_repetidos,el retiro parcial se aplica cursos desaprobados?,45
+retiro_parcial__cursos_repetidos,se puede solicitar el retiro parcial de un que se lleva por segunda vez?,45
+retiro_parcial__cursos_repetidos,quiero retirarme de un curso que llevo por segunda pero el sistema no me deja como hago?,45
+retiro_parcial__cursos_repetidos,estoy llevando por segunda el curso de algoritmos pero quisiera retirarme por temas de fuerza mayor como lo puedo hacer?,45
+retiro_parcial__cursos_repetidos,es posible que haga un retiro parcial de un curso que he repetido?,45
+retiro_parcial__cursos_repetidos,quiero retirarme de un curso que he jalado anteriormento como lo solicito?,45
+retiro_parcial__cursos_repetidos,quiero saber si puedo solicitar el retiro de un curso que repeti el ciclo pasado?,45
+retiro_parcial__cursos_repetidos,estoy intentando retirarme del curso de algebra lineal que estoy llavando por seguna vez pero el sistema no me deja. como puedo solicar retirarme de este curso?,45
+retiro_parcial__cursos_repetidos,en el sistema no me deja retirarme del curso de calculo integral es la seguna vez que lo llevo . es por eso?,45
+retiro_parcial__cursos_repetidos,"orce no me permite retirarme del curso de calculo avanzado, es por que lo estoy llevando por seguna vez?",45
+retiro_parcial__cursos_repetidos,es posible q haga un retiro parcial de un curso que he repetido ?,45
+retiro_parcial__cursos_repetidos,quiero saber si puedo solisitar el retiro de un curso q repeti el ciclo pasado ?,45
+retiro_parcial__cursos_repetidos,en el sistema no me deja retirarme del curso de calculo integral es la seguna vez q lo llevo . es por eso ?,45
+retiro_parcial__cursos_repetidos,"orce no me permite retirarme del curso de calculo avanzado , es por q lo estoy llevando por seguna vez ?",45
+retiro_parcial__cursos_repetidos,puedo solicitar el retiro de un cuso que he repetido el ciclo anterior ?,45
+retiro_parcial__cursos_repetidos,quiero retirarme de un curso q llevo por segunda pero el sistema no me deja como hago ?,45
+retiro_parcial__cursos_repetidos,se puede solicitar el retiro parcial de un qeu se lleva por segunda vez ?,45
+retiro_parcial__cursos_repetidos,es posibpe retirase de cursos con repitencias ?,45
+retiro_parcial__cursos_repetidos,estoy intentando retiirarme del curso de algebra lineal q estoy llavando por seguna vez pero el sistema no me deja . como puedo solicar retirarme de este curso ?,45
+retiro_parcial__cursos_repetidos,es posible retirarme de un curso que estoy llevando por segundaa vez ?,45
+retiro_parcial__cursos_repetidos,estoy llevando un curso por segunda ez y quiero retirarme es posible ?,45
+retiro_parcial__cursos_repetidos,puedo retirare de una asginatura que he repetido,45
+retiro_parcial__cursos_repetidos,el posible retirarme de un curso q he desaprobado el ciclo anterior ?,45
