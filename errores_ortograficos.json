@@ -16,7 +16,7 @@
     "frecuencia": 140,
     "errores_ortograficos": ["constansia"]
   },
-  { "palabra": "ciclo", "frecuencia": 129, "errores_ortograficos": [] },
+  { "palabra": "ciclo", "frecuencia": 129, "errores_ortograficos": ["siclo"] },
   { "palabra": "hola", "frecuencia": 113, "errores_ortograficos": ["ola"] },
   {
     "palabra": "autoseguro",
