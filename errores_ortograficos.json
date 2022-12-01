@@ -191,7 +191,7 @@
     "frecuencia": 9,
     "errores_ortograficos": ["re incorporarme"]
   },
-  { "palabra": "dirigida", "frecuencia": 9, "errores_ortograficos": [] },
+  { "palabra": "dirigida", "frecuencia": 9, "errores_ortograficos": ["dirijida"] },
   {
     "palabra": "atencion",
     "frecuencia": 9,

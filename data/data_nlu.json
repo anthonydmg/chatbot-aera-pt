@@ -372,6 +372,18 @@
         "text_label_entities": "holas"
     },
     {
+        "text": "olis",
+        "intent_name": "saludo",
+        "entities": [],
+        "text_label_entities": "olis"
+    },
+    {
+        "text": "que tal",
+        "intent_name": "saludo",
+        "entities": [],
+        "text_label_entities": "que tal"
+    },
+    {
         "text": "no nada mas gracias",
         "intent_name": "denegar_mas_ayuda",
         "entities": [],
@@ -724,6 +736,36 @@
         "intent_name": "confirmar_requerir_mas_ayuda",
         "entities": [],
         "text_label_entities": "una consulta mas por favor"
+    },
+    {
+        "text": "una ultima consulta",
+        "intent_name": "confirmar_requerir_mas_ayuda",
+        "entities": [],
+        "text_label_entities": "una ultima consulta"
+    },
+    {
+        "text": "una consulta mas porfavor",
+        "intent_name": "confirmar_requerir_mas_ayuda",
+        "entities": [],
+        "text_label_entities": "una consulta mas porfavor"
+    },
+    {
+        "text": "si una mas porfavor",
+        "intent_name": "confirmar_requerir_mas_ayuda",
+        "entities": [],
+        "text_label_entities": "si una mas porfavor"
+    },
+    {
+        "text": "si otra mas",
+        "intent_name": "confirmar_requerir_mas_ayuda",
+        "entities": [],
+        "text_label_entities": "si otra mas"
+    },
+    {
+        "text": "otra mas porfavor",
+        "intent_name": "confirmar_requerir_mas_ayuda",
+        "entities": [],
+        "text_label_entities": "otra mas porfavor"
     },
     {
         "text": "\u00bfCu\u00e1l es el modelo para la solicitud?",
@@ -2348,17 +2390,17 @@
         "text_label_entities": "me podrias alcanzar un formato para la solicitud de <reserva de matricula>[procedimiento]?"
     },
     {
-        "text": "- \u00bfHay algun modelo para la solicitud de constancia de notas?",
+        "text": "\u00bfHay algun modelo para la solicitud de constancia de notas?",
         "intent_name": "formato_solicitud",
         "entities": [
             {
                 "value": "constancia de notas",
                 "entity": "constancia",
-                "span_start": 41,
-                "span_end": 60
+                "span_start": 39,
+                "span_end": 58
             }
         ],
-        "text_label_entities": "- \u00bfHay algun modelo para la solicitud de <constancia de notas>[constancia]?"
+        "text_label_entities": "\u00bfHay algun modelo para la solicitud de <constancia de notas>[constancia]?"
     },
     {
         "text": "No. \u00bfd\u00f3nde puedo ver un modelo de la solicitud de constancia de notas?",
@@ -3094,250 +3136,1954 @@
         "text_label_entities": "debe esta dirigida al decano de la facultad la soliciutd para una de <constancia de estudios>[constancia]?"
     },
     {
-        "text": "\u00bfCuando puedo realizar el procedimiento o tramite?",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "\u00bfCuando puedo realizar el procedimiento o tramite?"
+        "text": "\u00bfEn que semana se realiza el retiro parcial?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 29,
+                "span_end": 43
+            }
+        ],
+        "text_label_entities": "\u00bfEn que semana se realiza el <retiro parcial>[procedimiento]?"
     },
     {
-        "text": "\u00bfCuando se presenta la solicitud?",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "\u00bfCuando se presenta la solicitud?"
+        "text": "Hasta cu\u00e1ndo puedo hacer el retiro parcial?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 28,
+                "span_end": 42
+            }
+        ],
+        "text_label_entities": "Hasta cu\u00e1ndo puedo hacer el <retiro parcial>[procedimiento]?"
     },
     {
-        "text": "\u00bfEn que fechas debo presentar la solicitud?",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "\u00bfEn que fechas debo presentar la solicitud?"
+        "text": "una duda a partir de semana puedo solicitar el retiro parcial ?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 47,
+                "span_end": 61
+            }
+        ],
+        "text_label_entities": "una duda a partir de semana puedo solicitar el <retiro parcial>[procedimiento] ?"
     },
     {
-        "text": "cuales son las fechas limites para presentar la solicitud",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "cuales son las fechas limites para presentar la solicitud"
+        "text": "en que semana puedo realizar el retiro parcial?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 32,
+                "span_end": 46
+            }
+        ],
+        "text_label_entities": "en que semana puedo realizar el <retiro parcial>[procedimiento]?"
     },
     {
-        "text": "cuando puedo presentar la solicitud?",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "cuando puedo presentar la solicitud?"
+        "text": "Y hasta cuando podria enviar la solicitud de retiro parcial?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 45,
+                "span_end": 59
+            }
+        ],
+        "text_label_entities": "Y hasta cuando podria enviar la solicitud de <retiro parcial>[procedimiento]?"
     },
     {
-        "text": "cuando puedo enviar la solicitud",
-        "intent_name": "procedimiento_tramites_fechas",
+        "text": "hasta cuando hacer el retiro de un curso ?",
+        "intent_name": "retiro_parcial__fechas",
         "entities": [],
-        "text_label_entities": "cuando puedo enviar la solicitud"
+        "text_label_entities": "hasta cuando hacer el retiro de un curso ?"
     },
     {
-        "text": "cuando se habilita para enviar la solicitud",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "cuando se habilita para enviar la solicitud"
+        "text": "quisiera saber hasta que dias puedo hacer el retiro parcial ?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 45,
+                "span_end": 59
+            }
+        ],
+        "text_label_entities": "quisiera saber hasta que dias puedo hacer el <retiro parcial>[procedimiento] ?"
     },
     {
-        "text": "cuando se habilita para realizar el tramite",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "cuando se habilita para realizar el tramite"
+        "text": "una consulta cuando se habilitara en el sistema el retiro parcial?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 51,
+                "span_end": 65
+            }
+        ],
+        "text_label_entities": "una consulta cuando se habilitara en el sistema el <retiro parcial>[procedimiento]?"
     },
     {
-        "text": "hasta cuando puedo enviar la solicitud",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "hasta cuando puedo enviar la solicitud"
+        "text": "Me prodr\u00edan decir la fecha m\u00e1xima para hacer el retiro parcial?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 48,
+                "span_end": 62
+            }
+        ],
+        "text_label_entities": "Me prodr\u00edan decir la fecha m\u00e1xima para hacer el <retiro parcial>[procedimiento]?"
     },
     {
-        "text": "hasta cuando puedo hacer dicho tramite",
-        "intent_name": "procedimiento_tramites_fechas",
+        "text": "quiero solicitar el retiro de un curso hasta cuando puedo hacerlo ?",
+        "intent_name": "retiro_parcial__fechas",
         "entities": [],
-        "text_label_entities": "hasta cuando puedo hacer dicho tramite"
+        "text_label_entities": "quiero solicitar el retiro de un curso hasta cuando puedo hacerlo ?"
     },
     {
-        "text": "cuando ya puedo presentar la solicitud",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "cuando ya puedo presentar la solicitud"
+        "text": "Hasta que fecha podr\u00eda hacer el retiro parcial?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 32,
+                "span_end": 46
+            }
+        ],
+        "text_label_entities": "Hasta que fecha podr\u00eda hacer el <retiro parcial>[procedimiento]?"
     },
     {
-        "text": "hasta cuando puedo presentarlo",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "hasta cuando puedo presentarlo"
+        "text": "una consulta estamos ya en la cuarta semana de clases, podria hacer el retiro parcial ?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 71,
+                "span_end": 85
+            }
+        ],
+        "text_label_entities": "una consulta estamos ya en la cuarta semana de clases, podria hacer el <retiro parcial>[procedimiento] ?"
     },
     {
-        "text": "cuando puedo realizarlo",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "cuando puedo realizarlo"
+        "text": "Hola, he querido retirarme de un curso pero me parece que un no esta habilitado cuando se habilitara el retiro parcial?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 104,
+                "span_end": 118
+            }
+        ],
+        "text_label_entities": "Hola, he querido retirarme de un curso pero me parece que un no esta habilitado cuando se habilitara el <retiro parcial>[procedimiento]?"
     },
     {
-        "text": "hasta cuando puedo realizar el tramite",
-        "intent_name": "procedimiento_tramites_fechas",
+        "text": "Buenos dias, cuando puedo realizar el retiro de un curso",
+        "intent_name": "retiro_parcial__fechas",
         "entities": [],
-        "text_label_entities": "hasta cuando puedo realizar el tramite"
+        "text_label_entities": "Buenos dias, cuando puedo realizar el retiro de un curso"
     },
     {
-        "text": "cual es la fecha limite para realizar el tramite o procedimiento",
-        "intent_name": "procedimiento_tramites_fechas",
+        "text": "cuando puedo realizar el retiro de una asignatura",
+        "intent_name": "retiro_parcial__fechas",
         "entities": [],
-        "text_label_entities": "cual es la fecha limite para realizar el tramite o procedimiento"
+        "text_label_entities": "cuando puedo realizar el retiro de una asignatura"
     },
     {
-        "text": "Otra consulta, \u00bfHasta cu\u00e1ndo tengo tiempo para presentar mi solicitud?",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "Otra consulta, \u00bfHasta cu\u00e1ndo tengo tiempo para presentar mi solicitud?"
+        "text": "Hola, \u00bfcu\u00e1ndo son las fechas para el retiro parcial?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 37,
+                "span_end": 51
+            }
+        ],
+        "text_label_entities": "Hola, \u00bfcu\u00e1ndo son las fechas para el <retiro parcial>[procedimiento]?"
     },
     {
-        "text": "hasta que fecha puedo presentar la solicitud",
-        "intent_name": "procedimiento_tramites_fechas",
+        "text": "Hola, quiero retirarme de unos cursos y quiero saber las fechas",
+        "intent_name": "retiro_parcial__fechas",
         "entities": [],
-        "text_label_entities": "hasta que fecha puedo presentar la solicitud"
+        "text_label_entities": "Hola, quiero retirarme de unos cursos y quiero saber las fechas"
     },
     {
-        "text": "todavia puedo presentar mi solicitud",
-        "intent_name": "procedimiento_tramites_fechas",
+        "text": "quiero retirarme algunas asignaturas y quiero saber las fechas",
+        "intent_name": "retiro_parcial__fechas",
         "entities": [],
-        "text_label_entities": "todavia puedo presentar mi solicitud"
+        "text_label_entities": "quiero retirarme algunas asignaturas y quiero saber las fechas"
     },
     {
-        "text": "hasta cuando puedo presentar la solicitud",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "hasta cuando puedo presentar la solicitud"
+        "text": "Hola, una consulta cuando se habilitara el retiro parcial",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 43,
+                "span_end": 57
+            }
+        ],
+        "text_label_entities": "Hola, una consulta cuando se habilitara el <retiro parcial>[procedimiento]"
     },
     {
-        "text": "hasta cuando puedo tramitarlo",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "hasta cuando puedo tramitarlo"
+        "text": "Buenos dias, quisiera saber cuando vence el plazo de retiro parcial",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 53,
+                "span_end": 67
+            }
+        ],
+        "text_label_entities": "Buenos dias, quisiera saber cuando vence el plazo de <retiro parcial>[procedimiento]"
     },
     {
-        "text": "me puedes decir cuando se habilita para subir la solicitud",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "me puedes decir cuando se habilita para subir la solicitud"
+        "text": "Hola, una duda estamos en la cuarta semana de clases puedo hacer el retiro parcial?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 68,
+                "span_end": 82
+            }
+        ],
+        "text_label_entities": "Hola, una duda estamos en la cuarta semana de clases puedo hacer el <retiro parcial>[procedimiento]?"
     },
     {
-        "text": "en este momento ya puedo enviar la solicitud",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "en este momento ya puedo enviar la solicitud"
+        "text": "Buenas, quisiera saber si a\u00fan se puede hacer el retiro parcial, el motivo es que estoy con tratamiento psiqui\u00e1trico y me recomendaron que me retire de algunos cursos",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 48,
+                "span_end": 62
+            }
+        ],
+        "text_label_entities": "Buenas, quisiera saber si a\u00fan se puede hacer el <retiro parcial>[procedimiento], el motivo es que estoy con tratamiento psiqui\u00e1trico y me recomendaron que me retire de algunos cursos"
     },
     {
-        "text": "esta semana ya puedo tramitarlo",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "esta semana ya puedo tramitarlo"
+        "text": "Buenos d\u00edas, cu\u00e1ndo es la fecha para el retiro parcial?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 40,
+                "span_end": 54
+            }
+        ],
+        "text_label_entities": "Buenos d\u00edas, cu\u00e1ndo es la fecha para el <retiro parcial>[procedimiento]?"
     },
     {
-        "text": "la siguiente semana puedo enviar la solicitud",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "la siguiente semana puedo enviar la solicitud"
+        "text": "Hola, \u00bfHasta cuando puedo hacer el retiro parcial?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 35,
+                "span_end": 49
+            }
+        ],
+        "text_label_entities": "Hola, \u00bfHasta cuando puedo hacer el <retiro parcial>[procedimiento]?"
     },
     {
-        "text": "esta semana todavia puedo todavia solicitarlo",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "esta semana todavia puedo todavia solicitarlo"
+        "text": "Hola Aerito, hasta que dias puedo realizar el retiro parcial",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 46,
+                "span_end": 60
+            }
+        ],
+        "text_label_entities": "Hola Aerito, hasta que dias puedo realizar el <retiro parcial>[procedimiento]"
     },
     {
-        "text": "aun puedo enviar la solicitud o ya se paso las fechas?",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "aun puedo enviar la solicitud o ya se paso las fechas?"
+        "text": "Hola, cu\u00e1ndo inicia el retiro parcial?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 23,
+                "span_end": 37
+            }
+        ],
+        "text_label_entities": "Hola, cu\u00e1ndo inicia el <retiro parcial>[procedimiento]?"
     },
     {
-        "text": "este tramite ya lo podria hacer o a que fechas deberia esperar",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "este tramite ya lo podria hacer o a que fechas deberia esperar"
+        "text": "Hola, una duda el retiro parcial se habilitara en la quinta semana de clases ?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 18,
+                "span_end": 32
+            }
+        ],
+        "text_label_entities": "Hola, una duda el <retiro parcial>[procedimiento] se habilitara en la quinta semana de clases ?"
     },
     {
-        "text": "debo esperar para iniciar este tramite o ya lo puedo solicitarlo",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "debo esperar para iniciar este tramite o ya lo puedo solicitarlo"
+        "text": "Hola, tengo una duda en que semana se habilitara el retiro parcial",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 52,
+                "span_end": 66
+            }
+        ],
+        "text_label_entities": "Hola, tengo una duda en que semana se habilitara el <retiro parcial>[procedimiento]"
     },
     {
-        "text": "hasta que dia puedo solicitar esto",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "hasta que dia puedo solicitar esto"
+        "text": "Buenas, \u00bfCu\u00e1les son las fechas para realizar el retiro parcial?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 48,
+                "span_end": 62
+            }
+        ],
+        "text_label_entities": "Buenas, \u00bfCu\u00e1les son las fechas para realizar el <retiro parcial>[procedimiento]?"
     },
     {
-        "text": "que que dias tengo plazos para presentar la solicitud",
-        "intent_name": "procedimiento_tramites_fechas",
+        "text": "Hola, quisiera retirarme de un curso me podria decir hasta cuando se habilitara en el sistema ?",
+        "intent_name": "retiro_parcial__fechas",
         "entities": [],
-        "text_label_entities": "que que dias tengo plazos para presentar la solicitud"
+        "text_label_entities": "Hola, quisiera retirarme de un curso me podria decir hasta cuando se habilitara en el sistema ?"
     },
     {
-        "text": "estamos en la sexta semana de clases todavia puedo solicitarlo",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "estamos en la sexta semana de clases todavia puedo solicitarlo"
+        "text": "cuando es el retiro parcial",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 13,
+                "span_end": 27
+            }
+        ],
+        "text_label_entities": "cuando es el <retiro parcial>[procedimiento]"
     },
     {
-        "text": "el ciclo comienza la siguiente todavia puedo realizar",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "el ciclo comienza la siguiente todavia puedo realizar"
+        "text": "puedo hacer el retiro parcial todavia estamos ya en la sexta semana?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 15,
+                "span_end": 29
+            }
+        ],
+        "text_label_entities": "puedo hacer el <retiro parcial>[procedimiento] todavia estamos ya en la sexta semana?"
     },
     {
-        "text": "recien me entero que esta semana ya comienza el ciclo todavia puedo enviar mi solicitud",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "recien me entero que esta semana ya comienza el ciclo todavia puedo enviar mi solicitud"
+        "text": "el retiro parcial se puede pedir en la primera semana?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 3,
+                "span_end": 17
+            }
+        ],
+        "text_label_entities": "el <retiro parcial>[procedimiento] se puede pedir en la primera semana?"
     },
     {
-        "text": "hay alguna fecha limite para enviar la solicitud o puedo hacerlo hasta la ultima semana",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "hay alguna fecha limite para enviar la solicitud o puedo hacerlo hasta la ultima semana"
+        "text": "puedo solicitar el retiro parcial en la quinta semana?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 19,
+                "span_end": 33
+            }
+        ],
+        "text_label_entities": "puedo solicitar el <retiro parcial>[procedimiento] en la quinta semana?"
     },
     {
-        "text": "ya va a terminar el ciclo esta semana todavia puedo pedirlo",
-        "intent_name": "procedimiento_tramites_fechas",
+        "text": "en la segunda semana ya puedo retirarme de un curso?",
+        "intent_name": "retiro_parcial__fechas",
         "entities": [],
-        "text_label_entities": "ya va a terminar el ciclo esta semana todavia puedo pedirlo"
+        "text_label_entities": "en la segunda semana ya puedo retirarme de un curso?"
     },
     {
-        "text": "esta semana puedo enviar la solicitud",
-        "intent_name": "procedimiento_tramites_fechas",
+        "text": "quiero saber la fechas para poder retirarme de algunos cursos",
+        "intent_name": "retiro_parcial__fechas",
         "entities": [],
-        "text_label_entities": "esta semana puedo enviar la solicitud"
+        "text_label_entities": "quiero saber la fechas para poder retirarme de algunos cursos"
     },
     {
-        "text": "hay alguna fecha limite para enviar esa solicitud",
-        "intent_name": "procedimiento_tramites_fechas",
+        "text": "es la sexta semana todavia puedo retirarme de un curso?",
+        "intent_name": "retiro_parcial__fechas",
         "entities": [],
-        "text_label_entities": "hay alguna fecha limite para enviar esa solicitud"
+        "text_label_entities": "es la sexta semana todavia puedo retirarme de un curso?"
     },
     {
-        "text": "todavia puedo presentarle",
-        "intent_name": "procedimiento_tramites_fechas",
+        "text": "queria retirarme pero el retiro ya no esta habilitado en el sistema, que puedo hacer?",
+        "intent_name": "retiro_parcial__fechas",
         "entities": [],
-        "text_label_entities": "todavia puedo presentarle"
+        "text_label_entities": "queria retirarme pero el retiro ya no esta habilitado en el sistema, que puedo hacer?"
     },
     {
-        "text": "otra duda puedo realizar el tramite esta semana",
-        "intent_name": "procedimiento_tramites_fechas",
+        "text": "ya paso la quinta pero quiero retirarme de un curso, que puedo hacer?",
+        "intent_name": "retiro_parcial__fechas",
         "entities": [],
-        "text_label_entities": "otra duda puedo realizar el tramite esta semana"
+        "text_label_entities": "ya paso la quinta pero quiero retirarme de un curso, que puedo hacer?"
     },
     {
-        "text": "en estas fechas todavia puedo realizar este procedimiento",
-        "intent_name": "procedimiento_tramites_fechas",
-        "entities": [],
-        "text_label_entities": "en estas fechas todavia puedo realizar este procedimiento"
+        "text": "ya se paso la fecha de retiro parcial, puedo solicitar el retiro de alguna forma?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 23,
+                "span_end": 37
+            }
+        ],
+        "text_label_entities": "ya se paso la fecha de <retiro parcial>[procedimiento], puedo solicitar el retiro de alguna forma?"
     },
     {
-        "text": "todavia puedo realizar este tramite",
-        "intent_name": "procedimiento_tramites_fechas",
+        "text": "el retiro parcial ya no sale habilitado en el sistema, podria solicitarlo de otra forma?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 3,
+                "span_end": 17
+            }
+        ],
+        "text_label_entities": "el <retiro parcial>[procedimiento] ya no sale habilitado en el sistema, podria solicitarlo de otra forma?"
+    },
+    {
+        "text": "quiero solictar el retiro parcial por que ya no esta habilitado en el sistema, como puedo hacer?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 19,
+                "span_end": 33
+            }
+        ],
+        "text_label_entities": "quiero solictar el <retiro parcial>[procedimiento] por que ya no esta habilitado en el sistema, como puedo hacer?"
+    },
+    {
+        "text": "como puedo pedir el retiro parcial si ya no esta habilitado en sistema?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 20,
+                "span_end": 34
+            }
+        ],
+        "text_label_entities": "como puedo pedir el <retiro parcial>[procedimiento] si ya no esta habilitado en sistema?"
+    },
+    {
+        "text": "como puedo solicitar el retiro parcial si ya se paso la quinta semana y ya no esta habilitado en el sistema",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 24,
+                "span_end": 38
+            }
+        ],
+        "text_label_entities": "como puedo solicitar el <retiro parcial>[procedimiento] si ya se paso la quinta semana y ya no esta habilitado en el sistema"
+    },
+    {
+        "text": "si ya se pasaron las fechas de retiro parcial, como podria solitar el retiro de un curso?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 31,
+                "span_end": 45
+            }
+        ],
+        "text_label_entities": "si ya se pasaron las fechas de <retiro parcial>[procedimiento], como podria solitar el retiro de un curso?"
+    },
+    {
+        "text": "Otra consulta, \u00bfHasta cu\u00e1ndo tengo tiempo para presentar mi solicitud de reincoporacion?",
+        "intent_name": "reincorporacion__fechas",
         "entities": [],
-        "text_label_entities": "todavia puedo realizar este tramite"
+        "text_label_entities": "Otra consulta, \u00bfHasta cu\u00e1ndo tengo tiempo para presentar mi solicitud de reincoporacion?"
+    },
+    {
+        "text": "una consulta, es que fechas deberia solicitar mi reincorparacion",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [],
+        "text_label_entities": "una consulta, es que fechas deberia solicitar mi reincorparacion"
+    },
+    {
+        "text": "hasta cuando podria solicitar mi reincoporarcion",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [],
+        "text_label_entities": "hasta cuando podria solicitar mi reincoporarcion"
+    },
+    {
+        "text": "tengo una duda quiero reincorpararme el siguiente ciclo pero no se en que fechas debo comenzar el tramite",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [],
+        "text_label_entities": "tengo una duda quiero reincorpararme el siguiente ciclo pero no se en que fechas debo comenzar el tramite"
+    },
+    {
+        "text": "tengo una consulta desde que fecha ya puedo iniciar el tramite para mi reicorporacion en el siguiente ciclo",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [],
+        "text_label_entities": "tengo una consulta desde que fecha ya puedo iniciar el tramite para mi reicorporacion en el siguiente ciclo"
+    },
+    {
+        "text": "cuando puedo enviar mi solicitud para mi reincorporacion",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 41,
+                "span_end": 56
+            }
+        ],
+        "text_label_entities": "cuando puedo enviar mi solicitud para mi <reincorporacion>[procedimiento]"
+    },
+    {
+        "text": "cuando enviar mi solicitud para mi reincorporacion para el siguiente ciclo",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 35,
+                "span_end": 50
+            }
+        ],
+        "text_label_entities": "cuando enviar mi solicitud para mi <reincorporacion>[procedimiento] para el siguiente ciclo"
+    },
+    {
+        "text": "cuando debo enviar mi solictud para mi reincorporacion para el siguiente periodo academico",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 39,
+                "span_end": 54
+            }
+        ],
+        "text_label_entities": "cuando debo enviar mi solictud para mi <reincorporacion>[procedimiento] para el siguiente periodo academico"
+    },
+    {
+        "text": "hasta que dias puedo enviar mi solicitud de reincorporacion",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 44,
+                "span_end": 59
+            }
+        ],
+        "text_label_entities": "hasta que dias puedo enviar mi solicitud de <reincorporacion>[procedimiento]"
+    },
+    {
+        "text": "cual es la fecha limite para enviar mi solicitud de reincorporacion",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 52,
+                "span_end": 67
+            }
+        ],
+        "text_label_entities": "cual es la fecha limite para enviar mi solicitud de <reincorporacion>[procedimiento]"
+    },
+    {
+        "text": "\u00bfHasta cuando enviar mi solicitud de reincorporacion?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 37,
+                "span_end": 52
+            }
+        ],
+        "text_label_entities": "\u00bfHasta cuando enviar mi solicitud de <reincorporacion>[procedimiento]?"
+    },
+    {
+        "text": "hasta cuando es posible reincoparme?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [],
+        "text_label_entities": "hasta cuando es posible reincoparme?"
+    },
+    {
+        "text": "cuando puedo solicitar la reincorporacion para el siguiente ciclo?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 26,
+                "span_end": 41
+            }
+        ],
+        "text_label_entities": "cuando puedo solicitar la <reincorporacion>[procedimiento] para el siguiente ciclo?"
+    },
+    {
+        "text": "Si ya pasaron las fechas de reincorporacion, \u00bfPuedo enviar mi solicitud de reincorporacion?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 28,
+                "span_end": 43
+            },
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 75,
+                "span_end": 90
+            }
+        ],
+        "text_label_entities": "Si ya pasaron las fechas de <reincorporacion>[procedimiento], \u00bfPuedo enviar mi solicitud de <reincorporacion>[procedimiento]?"
+    },
+    {
+        "text": "Si ya pas\u00f3 la fecha de la reincorporaci\u00f3n, pasar\u00eda a rezagado",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporaci\u00f3n",
+                "entity": "procedimiento",
+                "span_start": 26,
+                "span_end": 41
+            }
+        ],
+        "text_label_entities": "Si ya pas\u00f3 la fecha de la <reincorporaci\u00f3n>[procedimiento], pasar\u00eda a rezagado"
+    },
+    {
+        "text": "si ya se me paso la fecha para reincorporacion pasaria a matricula rezagada?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 31,
+                "span_end": 46
+            }
+        ],
+        "text_label_entities": "si ya se me paso la fecha para <reincorporacion>[procedimiento] pasaria a matricula rezagada?"
+    },
+    {
+        "text": "entonces que pasa si me paso de la fecha limite para la reincorporacion",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 56,
+                "span_end": 71
+            }
+        ],
+        "text_label_entities": "entonces que pasa si me paso de la fecha limite para la <reincorporacion>[procedimiento]"
+    },
+    {
+        "text": "una consulta si se me paso la fecha de reincorporacion que debo hacer",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 39,
+                "span_end": 54
+            }
+        ],
+        "text_label_entities": "una consulta si se me paso la fecha de <reincorporacion>[procedimiento] que debo hacer"
+    },
+    {
+        "text": "disculpa un consulta se me ha pasado la fecha de reincorporacion pero quiero matricuarme este ciclo que debo hacer",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 49,
+                "span_end": 64
+            }
+        ],
+        "text_label_entities": "disculpa un consulta se me ha pasado la fecha de <reincorporacion>[procedimiento] pero quiero matricuarme este ciclo que debo hacer"
+    },
+    {
+        "text": "disculpe no vi bien la fechas de reincorporacion y ya se pasaraon podria aun reincorporarme?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 33,
+                "span_end": 48
+            }
+        ],
+        "text_label_entities": "disculpe no vi bien la fechas de <reincorporacion>[procedimiento] y ya se pasaraon podria aun reincorporarme?"
+    },
+    {
+        "text": "una duda las fechas de reincorporacion ya pasaron podria aun reincorporarme aunque sea como rezagado ?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 23,
+                "span_end": 38
+            }
+        ],
+        "text_label_entities": "una duda las fechas de <reincorporacion>[procedimiento] ya pasaron podria aun reincorporarme aunque sea como rezagado ?"
+    },
+    {
+        "text": "segun el calendario academico las fechas de reincorporacion finalizaron ayer podria aun reincorporarme ?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 44,
+                "span_end": 59
+            }
+        ],
+        "text_label_entities": "segun el calendario academico las fechas de <reincorporacion>[procedimiento] finalizaron ayer podria aun reincorporarme ?"
+    },
+    {
+        "text": "veo que segun el calendario academico las fechas de reincorporacion finalizaron hace una semana podria todavia reincorporarme como rezagado ?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 52,
+                "span_end": 67
+            }
+        ],
+        "text_label_entities": "veo que segun el calendario academico las fechas de <reincorporacion>[procedimiento] finalizaron hace una semana podria todavia reincorporarme como rezagado ?"
+    },
+    {
+        "text": "quisiera reincorporarme este ciclo pero las fechas ya finalizaron puedo hacerlo como rezagado ?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [],
+        "text_label_entities": "quisiera reincorporarme este ciclo pero las fechas ya finalizaron puedo hacerlo como rezagado ?"
+    },
+    {
+        "text": "la fecha de reincorporacion ya paso, podria aun enviar mi solicitud de reincorporacion?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 12,
+                "span_end": 27
+            },
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 71,
+                "span_end": 86
+            }
+        ],
+        "text_label_entities": "la fecha de <reincorporacion>[procedimiento] ya paso, podria aun enviar mi solicitud de <reincorporacion>[procedimiento]?"
+    },
+    {
+        "text": "quiero solicitar mi reincorporacion este ciclo. Todavia puedo hacerlo?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 20,
+                "span_end": 35
+            }
+        ],
+        "text_label_entities": "quiero solicitar mi <reincorporacion>[procedimiento] este ciclo. Todavia puedo hacerlo?"
+    },
+    {
+        "text": "cual es la fecha limite para solicitar la reincorporacion para el siguiente ciclo?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 42,
+                "span_end": 57
+            }
+        ],
+        "text_label_entities": "cual es la fecha limite para solicitar la <reincorporacion>[procedimiento] para el siguiente ciclo?"
+    },
+    {
+        "text": "la fechas para solicitar la reincorporacion ya salieron?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 28,
+                "span_end": 43
+            }
+        ],
+        "text_label_entities": "la fechas para solicitar la <reincorporacion>[procedimiento] ya salieron?"
+    },
+    {
+        "text": "en donde puedo ver las fechas para solicitar la reincorporacion?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 48,
+                "span_end": 63
+            }
+        ],
+        "text_label_entities": "en donde puedo ver las fechas para solicitar la <reincorporacion>[procedimiento]?"
+    },
+    {
+        "text": "la siguente semana es la matricula puedo solicitar mi reincorpacion?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [],
+        "text_label_entities": "la siguente semana es la matricula puedo solicitar mi reincorpacion?"
+    },
+    {
+        "text": "aun puedo solicitar mi reincorporacion?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 23,
+                "span_end": 38
+            }
+        ],
+        "text_label_entities": "aun puedo solicitar mi <reincorporacion>[procedimiento]?"
+    },
+    {
+        "text": "en que fecha puedo tramitar mi reincorporacion?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 31,
+                "span_end": 46
+            }
+        ],
+        "text_label_entities": "en que fecha puedo tramitar mi <reincorporacion>[procedimiento]?"
+    },
+    {
+        "text": "ya faltan dos dias para la matricula podria solicitar mi reincorporacion o debo esperar al siguiente ciclo?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 57,
+                "span_end": 72
+            }
+        ],
+        "text_label_entities": "ya faltan dos dias para la matricula podria solicitar mi <reincorporacion>[procedimiento] o debo esperar al siguiente ciclo?"
+    },
+    {
+        "text": "quisiera reincorporarme este ciclo pero la matricula es en unos dias, puedo reincorporame o ya no es posible?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [],
+        "text_label_entities": "quisiera reincorporarme este ciclo pero la matricula es en unos dias, puedo reincorporame o ya no es posible?"
+    },
+    {
+        "text": "la siguiente semana puedo enviar la solicitud para mi reincorparacion para este ciclo?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [],
+        "text_label_entities": "la siguiente semana puedo enviar la solicitud para mi reincorparacion para este ciclo?"
+    },
+    {
+        "text": "esta semana todavia puedo todavia solicitar mi reincorparacion para el siguiente ciclo?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [],
+        "text_label_entities": "esta semana todavia puedo todavia solicitar mi reincorparacion para el siguiente ciclo?"
+    },
+    {
+        "text": "aun puedo enviar la solicitud o ya se paso las fechas para pedir la reincorparacion?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [],
+        "text_label_entities": "aun puedo enviar la solicitud o ya se paso las fechas para pedir la reincorparacion?"
+    },
+    {
+        "text": "este tramite ya lo podria hacer o a que fechas deberia esperar para realizar la reincorparacion?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [],
+        "text_label_entities": "este tramite ya lo podria hacer o a que fechas deberia esperar para realizar la reincorparacion?"
+    },
+    {
+        "text": "debo esperar para iniciar el tramite de reincorporacion o ya puedo solicitarlo?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 40,
+                "span_end": 55
+            }
+        ],
+        "text_label_entities": "debo esperar para iniciar el tramite de <reincorporacion>[procedimiento] o ya puedo solicitarlo?"
+    },
+    {
+        "text": "podria comenzar ya los tramites para mi reincorporacion o a que fecha deberia esperar?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 40,
+                "span_end": 55
+            }
+        ],
+        "text_label_entities": "podria comenzar ya los tramites para mi <reincorporacion>[procedimiento] o a que fecha deberia esperar?"
+    },
+    {
+        "text": "puedo iniciar mis tramites para la reincorporacion a este ciclo esta semana?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 35,
+                "span_end": 50
+            }
+        ],
+        "text_label_entities": "puedo iniciar mis tramites para la <reincorporacion>[procedimiento] a este ciclo esta semana?"
+    },
+    {
+        "text": "\u00bfEn que fecha se realiza el retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 28,
+                "span_end": 40
+            }
+        ],
+        "text_label_entities": "\u00bfEn que fecha se realiza el <retiro total>[procedimiento]?"
+    },
+    {
+        "text": "Hasta cuando puedo presentar los documentos para el retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 52,
+                "span_end": 64
+            }
+        ],
+        "text_label_entities": "Hasta cuando puedo presentar los documentos para el <retiro total>[procedimiento]?"
+    },
+    {
+        "text": "Cuando es la fecha para el retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 27,
+                "span_end": 39
+            }
+        ],
+        "text_label_entities": "Cuando es la fecha para el <retiro total>[procedimiento]?"
+    },
+    {
+        "text": "\u00bfCu\u00e1l es la fecha l\u00edmite para enviar los documentos del retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 56,
+                "span_end": 68
+            }
+        ],
+        "text_label_entities": "\u00bfCu\u00e1l es la fecha l\u00edmite para enviar los documentos del <retiro total>[procedimiento]?"
+    },
+    {
+        "text": "Buenos dias, quisiera saber cuando vence el plazo de retiro total",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 53,
+                "span_end": 65
+            }
+        ],
+        "text_label_entities": "Buenos dias, quisiera saber cuando vence el plazo de <retiro total>[procedimiento]"
+    },
+    {
+        "text": "\u00bfQu\u00e9 d\u00edas se hace el tr\u00e1mite del retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 33,
+                "span_end": 45
+            }
+        ],
+        "text_label_entities": "\u00bfQu\u00e9 d\u00edas se hace el tr\u00e1mite del <retiro total>[procedimiento]?"
+    },
+    {
+        "text": "\u00bfEn qu\u00e9 fechas puedo realizar el retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 33,
+                "span_end": 45
+            }
+        ],
+        "text_label_entities": "\u00bfEn qu\u00e9 fechas puedo realizar el <retiro total>[procedimiento]?"
+    },
+    {
+        "text": "Cuando es la fecha limite para el retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 34,
+                "span_end": 46
+            }
+        ],
+        "text_label_entities": "Cuando es la fecha limite para el <retiro total>[procedimiento]?"
+    },
+    {
+        "text": "Hasta cuando se puede presentar los documentos para el retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 55,
+                "span_end": 67
+            }
+        ],
+        "text_label_entities": "Hasta cuando se puede presentar los documentos para el <retiro total>[procedimiento]?"
+    },
+    {
+        "text": "Buen d\u00eda, \u00bfHasta cu\u00e1ndo puedo hacer retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 36,
+                "span_end": 48
+            }
+        ],
+        "text_label_entities": "Buen d\u00eda, \u00bfHasta cu\u00e1ndo puedo hacer <retiro total>[procedimiento]?"
+    },
+    {
+        "text": "Hola, hasta cuando puedo hacer el retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 34,
+                "span_end": 46
+            }
+        ],
+        "text_label_entities": "Hola, hasta cuando puedo hacer el <retiro total>[procedimiento]?"
+    },
+    {
+        "text": "BUenas tardes, una consulta hasta cuando puedo hacer el retiro total",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 56,
+                "span_end": 68
+            }
+        ],
+        "text_label_entities": "BUenas tardes, una consulta hasta cuando puedo hacer el <retiro total>[procedimiento]"
+    },
+    {
+        "text": "Hola disculpa una consulta hasta que dias puedo realizar el retiro total",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 60,
+                "span_end": 72
+            }
+        ],
+        "text_label_entities": "Hola disculpa una consulta hasta que dias puedo realizar el <retiro total>[procedimiento]"
+    },
+    {
+        "text": "Hola una consulta en que semana se activa el retiro total",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 45,
+                "span_end": 57
+            }
+        ],
+        "text_label_entities": "Hola una consulta en que semana se activa el <retiro total>[procedimiento]"
+    },
+    {
+        "text": "cuando puedo hacer un retiro total",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 22,
+                "span_end": 34
+            }
+        ],
+        "text_label_entities": "cuando puedo hacer un <retiro total>[procedimiento]"
+    },
+    {
+        "text": "que dias puedo hacer el retiro total",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 24,
+                "span_end": 36
+            }
+        ],
+        "text_label_entities": "que dias puedo hacer el <retiro total>[procedimiento]"
+    },
+    {
+        "text": "en que semana puedo hacer el retiro total",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 29,
+                "span_end": 41
+            }
+        ],
+        "text_label_entities": "en que semana puedo hacer el <retiro total>[procedimiento]"
+    },
+    {
+        "text": "cuando puedo presentar mis documentos para el retiro total",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 46,
+                "span_end": 58
+            }
+        ],
+        "text_label_entities": "cuando puedo presentar mis documentos para el <retiro total>[procedimiento]"
+    },
+    {
+        "text": "En que semana se habilita el retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 29,
+                "span_end": 41
+            }
+        ],
+        "text_label_entities": "En que semana se habilita el <retiro total>[procedimiento]?"
+    },
+    {
+        "text": "el retiro total se habilita recien la semana 5?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 3,
+                "span_end": 15
+            }
+        ],
+        "text_label_entities": "el <retiro total>[procedimiento] se habilita recien la semana 5?"
+    },
+    {
+        "text": "puedo solicitar el retiro total hasta la ultima semana de clases?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 19,
+                "span_end": 31
+            }
+        ],
+        "text_label_entities": "puedo solicitar el <retiro total>[procedimiento] hasta la ultima semana de clases?"
+    },
+    {
+        "text": "estoy en la segunda semana de clases pero por motivos quiero hacer el retiro parcial puedo solicitarlo?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 70,
+                "span_end": 84
+            }
+        ],
+        "text_label_entities": "estoy en la segunda semana de clases pero por motivos quiero hacer el <retiro parcial>[procedimiento] puedo solicitarlo?"
+    },
+    {
+        "text": "cual es la fecha limite para solicitar un retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 42,
+                "span_end": 54
+            }
+        ],
+        "text_label_entities": "cual es la fecha limite para solicitar un <retiro total>[procedimiento]?"
+    },
+    {
+        "text": "me dijeron que puedo solicitar el retiro total hasta la ultima semana de clases es cierto?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 34,
+                "span_end": 46
+            }
+        ],
+        "text_label_entities": "me dijeron que puedo solicitar el <retiro total>[procedimiento] hasta la ultima semana de clases es cierto?"
+    },
+    {
+        "text": "todavia puedo solicitar el retiro total ya es la ultima semana de clases?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 27,
+                "span_end": 39
+            }
+        ],
+        "text_label_entities": "todavia puedo solicitar el <retiro total>[procedimiento] ya es la ultima semana de clases?"
+    },
+    {
+        "text": "es la segunda semana pero por motivos de fuerza mayor quisiera solicitar el retiro total, puedo presentar la solictud este semana?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 76,
+                "span_end": 88
+            }
+        ],
+        "text_label_entities": "es la segunda semana pero por motivos de fuerza mayor quisiera solicitar el <retiro total>[procedimiento], puedo presentar la solictud este semana?"
+    },
+    {
+        "text": "quisiera retirarme de todos los cursos pero en el sistema no me aparece, me puede decir cuando se habilitar\u00e1?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [],
+        "text_label_entities": "quisiera retirarme de todos los cursos pero en el sistema no me aparece, me puede decir cuando se habilitar\u00e1?"
+    },
+    {
+        "text": "cuando se habilitar\u00e1 para enviar el retiro total en orce?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 36,
+                "span_end": 48
+            }
+        ],
+        "text_label_entities": "cuando se habilitar\u00e1 para enviar el <retiro total>[procedimiento] en orce?"
+    },
+    {
+        "text": "desde cuando podria enviar mi solicitud de retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 43,
+                "span_end": 55
+            }
+        ],
+        "text_label_entities": "desde cuando podria enviar mi solicitud de <retiro total>[procedimiento]?"
+    },
+    {
+        "text": "todavia podria realizar el retiro total si es la ultima semana?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 27,
+                "span_end": 39
+            }
+        ],
+        "text_label_entities": "todavia podria realizar el <retiro total>[procedimiento] si es la ultima semana?"
+    },
+    {
+        "text": "hasta que dia podria realizar el retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 33,
+                "span_end": 45
+            }
+        ],
+        "text_label_entities": "hasta que dia podria realizar el <retiro total>[procedimiento]?"
+    },
+    {
+        "text": "hasta cuando podria enviar mi solicitud retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 40,
+                "span_end": 52
+            }
+        ],
+        "text_label_entities": "hasta cuando podria enviar mi solicitud <retiro total>[procedimiento]?"
+    },
+    {
+        "text": "que dia es el ultimo para solicitar el reitiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [],
+        "text_label_entities": "que dia es el ultimo para solicitar el reitiro total?"
+    },
+    {
+        "text": "en que dia puedo realizar el retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 29,
+                "span_end": 41
+            }
+        ],
+        "text_label_entities": "en que dia puedo realizar el <retiro total>[procedimiento]?"
+    },
+    {
+        "text": "cual es la fecha limite que puedo enviar mi solicitud de retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 57,
+                "span_end": 69
+            }
+        ],
+        "text_label_entities": "cual es la fecha limite que puedo enviar mi solicitud de <retiro total>[procedimiento]?"
+    },
+    {
+        "text": "esta semana ya podria hacer retiro total o a que fechas deberia esperar para solicitarlo?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 28,
+                "span_end": 40
+            }
+        ],
+        "text_label_entities": "esta semana ya podria hacer <retiro total>[procedimiento] o a que fechas deberia esperar para solicitarlo?"
+    },
+    {
+        "text": "debo esperar para solicitar el tramite de retiro total o ya puedo solicitarlo?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 42,
+                "span_end": 54
+            }
+        ],
+        "text_label_entities": "debo esperar para solicitar el tramite de <retiro total>[procedimiento] o ya puedo solicitarlo?"
+    },
+    {
+        "text": "podria comenzar ya los tramites para el retiro total o a que fecha deberia esperar?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 40,
+                "span_end": 52
+            }
+        ],
+        "text_label_entities": "podria comenzar ya los tramites para el <retiro total>[procedimiento] o a que fecha deberia esperar?"
+    },
+    {
+        "text": "puedo iniciar mis tramites para realizar el retiro total esta semana?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 44,
+                "span_end": 56
+            }
+        ],
+        "text_label_entities": "puedo iniciar mis tramites para realizar el <retiro total>[procedimiento] esta semana?"
+    },
+    {
+        "text": "cuando podria iniciar los tramites para retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 40,
+                "span_end": 52
+            }
+        ],
+        "text_label_entities": "cuando podria iniciar los tramites para <retiro total>[procedimiento]?"
+    },
+    {
+        "text": "la siguiente semana ya podria solicitar el retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 43,
+                "span_end": 55
+            }
+        ],
+        "text_label_entities": "la siguiente semana ya podria solicitar el <retiro total>[procedimiento]?"
+    },
+    {
+        "text": "en que semana puedo realizar el retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 32,
+                "span_end": 44
+            }
+        ],
+        "text_label_entities": "en que semana puedo realizar el <retiro total>[procedimiento]?"
+    },
+    {
+        "text": "\u00bfHasta cu\u00e1ndo tengo tiempo para presentar mi solicitud de reserva de matricula?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 58,
+                "span_end": 78
+            }
+        ],
+        "text_label_entities": "\u00bfHasta cu\u00e1ndo tengo tiempo para presentar mi solicitud de <reserva de matricula>[procedimiento]?"
+    },
+    {
+        "text": "aun puedo enviar la solicitud de reserva de matricula ?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 33,
+                "span_end": 53
+            }
+        ],
+        "text_label_entities": "aun puedo enviar la solicitud de <reserva de matricula>[procedimiento] ?"
+    },
+    {
+        "text": "hasta cuando puedo enviar la solicitud para reserva de matricula ?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 44,
+                "span_end": 64
+            }
+        ],
+        "text_label_entities": "hasta cuando puedo enviar la solicitud para <reserva de matricula>[procedimiento] ?"
+    },
+    {
+        "text": "tambi\u00e9n quisiera saber hasta cuando puedo enviar la solicitud de reserva de matricula",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 65,
+                "span_end": 85
+            }
+        ],
+        "text_label_entities": "tambi\u00e9n quisiera saber hasta cuando puedo enviar la solicitud de <reserva de matricula>[procedimiento]"
+    },
+    {
+        "text": "hasta cuando puedo subir las solicitud la reserva de matricula en el sistema de internet ?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 42,
+                "span_end": 62
+            }
+        ],
+        "text_label_entities": "hasta cuando puedo subir las solicitud la <reserva de matricula>[procedimiento] en el sistema de internet ?"
+    },
+    {
+        "text": "hasta cuando puedo tramitar la reserva de matricula ?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 31,
+                "span_end": 51
+            }
+        ],
+        "text_label_entities": "hasta cuando puedo tramitar la <reserva de matricula>[procedimiento] ?"
+    },
+    {
+        "text": "hasta que dias podria enviar la solicitud de reserva de matricula entonces",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 45,
+                "span_end": 65
+            }
+        ],
+        "text_label_entities": "hasta que dias podria enviar la solicitud de <reserva de matricula>[procedimiento] entonces"
+    },
+    {
+        "text": "quiero hacer la reserva de matricula, hasta que dia puedo enviar la solicitud ?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 16,
+                "span_end": 36
+            }
+        ],
+        "text_label_entities": "quiero hacer la <reserva de matricula>[procedimiento], hasta que dia puedo enviar la solicitud ?"
+    },
+    {
+        "text": "\u00bfHasta que dias puedo enviar la solicitud de reserva de matricula ?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 45,
+                "span_end": 65
+            }
+        ],
+        "text_label_entities": "\u00bfHasta que dias puedo enviar la solicitud de <reserva de matricula>[procedimiento] ?"
+    },
+    {
+        "text": "la reserva de matricula tiene que enviarse antes de la matricula ?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 3,
+                "span_end": 23
+            }
+        ],
+        "text_label_entities": "la <reserva de matricula>[procedimiento] tiene que enviarse antes de la matricula ?"
+    },
+    {
+        "text": "Y hasta cuando podria enviar la solicitud de reserva de matricula ?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 45,
+                "span_end": 65
+            }
+        ],
+        "text_label_entities": "Y hasta cuando podria enviar la solicitud de <reserva de matricula>[procedimiento] ?"
+    },
+    {
+        "text": "si donde puedo encontrar las fechas para hacer la reserva de matricula",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 50,
+                "span_end": 70
+            }
+        ],
+        "text_label_entities": "si donde puedo encontrar las fechas para hacer la <reserva de matricula>[procedimiento]"
+    },
+    {
+        "text": "hasta que fecha puedo subir la solicitud de reserva de matricula ?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 44,
+                "span_end": 64
+            }
+        ],
+        "text_label_entities": "hasta que fecha puedo subir la solicitud de <reserva de matricula>[procedimiento] ?"
+    },
+    {
+        "text": "cual es la fecha para enviar la solicitud de reserva de matricula",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 45,
+                "span_end": 65
+            }
+        ],
+        "text_label_entities": "cual es la fecha para enviar la solicitud de <reserva de matricula>[procedimiento]"
+    },
+    {
+        "text": "este ciclo que esta por comenzar no me voy a matricular, me puedes decir cual es la fecha limite para enviar mi solicitud",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [],
+        "text_label_entities": "este ciclo que esta por comenzar no me voy a matricular, me puedes decir cual es la fecha limite para enviar mi solicitud"
+    },
+    {
+        "text": "la matricula ya va ser la siguiente semana pero no podre matricularme, aun puedo enviar mi solicitud de reserva de matricula",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 104,
+                "span_end": 124
+            }
+        ],
+        "text_label_entities": "la matricula ya va ser la siguiente semana pero no podre matricularme, aun puedo enviar mi solicitud de <reserva de matricula>[procedimiento]"
+    },
+    {
+        "text": "la matricula es ma\u00f1ana pero por motivos de fuerza he decido no matricularme, entiendo que debo reservar la matricula todavia  podria hacerlo?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [],
+        "text_label_entities": "la matricula es ma\u00f1ana pero por motivos de fuerza he decido no matricularme, entiendo que debo reservar la matricula todavia  podria hacerlo?"
+    },
+    {
+        "text": "todavia puedo enviar mi reserva de matricula?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 24,
+                "span_end": 44
+            }
+        ],
+        "text_label_entities": "todavia puedo enviar mi <reserva de matricula>[procedimiento]?"
+    },
+    {
+        "text": "esta semana todavia puedo solicitar mi reserva de matricula?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 39,
+                "span_end": 59
+            }
+        ],
+        "text_label_entities": "esta semana todavia puedo solicitar mi <reserva de matricula>[procedimiento]?"
+    },
+    {
+        "text": "en que fecha puedo pedir mi reserva de matricula?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 28,
+                "span_end": 48
+            }
+        ],
+        "text_label_entities": "en que fecha puedo pedir mi <reserva de matricula>[procedimiento]?"
+    },
+    {
+        "text": "podria solicitar este semana mi reserva de matricula?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 32,
+                "span_end": 52
+            }
+        ],
+        "text_label_entities": "podria solicitar este semana mi <reserva de matricula>[procedimiento]?"
+    },
+    {
+        "text": "hasta que semana puedo solicitar mi reserva de matricula?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 36,
+                "span_end": 56
+            }
+        ],
+        "text_label_entities": "hasta que semana puedo solicitar mi <reserva de matricula>[procedimiento]?"
+    },
+    {
+        "text": "puedo presentar mi solicitud de reserva de matricula si el ciclo empieza la proxima semana?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 32,
+                "span_end": 52
+            }
+        ],
+        "text_label_entities": "puedo presentar mi solicitud de <reserva de matricula>[procedimiento] si el ciclo empieza la proxima semana?"
+    },
+    {
+        "text": "hasta que dia puedo solicitar mi reserva de matricula?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 33,
+                "span_end": 53
+            }
+        ],
+        "text_label_entities": "hasta que dia puedo solicitar mi <reserva de matricula>[procedimiento]?"
+    },
+    {
+        "text": "hasta que dias tengo plazo para presentar la solicitud para reservar mi matricula?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [],
+        "text_label_entities": "hasta que dias tengo plazo para presentar la solicitud para reservar mi matricula?"
+    },
+    {
+        "text": "estamos a una semana del inicio de clases todavia puedo solicitar mi reserva de matricula?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 69,
+                "span_end": 89
+            }
+        ],
+        "text_label_entities": "estamos a una semana del inicio de clases todavia puedo solicitar mi <reserva de matricula>[procedimiento]?"
+    },
+    {
+        "text": "el ciclo comienza la siguiente semana todavia puedo solicitar mi reserva de matricula?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 65,
+                "span_end": 85
+            }
+        ],
+        "text_label_entities": "el ciclo comienza la siguiente semana todavia puedo solicitar mi <reserva de matricula>[procedimiento]?"
+    },
+    {
+        "text": "recien me entero que esta semana ya comienza el ciclo todavia pero por motivos de fuerza mayor quiero reservar mi matricula este ciclo todavia puedo enviar mi solicitud?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [],
+        "text_label_entities": "recien me entero que esta semana ya comienza el ciclo todavia pero por motivos de fuerza mayor quiero reservar mi matricula este ciclo todavia puedo enviar mi solicitud?"
+    },
+    {
+        "text": "cual es la fecha limite para enviar la solicitud de reserva de matricula?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 52,
+                "span_end": 72
+            }
+        ],
+        "text_label_entities": "cual es la fecha limite para enviar la solicitud de <reserva de matricula>[procedimiento]?"
+    },
+    {
+        "text": "ya va a comenzar el ciclo esta semana todavia puedo pedir mi reserva de matricula?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 61,
+                "span_end": 81
+            }
+        ],
+        "text_label_entities": "ya va a comenzar el ciclo esta semana todavia puedo pedir mi <reserva de matricula>[procedimiento]?"
+    },
+    {
+        "text": "esta semana todavia puedo enviar la solicitud de reserva de matricula?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 49,
+                "span_end": 69
+            }
+        ],
+        "text_label_entities": "esta semana todavia puedo enviar la solicitud de <reserva de matricula>[procedimiento]?"
+    },
+    {
+        "text": "hay alguna fecha limite para enviar solcitar la reserva de matricula?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 48,
+                "span_end": 68
+            }
+        ],
+        "text_label_entities": "hay alguna fecha limite para enviar solcitar la <reserva de matricula>[procedimiento]?"
+    },
+    {
+        "text": "todavia puedo presentar mi solicitud para la reserva de mi matricula este ciclo?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [],
+        "text_label_entities": "todavia puedo presentar mi solicitud para la reserva de mi matricula este ciclo?"
+    },
+    {
+        "text": "otra duda puedo realizar el tramite de reserva de matricula esta semana",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 39,
+                "span_end": 59
+            }
+        ],
+        "text_label_entities": "otra duda puedo realizar el tramite de <reserva de matricula>[procedimiento] esta semana"
+    },
+    {
+        "text": "apartir de esta semana ya puedo solicitar mi reserva de matricula?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 45,
+                "span_end": 65
+            }
+        ],
+        "text_label_entities": "apartir de esta semana ya puedo solicitar mi <reserva de matricula>[procedimiento]?"
+    },
+    {
+        "text": "esta semana todavia puedo realizar la reserva de matricula?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 38,
+                "span_end": 58
+            }
+        ],
+        "text_label_entities": "esta semana todavia puedo realizar la <reserva de matricula>[procedimiento]?"
+    },
+    {
+        "text": "la siguiente semana ya podria solicitar la reserva de la matricula?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [],
+        "text_label_entities": "la siguiente semana ya podria solicitar la reserva de la matricula?"
+    },
+    {
+        "text": "ya podria hacer la reserva de la matricula o a que fechas deberia esperar para solicitarlo?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [],
+        "text_label_entities": "ya podria hacer la reserva de la matricula o a que fechas deberia esperar para solicitarlo?"
+    },
+    {
+        "text": "debo esperar para iniciar el tramite de reserva de la matricula o ya puedo solicitarlo?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [],
+        "text_label_entities": "debo esperar para iniciar el tramite de reserva de la matricula o ya puedo solicitarlo?"
+    },
+    {
+        "text": "podria comenzar ya los tramites para mi reserva de la matricula o a que fecha deberia esperar?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [],
+        "text_label_entities": "podria comenzar ya los tramites para mi reserva de la matricula o a que fecha deberia esperar?"
+    },
+    {
+        "text": "puedo iniciar mis tramites para la reserva de la matricula esta semana?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [],
+        "text_label_entities": "puedo iniciar mis tramites para la reserva de la matricula esta semana?"
     },
     {
         "text": "\u00bfCuanto es el costo por el tramite?",
@@ -4765,424 +6511,424 @@
         "text_label_entities": "cuales son los pagos para matricula y que mas debo hacer para matricularme este ciclo"
     },
     {
-        "text": "\u00bfCu\u00e1l es el proceso de matr\u00edcula para un alumno regular?",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "\u00bfCu\u00e1l es el proceso de matr\u00edcula para un alumno regular?"
-    },
-    {
-        "text": "Soy alumno regular como es el proceso de matricula",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "Soy alumno regular como es el proceso de matricula"
-    },
-    {
-        "text": "Hola, soy alumno regular quiero saber como realizar mi matricula",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "Hola, soy alumno regular quiero saber como realizar mi matricula"
-    },
-    {
-        "text": "soy alumno regular de fisica me podrias decir cual es el proceso de matricula",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "soy alumno regular de fisica me podrias decir cual es el proceso de matricula"
-    },
-    {
-        "text": "soy alumno regular de ciencias de la computaci\u00f3n cual es el proceso de matricula",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "soy alumno regular de ciencias de la computaci\u00f3n cual es el proceso de matricula"
-    },
-    {
-        "text": "una consulta soy alumno regular de matematicas me indicaron que debo hacer unos pagos e ingresar a una plataforma para hacer mi matricula pero no entendi bien",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "una consulta soy alumno regular de matematicas me indicaron que debo hacer unos pagos e ingresar a una plataforma para hacer mi matricula pero no entendi bien"
-    },
-    {
-        "text": "soy alumno regular como realizo mi matricula",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "soy alumno regular como realizo mi matricula"
-    },
-    {
-        "text": "cual es el procedimiento de matricula como alumno regular",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "cual es el procedimiento de matricula como alumno regular"
-    },
-    {
-        "text": "que pagos debo hacer este ciclo para la matricula soy alumno regular",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "que pagos debo hacer este ciclo para la matricula soy alumno regular"
-    },
-    {
-        "text": "como alumno regular que pagos debo hacer para realizar la matricula",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "como alumno regular que pagos debo hacer para realizar la matricula"
-    },
-    {
-        "text": "actualmente soy alumno regular hay algo que debo pagar para la matricula",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "actualmente soy alumno regular hay algo que debo pagar para la matricula"
-    },
-    {
-        "text": "este va a ser mi segundo ciclo debo pagar algo por la matricula",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "este va a ser mi segundo ciclo debo pagar algo por la matricula"
-    },
-    {
-        "text": "es mi segundo ciclo hay algo que debo pagar a parte del autoseguro para la matricula",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "es mi segundo ciclo hay algo que debo pagar a parte del autoseguro para la matricula"
-    },
-    {
-        "text": "que pagos debo hacer para la matricula si soy alumno regular",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "que pagos debo hacer para la matricula si soy alumno regular"
-    },
-    {
-        "text": "tengo que hacer algun tramite para matricularme en el segundo ciclo",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "tengo que hacer algun tramite para matricularme en el segundo ciclo"
-    },
-    {
-        "text": "este ciclo debo realizar algun tramite mas para la matricula a parte pagar el autoseguro si soy alumno regular",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "este ciclo debo realizar algun tramite mas para la matricula a parte pagar el autoseguro si soy alumno regular"
-    },
-    {
-        "text": "este nuevo ciclo que se esta aperturando la matricula es automatica o debo hacer algun tramite actualmete soy alumno regular",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "este nuevo ciclo que se esta aperturando la matricula es automatica o debo hacer algun tramite actualmete soy alumno regular"
-    },
-    {
-        "text": "como me puedo matricular si soy alumno regular",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "como me puedo matricular si soy alumno regular"
-    },
-    {
-        "text": "cual es procedimiento para la matricula siendo alumno regular",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "cual es procedimiento para la matricula siendo alumno regular"
-    },
-    {
-        "text": "que pagos debo hacer como alumno regular para la matricula",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "que pagos debo hacer como alumno regular para la matricula"
-    },
-    {
-        "text": "a parte del autoseguro hay algo mas que pagar como alumno regular",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "a parte del autoseguro hay algo mas que pagar como alumno regular"
-    },
-    {
-        "text": "no estoy seguro si debo pagar algo mas que el autoseguro para la matricula este ciclo es mi segundo ciclo",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "no estoy seguro si debo pagar algo mas que el autoseguro para la matricula este ciclo es mi segundo ciclo"
-    },
-    {
-        "text": "soy alumno de segundo ciclo como me matricula",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "soy alumno de segundo ciclo como me matricula"
-    },
-    {
-        "text": "quiero matricularme en el segundo ciclo",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "quiero matricularme en el segundo ciclo"
-    },
-    {
-        "text": "cuanto pagos debo hacer para la matricula si soy alumno regular",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "cuanto pagos debo hacer para la matricula si soy alumno regular"
-    },
-    {
-        "text": "cual es el proceso de matricula para este segundo ciclo",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "cual es el proceso de matricula para este segundo ciclo"
-    },
-    {
-        "text": "acabo de pagar el autoseguro es necesario que le entregue el voucher a aera para matricularme si soy alumno regular?",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "acabo de pagar el autoseguro es necesario que le entregue el voucher a aera para matricularme si soy alumno regular?"
-    },
-    {
-        "text": "ya pague el autoseguro debo realizar algo mas para mi matricula soy alumno en tercer ciclo",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "ya pague el autoseguro debo realizar algo mas para mi matricula soy alumno en tercer ciclo"
-    },
-    {
-        "text": "me gustaria matricularme en el tercer ciclo que pagos debo hacer",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "me gustaria matricularme en el tercer ciclo que pagos debo hacer"
-    },
-    {
-        "text": "hola que tal, soy alumno regular ya pague el autoseguro pero no me creo que pueda ir a dejar la boleta por que me encuentro en provincia. Es necesario?",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "hola que tal, soy alumno regular ya pague el autoseguro pero no me creo que pueda ir a dejar la boleta por que me encuentro en provincia. Es necesario?"
-    },
-    {
-        "text": "como alumno regular debo pagar algo mas a parte del autoseguro?",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "como alumno regular debo pagar algo mas a parte del autoseguro?"
-    },
-    {
-        "text": "es mi segundo ciclo que mas pagos debo hacer aparte del autoseguro ?",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "es mi segundo ciclo que mas pagos debo hacer aparte del autoseguro ?"
-    },
-    {
-        "text": "soy alumno regular aparte de pagar el autoseguro que mas debo pagar o tramitar para la matricula?",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "soy alumno regular aparte de pagar el autoseguro que mas debo pagar o tramitar para la matricula?"
-    },
-    {
-        "text": "es mi segundo ciclo queria saber si debo pagar pagar nuevamente por el carnet para la matricula o solo el autoseguro se paga?",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "es mi segundo ciclo queria saber si debo pagar pagar nuevamente por el carnet para la matricula o solo el autoseguro se paga?"
-    },
-    {
-        "text": "es mi tercer ciclo queria confirmar si solo debo para el autoseguro o debo cancelar algo mas?",
-        "intent_name": "matricula__procedimiento_alumno_regular",
-        "entities": [],
-        "text_label_entities": "es mi tercer ciclo queria confirmar si solo debo para el autoseguro o debo cancelar algo mas?"
-    },
-    {
         "text": "\u00bfCu\u00e1l es el proceso de matr\u00edcula para un alumno ingresante?",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "\u00bfCu\u00e1l es el proceso de matr\u00edcula para un alumno ingresante?"
     },
     {
         "text": "Soy ingresante como es el proceso de matricula",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "Soy ingresante como es el proceso de matricula"
     },
     {
         "text": "Hola, soy alumno ingresante quiero saber como realizar mi matricula",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "Hola, soy alumno ingresante quiero saber como realizar mi matricula"
     },
     {
         "text": "soy alumno ingresante de fisica me podrias decir cual es el proceso de matricula",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "soy alumno ingresante de fisica me podrias decir cual es el proceso de matricula"
     },
     {
         "text": "soy ingresante de ciencias de la computaci\u00f3n cual es el proceso de matricula",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "soy ingresante de ciencias de la computaci\u00f3n cual es el proceso de matricula"
     },
     {
         "text": "una consulta soy alumno ingresante de matematicas me indicaron que debo hacer unos pagos e ingresar a una plataforma para hacer mi matricula pero no entendi bien",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "una consulta soy alumno ingresante de matematicas me indicaron que debo hacer unos pagos e ingresar a una plataforma para hacer mi matricula pero no entendi bien"
     },
     {
         "text": "soy alumno ingresante como realizo mi matricula",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "soy alumno ingresante como realizo mi matricula"
     },
     {
         "text": "soy ingresante de la carrera de matematicas, me puede indicar cual es procedimiento de matricula",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "soy ingresante de la carrera de matematicas, me puede indicar cual es procedimiento de matricula"
     },
     {
         "text": "es mi primer ciclo soy ingresante puede decirme cual es proceso a seguir para la matricula",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "es mi primer ciclo soy ingresante puede decirme cual es proceso a seguir para la matricula"
     },
     {
         "text": "he ingresado a la carrera de ingenieria fisica quisiera saber cuales son los para paso para la matricula",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "he ingresado a la carrera de ingenieria fisica quisiera saber cuales son los para paso para la matricula"
     },
     {
         "text": "he ingresado a la carrera de Quimica en el anterior examen de admisi\u00f3n quisiera que debo hacer para matricularme",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "he ingresado a la carrera de Quimica en el anterior examen de admisi\u00f3n quisiera que debo hacer para matricularme"
     },
     {
         "text": "acabo de ingresar este ciclo, cuales son los pagos que debo hacer para la matricula",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "acabo de ingresar este ciclo, cuales son los pagos que debo hacer para la matricula"
     },
     {
         "text": "que pagos demo hacer para la matricula, soy ingresante de la carrera de ciencias de la computaci\u00f3n",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "que pagos demo hacer para la matricula, soy ingresante de la carrera de ciencias de la computaci\u00f3n"
     },
     {
         "text": "como puedo matricularme si soy nuevo alumno",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "como puedo matricularme si soy nuevo alumno"
     },
     {
         "text": "es mi primer ciclo como me puedo matricular",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "es mi primer ciclo como me puedo matricular"
     },
     {
         "text": "soy ingresante y este es mi primer ciclo como procedo con la matricula",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "soy ingresante y este es mi primer ciclo como procedo con la matricula"
     },
     {
         "text": "como puedo matricular si es mi primer ciclo",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "como puedo matricular si es mi primer ciclo"
     },
     {
         "text": "ingrese este ciclo como me matriculo",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "ingrese este ciclo como me matriculo"
     },
     {
         "text": "soy ingresante de la carrera de ciencias de la computacion como me inscribo este ciclo",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "soy ingresante de la carrera de ciencias de la computacion como me inscribo este ciclo"
     },
     {
         "text": "soy ingresante pero todavia no me han dicho como matricularme que debo hacer",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "soy ingresante pero todavia no me han dicho como matricularme que debo hacer"
     },
     {
         "text": "acabo de ingresar este ciclo, la matricula es automatica o debo realizar algun tramite o pagos?",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "acabo de ingresar este ciclo, la matricula es automatica o debo realizar algun tramite o pagos?"
     },
     {
         "text": "que pagos debo hacer para la matricula soy ingresante?",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "que pagos debo hacer para la matricula soy ingresante?"
     },
     {
         "text": "este en mi primer ciclo como puedo matricularme",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "este en mi primer ciclo como puedo matricularme"
     },
     {
         "text": "me han dicho que pague por el carnet y por el autoseguro para la matricula hay algo mas que pagar para la matricula soy nuevo alumno",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "me han dicho que pague por el carnet y por el autoseguro para la matricula hay algo mas que pagar para la matricula soy nuevo alumno"
     },
     {
         "text": "cual es el proceso de matricula para un nuevo alumno",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "cual es el proceso de matricula para un nuevo alumno"
     },
     {
         "text": "hola, ingrese en el anterior examen de admision quiero saber si la matricula tiene algun costo y si debo hacer algun tramite mas",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "hola, ingrese en el anterior examen de admision quiero saber si la matricula tiene algun costo y si debo hacer algun tramite mas"
     },
     {
         "text": "quiero matricularme pero no se que debo pagar o tramitar soy ingresante",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "quiero matricularme pero no se que debo pagar o tramitar soy ingresante"
     },
     {
         "text": "hola soy ingresante ya pague todo lo que me dijeron para la matricula debo dejar los vouchers en estadistica?",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "hola soy ingresante ya pague todo lo que me dijeron para la matricula debo dejar los vouchers en estadistica?"
     },
     {
         "text": "ya pague el carnet y el autoseguro me dijeron que debo dejar las boletas en la oficina de estadistica. Soy nuevo alumno ingresante.",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "ya pague el carnet y el autoseguro me dijeron que debo dejar las boletas en la oficina de estadistica. Soy nuevo alumno ingresante."
     },
     {
         "text": "soy ingresante tengo que ir a dejar las boletas del autoseguro y carnet o no es necesario?",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "soy ingresante tengo que ir a dejar las boletas del autoseguro y carnet o no es necesario?"
     },
     {
         "text": "soy nuevo alumno ingrese en el anterior examen que debo hacer para matricularme",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "soy nuevo alumno ingrese en el anterior examen que debo hacer para matricularme"
     },
     {
         "text": "soy alumno ingresante, quisiera matricularme pero no entendi que pagos debo hacar me podria indicar que pagos debo hacer?",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "soy alumno ingresante, quisiera matricularme pero no entendi que pagos debo hacar me podria indicar que pagos debo hacer?"
     },
     {
         "text": "ingrese este ciclo a la carrera de ciencia de la computacion, quiero que me indique si debo pagar algo por la matricula?",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "ingrese este ciclo a la carrera de ciencia de la computacion, quiero que me indique si debo pagar algo por la matricula?"
     },
     {
         "text": "es mi primer ciclo, me indicaran que debo hacer algunos pagos para la matricula me podria indicar cuales son?",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "es mi primer ciclo, me indicaran que debo hacer algunos pagos para la matricula me podria indicar cuales son?"
     },
     {
         "text": "soy nueva alumna me puede indicar que pagos debo hacer para la matricula?",
-        "intent_name": "matricula__procedimiento_alumno_ingresante",
+        "intent_name": "matricula_procedimiento",
         "entities": [],
         "text_label_entities": "soy nueva alumna me puede indicar que pagos debo hacer para la matricula?"
+    },
+    {
+        "text": "\u00bfCu\u00e1l es el proceso de matr\u00edcula para un alumno regular?",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "\u00bfCu\u00e1l es el proceso de matr\u00edcula para un alumno regular?"
+    },
+    {
+        "text": "Soy alumno regular como es el proceso de matricula",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "Soy alumno regular como es el proceso de matricula"
+    },
+    {
+        "text": "Hola, soy alumno regular quiero saber como realizar mi matricula",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "Hola, soy alumno regular quiero saber como realizar mi matricula"
+    },
+    {
+        "text": "soy alumno regular de fisica me podrias decir cual es el proceso de matricula",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "soy alumno regular de fisica me podrias decir cual es el proceso de matricula"
+    },
+    {
+        "text": "soy alumno regular de ciencias de la computaci\u00f3n cual es el proceso de matricula",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "soy alumno regular de ciencias de la computaci\u00f3n cual es el proceso de matricula"
+    },
+    {
+        "text": "una consulta soy alumno regular de matematicas me indicaron que debo hacer unos pagos e ingresar a una plataforma para hacer mi matricula pero no entendi bien",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "una consulta soy alumno regular de matematicas me indicaron que debo hacer unos pagos e ingresar a una plataforma para hacer mi matricula pero no entendi bien"
+    },
+    {
+        "text": "soy alumno regular como realizo mi matricula",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "soy alumno regular como realizo mi matricula"
+    },
+    {
+        "text": "cual es el procedimiento de matricula como alumno regular",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "cual es el procedimiento de matricula como alumno regular"
+    },
+    {
+        "text": "que pagos debo hacer este ciclo para la matricula soy alumno regular",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "que pagos debo hacer este ciclo para la matricula soy alumno regular"
+    },
+    {
+        "text": "como alumno regular que pagos debo hacer para realizar la matricula",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "como alumno regular que pagos debo hacer para realizar la matricula"
+    },
+    {
+        "text": "actualmente soy alumno regular hay algo que debo pagar para la matricula",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "actualmente soy alumno regular hay algo que debo pagar para la matricula"
+    },
+    {
+        "text": "este va a ser mi segundo ciclo debo pagar algo por la matricula",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "este va a ser mi segundo ciclo debo pagar algo por la matricula"
+    },
+    {
+        "text": "es mi segundo ciclo hay algo que debo pagar a parte del autoseguro para la matricula",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "es mi segundo ciclo hay algo que debo pagar a parte del autoseguro para la matricula"
+    },
+    {
+        "text": "que pagos debo hacer para la matricula si soy alumno regular",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "que pagos debo hacer para la matricula si soy alumno regular"
+    },
+    {
+        "text": "tengo que hacer algun tramite para matricularme en el segundo ciclo",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "tengo que hacer algun tramite para matricularme en el segundo ciclo"
+    },
+    {
+        "text": "este ciclo debo realizar algun tramite mas para la matricula a parte pagar el autoseguro si soy alumno regular",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "este ciclo debo realizar algun tramite mas para la matricula a parte pagar el autoseguro si soy alumno regular"
+    },
+    {
+        "text": "este nuevo ciclo que se esta aperturando la matricula es automatica o debo hacer algun tramite actualmete soy alumno regular",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "este nuevo ciclo que se esta aperturando la matricula es automatica o debo hacer algun tramite actualmete soy alumno regular"
+    },
+    {
+        "text": "como me puedo matricular si soy alumno regular",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "como me puedo matricular si soy alumno regular"
+    },
+    {
+        "text": "cual es procedimiento para la matricula siendo alumno regular",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "cual es procedimiento para la matricula siendo alumno regular"
+    },
+    {
+        "text": "que pagos debo hacer como alumno regular para la matricula",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "que pagos debo hacer como alumno regular para la matricula"
+    },
+    {
+        "text": "a parte del autoseguro hay algo mas que pagar como alumno regular",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "a parte del autoseguro hay algo mas que pagar como alumno regular"
+    },
+    {
+        "text": "no estoy seguro si debo pagar algo mas que el autoseguro para la matricula este ciclo es mi segundo ciclo",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "no estoy seguro si debo pagar algo mas que el autoseguro para la matricula este ciclo es mi segundo ciclo"
+    },
+    {
+        "text": "soy alumno de segundo ciclo como me matricula",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "soy alumno de segundo ciclo como me matricula"
+    },
+    {
+        "text": "quiero matricularme en el segundo ciclo",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "quiero matricularme en el segundo ciclo"
+    },
+    {
+        "text": "cuanto pagos debo hacer para la matricula si soy alumno regular",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "cuanto pagos debo hacer para la matricula si soy alumno regular"
+    },
+    {
+        "text": "cual es el proceso de matricula para este segundo ciclo",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "cual es el proceso de matricula para este segundo ciclo"
+    },
+    {
+        "text": "acabo de pagar el autoseguro es necesario que le entregue el voucher a aera para matricularme si soy alumno regular?",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "acabo de pagar el autoseguro es necesario que le entregue el voucher a aera para matricularme si soy alumno regular?"
+    },
+    {
+        "text": "ya pague el autoseguro debo realizar algo mas para mi matricula soy alumno en tercer ciclo",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "ya pague el autoseguro debo realizar algo mas para mi matricula soy alumno en tercer ciclo"
+    },
+    {
+        "text": "me gustaria matricularme en el tercer ciclo que pagos debo hacer",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "me gustaria matricularme en el tercer ciclo que pagos debo hacer"
+    },
+    {
+        "text": "hola que tal, soy alumno regular ya pague el autoseguro pero no me creo que pueda ir a dejar la boleta por que me encuentro en provincia. Es necesario?",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "hola que tal, soy alumno regular ya pague el autoseguro pero no me creo que pueda ir a dejar la boleta por que me encuentro en provincia. Es necesario?"
+    },
+    {
+        "text": "como alumno regular debo pagar algo mas a parte del autoseguro?",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "como alumno regular debo pagar algo mas a parte del autoseguro?"
+    },
+    {
+        "text": "es mi segundo ciclo que mas pagos debo hacer aparte del autoseguro ?",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "es mi segundo ciclo que mas pagos debo hacer aparte del autoseguro ?"
+    },
+    {
+        "text": "soy alumno regular aparte de pagar el autoseguro que mas debo pagar o tramitar para la matricula?",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "soy alumno regular aparte de pagar el autoseguro que mas debo pagar o tramitar para la matricula?"
+    },
+    {
+        "text": "es mi segundo ciclo queria saber si debo pagar pagar nuevamente por el carnet para la matricula o solo el autoseguro se paga?",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "es mi segundo ciclo queria saber si debo pagar pagar nuevamente por el carnet para la matricula o solo el autoseguro se paga?"
+    },
+    {
+        "text": "es mi tercer ciclo queria confirmar si solo debo para el autoseguro o debo cancelar algo mas?",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": "es mi tercer ciclo queria confirmar si solo debo para el autoseguro o debo cancelar algo mas?"
     },
     {
         "text": "\u00bfC\u00f3mo obtener mi carnet universitario?",
@@ -7105,500 +8851,6 @@
         "text_label_entities": "cuando salen los horarios de los cursos?"
     },
     {
-        "text": "\u00bfEn que semana se realiza el retiro parcial?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 29,
-                "span_end": 43
-            }
-        ],
-        "text_label_entities": "\u00bfEn que semana se realiza el <retiro parcial>[procedimiento]?"
-    },
-    {
-        "text": "Hasta cu\u00e1ndo puedo hacer el retiro parcial?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 28,
-                "span_end": 42
-            }
-        ],
-        "text_label_entities": "Hasta cu\u00e1ndo puedo hacer el <retiro parcial>[procedimiento]?"
-    },
-    {
-        "text": "una duda a partir de semana puedo solicitar el retiro parcial ?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 47,
-                "span_end": 61
-            }
-        ],
-        "text_label_entities": "una duda a partir de semana puedo solicitar el <retiro parcial>[procedimiento] ?"
-    },
-    {
-        "text": "en que semana puedo realizar el retiro parcial?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 32,
-                "span_end": 46
-            }
-        ],
-        "text_label_entities": "en que semana puedo realizar el <retiro parcial>[procedimiento]?"
-    },
-    {
-        "text": "Y hasta cuando podria enviar la solicitud de retiro parcial?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 45,
-                "span_end": 59
-            }
-        ],
-        "text_label_entities": "Y hasta cuando podria enviar la solicitud de <retiro parcial>[procedimiento]?"
-    },
-    {
-        "text": "hasta cuando hacer el retiro de un curso ?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [],
-        "text_label_entities": "hasta cuando hacer el retiro de un curso ?"
-    },
-    {
-        "text": "quisiera saber hasta que dias puedo hacer el retiro parcial ?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 45,
-                "span_end": 59
-            }
-        ],
-        "text_label_entities": "quisiera saber hasta que dias puedo hacer el <retiro parcial>[procedimiento] ?"
-    },
-    {
-        "text": "una consulta cuando se habilitara en el sistema el retiro parcial?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 51,
-                "span_end": 65
-            }
-        ],
-        "text_label_entities": "una consulta cuando se habilitara en el sistema el <retiro parcial>[procedimiento]?"
-    },
-    {
-        "text": "Me prodr\u00edan decir la fecha m\u00e1xima para hacer el retiro parcial?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 48,
-                "span_end": 62
-            }
-        ],
-        "text_label_entities": "Me prodr\u00edan decir la fecha m\u00e1xima para hacer el <retiro parcial>[procedimiento]?"
-    },
-    {
-        "text": "quiero solicitar el retiro de un curso hasta cuando puedo hacerlo ?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [],
-        "text_label_entities": "quiero solicitar el retiro de un curso hasta cuando puedo hacerlo ?"
-    },
-    {
-        "text": "Hasta que fecha podr\u00eda hacer el retiro parcial?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 32,
-                "span_end": 46
-            }
-        ],
-        "text_label_entities": "Hasta que fecha podr\u00eda hacer el <retiro parcial>[procedimiento]?"
-    },
-    {
-        "text": "una consulta estamos ya en la cuarta semana de clases, podria hacer el retiro parcial ?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 71,
-                "span_end": 85
-            }
-        ],
-        "text_label_entities": "una consulta estamos ya en la cuarta semana de clases, podria hacer el <retiro parcial>[procedimiento] ?"
-    },
-    {
-        "text": "Hola, he querido retirarme de un curso pero me parece que un no esta habilitado cuando se habilitara el retiro parcial?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 104,
-                "span_end": 118
-            }
-        ],
-        "text_label_entities": "Hola, he querido retirarme de un curso pero me parece que un no esta habilitado cuando se habilitara el <retiro parcial>[procedimiento]?"
-    },
-    {
-        "text": "Buenos dias, cuando puedo realizar el retiro de un curso",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [],
-        "text_label_entities": "Buenos dias, cuando puedo realizar el retiro de un curso"
-    },
-    {
-        "text": "cuando puedo realizar el retiro de una asignatura",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [],
-        "text_label_entities": "cuando puedo realizar el retiro de una asignatura"
-    },
-    {
-        "text": "Hola, \u00bfcu\u00e1ndo son las fechas para el retiro parcial?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 37,
-                "span_end": 51
-            }
-        ],
-        "text_label_entities": "Hola, \u00bfcu\u00e1ndo son las fechas para el <retiro parcial>[procedimiento]?"
-    },
-    {
-        "text": "Hola, quiero retirarme de unos cursos y quiero saber las fechas",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [],
-        "text_label_entities": "Hola, quiero retirarme de unos cursos y quiero saber las fechas"
-    },
-    {
-        "text": "quiero retirarme algunas asignaturas y quiero saber las fechas",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [],
-        "text_label_entities": "quiero retirarme algunas asignaturas y quiero saber las fechas"
-    },
-    {
-        "text": "Hola, una consulta cuando se habilitara el retiro parcial",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 43,
-                "span_end": 57
-            }
-        ],
-        "text_label_entities": "Hola, una consulta cuando se habilitara el <retiro parcial>[procedimiento]"
-    },
-    {
-        "text": "Buenos dias, quisiera saber cuando vence el plazo de retiro parcial",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 53,
-                "span_end": 67
-            }
-        ],
-        "text_label_entities": "Buenos dias, quisiera saber cuando vence el plazo de <retiro parcial>[procedimiento]"
-    },
-    {
-        "text": "Hola, una duda estamos en la cuarta semana de clases puedo hacer el retiro parcial?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 68,
-                "span_end": 82
-            }
-        ],
-        "text_label_entities": "Hola, una duda estamos en la cuarta semana de clases puedo hacer el <retiro parcial>[procedimiento]?"
-    },
-    {
-        "text": "Buenas, quisiera saber si a\u00fan se puede hacer el retiro parcial, el motivo es que estoy con tratamiento psiqui\u00e1trico y me recomendaron que me retire de algunos cursos",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 48,
-                "span_end": 62
-            }
-        ],
-        "text_label_entities": "Buenas, quisiera saber si a\u00fan se puede hacer el <retiro parcial>[procedimiento], el motivo es que estoy con tratamiento psiqui\u00e1trico y me recomendaron que me retire de algunos cursos"
-    },
-    {
-        "text": "Buenos d\u00edas, cu\u00e1ndo es la fecha para el retiro parcial?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 40,
-                "span_end": 54
-            }
-        ],
-        "text_label_entities": "Buenos d\u00edas, cu\u00e1ndo es la fecha para el <retiro parcial>[procedimiento]?"
-    },
-    {
-        "text": "Hola, \u00bfHasta cuando puedo hacer el retiro parcial?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 35,
-                "span_end": 49
-            }
-        ],
-        "text_label_entities": "Hola, \u00bfHasta cuando puedo hacer el <retiro parcial>[procedimiento]?"
-    },
-    {
-        "text": "Hola Aerito, hasta que dias puedo realizar el retiro parcial",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 46,
-                "span_end": 60
-            }
-        ],
-        "text_label_entities": "Hola Aerito, hasta que dias puedo realizar el <retiro parcial>[procedimiento]"
-    },
-    {
-        "text": "Hola, cu\u00e1ndo inicia el retiro parcial?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 23,
-                "span_end": 37
-            }
-        ],
-        "text_label_entities": "Hola, cu\u00e1ndo inicia el <retiro parcial>[procedimiento]?"
-    },
-    {
-        "text": "Hola, una duda el retiro parcial se habilitara en la quinta semana de clases ?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 18,
-                "span_end": 32
-            }
-        ],
-        "text_label_entities": "Hola, una duda el <retiro parcial>[procedimiento] se habilitara en la quinta semana de clases ?"
-    },
-    {
-        "text": "Hola, tengo una duda en que semana se habilitara el retiro parcial",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 52,
-                "span_end": 66
-            }
-        ],
-        "text_label_entities": "Hola, tengo una duda en que semana se habilitara el <retiro parcial>[procedimiento]"
-    },
-    {
-        "text": "Buenas, \u00bfCu\u00e1les son las fechas para realizar el retiro parcial?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 48,
-                "span_end": 62
-            }
-        ],
-        "text_label_entities": "Buenas, \u00bfCu\u00e1les son las fechas para realizar el <retiro parcial>[procedimiento]?"
-    },
-    {
-        "text": "Hola, quisiera retirarme de un curso me podria decir hasta cuando se habilitara en el sistema ?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [],
-        "text_label_entities": "Hola, quisiera retirarme de un curso me podria decir hasta cuando se habilitara en el sistema ?"
-    },
-    {
-        "text": "cuando es el retiro parcial",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 13,
-                "span_end": 27
-            }
-        ],
-        "text_label_entities": "cuando es el <retiro parcial>[procedimiento]"
-    },
-    {
-        "text": "puedo hacer el retiro parcial todavia estamos ya en la sexta semana?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 15,
-                "span_end": 29
-            }
-        ],
-        "text_label_entities": "puedo hacer el <retiro parcial>[procedimiento] todavia estamos ya en la sexta semana?"
-    },
-    {
-        "text": "el retiro parcial se puede pedir en la primera semana?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 3,
-                "span_end": 17
-            }
-        ],
-        "text_label_entities": "el <retiro parcial>[procedimiento] se puede pedir en la primera semana?"
-    },
-    {
-        "text": "puedo solicitar el retiro parcial en la quinta semana?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 19,
-                "span_end": 33
-            }
-        ],
-        "text_label_entities": "puedo solicitar el <retiro parcial>[procedimiento] en la quinta semana?"
-    },
-    {
-        "text": "en la segunda semana ya puedo retirarme de un curso?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [],
-        "text_label_entities": "en la segunda semana ya puedo retirarme de un curso?"
-    },
-    {
-        "text": "quiero saber la fechas para poder retirarme de algunos cursos",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [],
-        "text_label_entities": "quiero saber la fechas para poder retirarme de algunos cursos"
-    },
-    {
-        "text": "es la sexta semana todavia puedo retirarme de un curso?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [],
-        "text_label_entities": "es la sexta semana todavia puedo retirarme de un curso?"
-    },
-    {
-        "text": "queria retirarme pero el retiro ya no esta habilitado en el sistema, que puedo hacer?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [],
-        "text_label_entities": "queria retirarme pero el retiro ya no esta habilitado en el sistema, que puedo hacer?"
-    },
-    {
-        "text": "ya paso la quinta pero quiero retirarme de un curso, que puedo hacer?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [],
-        "text_label_entities": "ya paso la quinta pero quiero retirarme de un curso, que puedo hacer?"
-    },
-    {
-        "text": "ya se paso la fecha de retiro parcial, puedo solicitar el retiro de alguna forma?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 23,
-                "span_end": 37
-            }
-        ],
-        "text_label_entities": "ya se paso la fecha de <retiro parcial>[procedimiento], puedo solicitar el retiro de alguna forma?"
-    },
-    {
-        "text": "el retiro parcial ya no sale habilitado en el sistema, podria solicitarlo de otra forma?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 3,
-                "span_end": 17
-            }
-        ],
-        "text_label_entities": "el <retiro parcial>[procedimiento] ya no sale habilitado en el sistema, podria solicitarlo de otra forma?"
-    },
-    {
-        "text": "quiero solictar el retiro parcial por que ya no esta habilitado en el sistema, como puedo hacer?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 19,
-                "span_end": 33
-            }
-        ],
-        "text_label_entities": "quiero solictar el <retiro parcial>[procedimiento] por que ya no esta habilitado en el sistema, como puedo hacer?"
-    },
-    {
-        "text": "como puedo pedir el retiro pacial si ya no esta habilitado en sistema?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [],
-        "text_label_entities": "como puedo pedir el retiro pacial si ya no esta habilitado en sistema?"
-    },
-    {
-        "text": "como puedo solicitar el retiro parcial si ya se paso la quinta semana y ya no esta habilitado en el sistema",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 24,
-                "span_end": 38
-            }
-        ],
-        "text_label_entities": "como puedo solicitar el <retiro parcial>[procedimiento] si ya se paso la quinta semana y ya no esta habilitado en el sistema"
-    },
-    {
-        "text": "si ya se pasaron las fechas de retiro parcial, como podria solitar el retiro de un curso?",
-        "intent_name": "retiro_parcial__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 31,
-                "span_end": 45
-            }
-        ],
-        "text_label_entities": "si ya se pasaron las fechas de <retiro parcial>[procedimiento], como podria solitar el retiro de un curso?"
-    },
-    {
         "text": "\u00bfC\u00f3mo realizo un retiro parcial?",
         "intent_name": "retiro_parcial__procedimiento",
         "entities": [
@@ -8707,447 +9959,6 @@
         "intent_name": "retiro_parcial__maximo_cursos",
         "entities": [],
         "text_label_entities": "estoy pensando en retirarme de casi todos los cursos que estoy llevando y solo dejar uno es posible?"
-    },
-    {
-        "text": "\u00bfEn que fecha se realiza el retiro total?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 28,
-                "span_end": 40
-            }
-        ],
-        "text_label_entities": "\u00bfEn que fecha se realiza el <retiro total>[procedimiento]?"
-    },
-    {
-        "text": "Hasta cuando puedo presentar los documentos para el retiro total?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 52,
-                "span_end": 64
-            }
-        ],
-        "text_label_entities": "Hasta cuando puedo presentar los documentos para el <retiro total>[procedimiento]?"
-    },
-    {
-        "text": "Cuando es la fecha para el retiro total?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 27,
-                "span_end": 39
-            }
-        ],
-        "text_label_entities": "Cuando es la fecha para el <retiro total>[procedimiento]?"
-    },
-    {
-        "text": "\u00bfCu\u00e1l es la fecha l\u00edmite para enviar los documentos del retiro total?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 56,
-                "span_end": 68
-            }
-        ],
-        "text_label_entities": "\u00bfCu\u00e1l es la fecha l\u00edmite para enviar los documentos del <retiro total>[procedimiento]?"
-    },
-    {
-        "text": "Buenos dias, quisiera saber cuando vence el plazo de retiro total",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 53,
-                "span_end": 65
-            }
-        ],
-        "text_label_entities": "Buenos dias, quisiera saber cuando vence el plazo de <retiro total>[procedimiento]"
-    },
-    {
-        "text": "\u00bfQu\u00e9 d\u00edas se hace el tr\u00e1mite del retiro total?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 33,
-                "span_end": 45
-            }
-        ],
-        "text_label_entities": "\u00bfQu\u00e9 d\u00edas se hace el tr\u00e1mite del <retiro total>[procedimiento]?"
-    },
-    {
-        "text": "\u00bfEn qu\u00e9 fechas puedo realizar el retiro total?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 33,
-                "span_end": 45
-            }
-        ],
-        "text_label_entities": "\u00bfEn qu\u00e9 fechas puedo realizar el <retiro total>[procedimiento]?"
-    },
-    {
-        "text": "Cuando es la fecha limite para el retiro total?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 34,
-                "span_end": 46
-            }
-        ],
-        "text_label_entities": "Cuando es la fecha limite para el <retiro total>[procedimiento]?"
-    },
-    {
-        "text": "Hasta cuando se puede presentar los documentos para el retiro total?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 55,
-                "span_end": 67
-            }
-        ],
-        "text_label_entities": "Hasta cuando se puede presentar los documentos para el <retiro total>[procedimiento]?"
-    },
-    {
-        "text": "Buen d\u00eda, \u00bfHasta cu\u00e1ndo puedo hacer retiro total?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 36,
-                "span_end": 48
-            }
-        ],
-        "text_label_entities": "Buen d\u00eda, \u00bfHasta cu\u00e1ndo puedo hacer <retiro total>[procedimiento]?"
-    },
-    {
-        "text": "Hola, hasta cuando puedo hacer el retiro total?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 34,
-                "span_end": 46
-            }
-        ],
-        "text_label_entities": "Hola, hasta cuando puedo hacer el <retiro total>[procedimiento]?"
-    },
-    {
-        "text": "BUenas tardes, una consulta hasta cuando puedo hacer el retiro total",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 56,
-                "span_end": 68
-            }
-        ],
-        "text_label_entities": "BUenas tardes, una consulta hasta cuando puedo hacer el <retiro total>[procedimiento]"
-    },
-    {
-        "text": "Hola disculpa una consulta hasta que dias puedo realizar el retiro total",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 60,
-                "span_end": 72
-            }
-        ],
-        "text_label_entities": "Hola disculpa una consulta hasta que dias puedo realizar el <retiro total>[procedimiento]"
-    },
-    {
-        "text": "Hola una consulta en que semana se activa el retiro total",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 45,
-                "span_end": 57
-            }
-        ],
-        "text_label_entities": "Hola una consulta en que semana se activa el <retiro total>[procedimiento]"
-    },
-    {
-        "text": "cuando puedo hacer un retiro total",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 22,
-                "span_end": 34
-            }
-        ],
-        "text_label_entities": "cuando puedo hacer un <retiro total>[procedimiento]"
-    },
-    {
-        "text": "que dias puedo hacer el retiro total",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 24,
-                "span_end": 36
-            }
-        ],
-        "text_label_entities": "que dias puedo hacer el <retiro total>[procedimiento]"
-    },
-    {
-        "text": "en que semana puedo hacer el retiro total",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 29,
-                "span_end": 41
-            }
-        ],
-        "text_label_entities": "en que semana puedo hacer el <retiro total>[procedimiento]"
-    },
-    {
-        "text": "cuando puedo presentar mis documentos para el retiro total",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 46,
-                "span_end": 58
-            }
-        ],
-        "text_label_entities": "cuando puedo presentar mis documentos para el <retiro total>[procedimiento]"
-    },
-    {
-        "text": "En que semana se habilita el retiro total?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 29,
-                "span_end": 41
-            }
-        ],
-        "text_label_entities": "En que semana se habilita el <retiro total>[procedimiento]?"
-    },
-    {
-        "text": "el retiro total se habilita recien la semana 5?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 3,
-                "span_end": 15
-            }
-        ],
-        "text_label_entities": "el <retiro total>[procedimiento] se habilita recien la semana 5?"
-    },
-    {
-        "text": "puedo solicitar el retiro total hasta la ultima semana de clases?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 19,
-                "span_end": 31
-            }
-        ],
-        "text_label_entities": "puedo solicitar el <retiro total>[procedimiento] hasta la ultima semana de clases?"
-    },
-    {
-        "text": "estoy en la segunda semana de clases pero por motivos quiero hacer el retiro parcial puedo solicitarlo?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro parcial",
-                "entity": "procedimiento",
-                "span_start": 70,
-                "span_end": 84
-            }
-        ],
-        "text_label_entities": "estoy en la segunda semana de clases pero por motivos quiero hacer el <retiro parcial>[procedimiento] puedo solicitarlo?"
-    },
-    {
-        "text": "cual es la fecha limite para solicitar un retiro total?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 42,
-                "span_end": 54
-            }
-        ],
-        "text_label_entities": "cual es la fecha limite para solicitar un <retiro total>[procedimiento]?"
-    },
-    {
-        "text": "me dijeron que puedo solicitar el retiro total hasta la ultima semana de clases es cierto?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 34,
-                "span_end": 46
-            }
-        ],
-        "text_label_entities": "me dijeron que puedo solicitar el <retiro total>[procedimiento] hasta la ultima semana de clases es cierto?"
-    },
-    {
-        "text": "todavia puedo solicitar el retiro total ya es la ultima semana de clases?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 27,
-                "span_end": 39
-            }
-        ],
-        "text_label_entities": "todavia puedo solicitar el <retiro total>[procedimiento] ya es la ultima semana de clases?"
-    },
-    {
-        "text": "es la segunda semana pero por motivos de fuerza mayor quisiera solicitar el retiro total, puedo presentar la solictud este semana?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 76,
-                "span_end": 88
-            }
-        ],
-        "text_label_entities": "es la segunda semana pero por motivos de fuerza mayor quisiera solicitar el <retiro total>[procedimiento], puedo presentar la solictud este semana?"
-    },
-    {
-        "text": "quisiera retirarme de todos los cursos pero en el sistema no me aparece, me puede decir cuando se habilitar\u00e1?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [],
-        "text_label_entities": "quisiera retirarme de todos los cursos pero en el sistema no me aparece, me puede decir cuando se habilitar\u00e1?"
-    },
-    {
-        "text": "cuando se habilitar\u00e1 para enviar el retiro total en orce?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 36,
-                "span_end": 48
-            }
-        ],
-        "text_label_entities": "cuando se habilitar\u00e1 para enviar el <retiro total>[procedimiento] en orce?"
-    },
-    {
-        "text": "desde cuando podria enviar mi solicitud de retiro total?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 43,
-                "span_end": 55
-            }
-        ],
-        "text_label_entities": "desde cuando podria enviar mi solicitud de <retiro total>[procedimiento]?"
-    },
-    {
-        "text": "todavia podria realizar el retiro total si es la ultima semana?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 27,
-                "span_end": 39
-            }
-        ],
-        "text_label_entities": "todavia podria realizar el <retiro total>[procedimiento] si es la ultima semana?"
-    },
-    {
-        "text": "hasta que dia podria realizar el retiro total?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 33,
-                "span_end": 45
-            }
-        ],
-        "text_label_entities": "hasta que dia podria realizar el <retiro total>[procedimiento]?"
-    },
-    {
-        "text": "hasta cuando podria enviar mi solicitud retiro total?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 40,
-                "span_end": 52
-            }
-        ],
-        "text_label_entities": "hasta cuando podria enviar mi solicitud <retiro total>[procedimiento]?"
-    },
-    {
-        "text": "que dia es el ultimo para solicitar el reitiro total?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [],
-        "text_label_entities": "que dia es el ultimo para solicitar el reitiro total?"
-    },
-    {
-        "text": "en que dia puedo realizar el retiro total?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 29,
-                "span_end": 41
-            }
-        ],
-        "text_label_entities": "en que dia puedo realizar el <retiro total>[procedimiento]?"
-    },
-    {
-        "text": "cual es la fecha limite que puedo enviar mi solicitud de retiro total?",
-        "intent_name": "retiro_total__fechas",
-        "entities": [
-            {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 57,
-                "span_end": 69
-            }
-        ],
-        "text_label_entities": "cual es la fecha limite que puedo enviar mi solicitud de <retiro total>[procedimiento]?"
     },
     {
         "text": "\u00bfEs necesario justificar con documentos el motivo de retiro total?",
@@ -10632,291 +11443,6 @@
         "text_label_entities": "quiero pedir la reseva de matrcula como hago?"
     },
     {
-        "text": "\u00bfHasta cu\u00e1ndo tengo tiempo para presentar mi solicitud de reserva de matricula?",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 58,
-                "span_end": 78
-            }
-        ],
-        "text_label_entities": "\u00bfHasta cu\u00e1ndo tengo tiempo para presentar mi solicitud de <reserva de matricula>[procedimiento]?"
-    },
-    {
-        "text": "aun puedo enviar la solicitud de reserva de matricula ?",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 33,
-                "span_end": 53
-            }
-        ],
-        "text_label_entities": "aun puedo enviar la solicitud de <reserva de matricula>[procedimiento] ?"
-    },
-    {
-        "text": "hasta cuando puedo enviar la solicitud para reserva de matricula ?",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 44,
-                "span_end": 64
-            }
-        ],
-        "text_label_entities": "hasta cuando puedo enviar la solicitud para <reserva de matricula>[procedimiento] ?"
-    },
-    {
-        "text": "tambi\u00e9n quisiera saber hasta cuando puedo enviar la solicitud de reserva de matricula",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 65,
-                "span_end": 85
-            }
-        ],
-        "text_label_entities": "tambi\u00e9n quisiera saber hasta cuando puedo enviar la solicitud de <reserva de matricula>[procedimiento]"
-    },
-    {
-        "text": "hasta cuando puedo subir las solicitud la reserva de matricula en el sistema de internet ?",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 42,
-                "span_end": 62
-            }
-        ],
-        "text_label_entities": "hasta cuando puedo subir las solicitud la <reserva de matricula>[procedimiento] en el sistema de internet ?"
-    },
-    {
-        "text": "hasta cuando puedo tramitar la reserva de matricula ?",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 31,
-                "span_end": 51
-            }
-        ],
-        "text_label_entities": "hasta cuando puedo tramitar la <reserva de matricula>[procedimiento] ?"
-    },
-    {
-        "text": "hasta que dias podria enviar la solicitud de reserva de matricula entonces",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 45,
-                "span_end": 65
-            }
-        ],
-        "text_label_entities": "hasta que dias podria enviar la solicitud de <reserva de matricula>[procedimiento] entonces"
-    },
-    {
-        "text": "quiero hacer la reserva de matricula, hasta que dia puedo enviar la solicitud ?",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 16,
-                "span_end": 36
-            }
-        ],
-        "text_label_entities": "quiero hacer la <reserva de matricula>[procedimiento], hasta que dia puedo enviar la solicitud ?"
-    },
-    {
-        "text": "\u00bfHasta que dias puedo enviar la solicitud de reserva de matricula ?",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 45,
-                "span_end": 65
-            }
-        ],
-        "text_label_entities": "\u00bfHasta que dias puedo enviar la solicitud de <reserva de matricula>[procedimiento] ?"
-    },
-    {
-        "text": "la reserva de matricula tiene que enviarse antes de la matricula ?",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 3,
-                "span_end": 23
-            }
-        ],
-        "text_label_entities": "la <reserva de matricula>[procedimiento] tiene que enviarse antes de la matricula ?"
-    },
-    {
-        "text": "Y hasta cuando podria enviar la solicitud de reserva de matricula ?",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 45,
-                "span_end": 65
-            }
-        ],
-        "text_label_entities": "Y hasta cuando podria enviar la solicitud de <reserva de matricula>[procedimiento] ?"
-    },
-    {
-        "text": "si donde puedo encontrar las fechas para hacer la reserva de matricula",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 50,
-                "span_end": 70
-            }
-        ],
-        "text_label_entities": "si donde puedo encontrar las fechas para hacer la <reserva de matricula>[procedimiento]"
-    },
-    {
-        "text": "hasta que fecha puedo subir la solicitud de reserva de matricula ?",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 44,
-                "span_end": 64
-            }
-        ],
-        "text_label_entities": "hasta que fecha puedo subir la solicitud de <reserva de matricula>[procedimiento] ?"
-    },
-    {
-        "text": "cual es la fecha para enviar la solicitud de reserva de matricula",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 45,
-                "span_end": 65
-            }
-        ],
-        "text_label_entities": "cual es la fecha para enviar la solicitud de <reserva de matricula>[procedimiento]"
-    },
-    {
-        "text": "este ciclo que esta por comenzar no me voy a matricular, me puedes decir cual es la fecha limite para enviar mi solicitud",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [],
-        "text_label_entities": "este ciclo que esta por comenzar no me voy a matricular, me puedes decir cual es la fecha limite para enviar mi solicitud"
-    },
-    {
-        "text": "la matricula ya va ser la siguiente semana pero no podre matricularme, aun puedo enviar mi solicitud de reserva de matricula",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 104,
-                "span_end": 124
-            }
-        ],
-        "text_label_entities": "la matricula ya va ser la siguiente semana pero no podre matricularme, aun puedo enviar mi solicitud de <reserva de matricula>[procedimiento]"
-    },
-    {
-        "text": "la matricula es ma\u00f1ana pero por motivos de fuerza he decido no matricularme, entiendo que debo reservar la matricula todavia  podria hacerlo?",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [],
-        "text_label_entities": "la matricula es ma\u00f1ana pero por motivos de fuerza he decido no matricularme, entiendo que debo reservar la matricula todavia  podria hacerlo?"
-    },
-    {
-        "text": "todavia puedo enviar mi reserva de matricula?",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 24,
-                "span_end": 44
-            }
-        ],
-        "text_label_entities": "todavia puedo enviar mi <reserva de matricula>[procedimiento]?"
-    },
-    {
-        "text": "esta semana todavia puedo solicitar mi reserva de matricula?",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 39,
-                "span_end": 59
-            }
-        ],
-        "text_label_entities": "esta semana todavia puedo solicitar mi <reserva de matricula>[procedimiento]?"
-    },
-    {
-        "text": "en que fecha puedo pedir mi reserva de matricula?",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 28,
-                "span_end": 48
-            }
-        ],
-        "text_label_entities": "en que fecha puedo pedir mi <reserva de matricula>[procedimiento]?"
-    },
-    {
-        "text": "podria solicitar este semana mi reserva de matricula?",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 32,
-                "span_end": 52
-            }
-        ],
-        "text_label_entities": "podria solicitar este semana mi <reserva de matricula>[procedimiento]?"
-    },
-    {
-        "text": "hasta que semana puedo solicitar mi reserva de matricula?",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 36,
-                "span_end": 56
-            }
-        ],
-        "text_label_entities": "hasta que semana puedo solicitar mi <reserva de matricula>[procedimiento]?"
-    },
-    {
-        "text": "puedo presentar mi solicitud de reserva de matricula si el ciclo empieza la proxima semana?",
-        "intent_name": "reserva_matricula__fechas",
-        "entities": [
-            {
-                "value": "reserva de matricula",
-                "entity": "procedimiento",
-                "span_start": 32,
-                "span_end": 52
-            }
-        ],
-        "text_label_entities": "puedo presentar mi solicitud de <reserva de matricula>[procedimiento] si el ciclo empieza la proxima semana?"
-    },
-    {
         "text": "\u00bfCu\u00e1l es el procedimiento para solicitar reincorporaci\u00f3n?",
         "intent_name": "reincorporacion__procedimiento",
         "entities": [
@@ -11287,397 +11813,6 @@
         "intent_name": "reincorporacion__procedimiento",
         "entities": [],
         "text_label_entities": "por trabajo tuve que dejar mis estudios, pero quiero volver a matricularme este ciclo como puedo hacerlo?"
-    },
-    {
-        "text": "Otra consulta, \u00bfHasta cu\u00e1ndo tengo tiempo para presentar mi solicitud de reincoporacion?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [],
-        "text_label_entities": "Otra consulta, \u00bfHasta cu\u00e1ndo tengo tiempo para presentar mi solicitud de reincoporacion?"
-    },
-    {
-        "text": "una consulta, es que fechas deberia solicitar mi reincorparacion",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [],
-        "text_label_entities": "una consulta, es que fechas deberia solicitar mi reincorparacion"
-    },
-    {
-        "text": "hasta cuando podria solicitar mi reincoporarcion",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [],
-        "text_label_entities": "hasta cuando podria solicitar mi reincoporarcion"
-    },
-    {
-        "text": "tengo una duda quiero reincorpararme el siguiente ciclo pero no se en que fechas debo comenzar el tramite",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [],
-        "text_label_entities": "tengo una duda quiero reincorpararme el siguiente ciclo pero no se en que fechas debo comenzar el tramite"
-    },
-    {
-        "text": "tengo una consulta desde que fecha ya puedo iniciar el tramite para mi reicorporacion en el siguiente ciclo",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [],
-        "text_label_entities": "tengo una consulta desde que fecha ya puedo iniciar el tramite para mi reicorporacion en el siguiente ciclo"
-    },
-    {
-        "text": "cuando puedo enviar mi solicitud para mi reincorporacion",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 41,
-                "span_end": 56
-            }
-        ],
-        "text_label_entities": "cuando puedo enviar mi solicitud para mi <reincorporacion>[procedimiento]"
-    },
-    {
-        "text": "cuando enviar mi solicitud para mi reincorporacion para el siguiente ciclo",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 35,
-                "span_end": 50
-            }
-        ],
-        "text_label_entities": "cuando enviar mi solicitud para mi <reincorporacion>[procedimiento] para el siguiente ciclo"
-    },
-    {
-        "text": "cuando debo enviar mi solictud para mi reincorporacion para el siguiente periodo academico",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 39,
-                "span_end": 54
-            }
-        ],
-        "text_label_entities": "cuando debo enviar mi solictud para mi <reincorporacion>[procedimiento] para el siguiente periodo academico"
-    },
-    {
-        "text": "hasta que dias puedo enviar mi solicitud de reincorporacion",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 44,
-                "span_end": 59
-            }
-        ],
-        "text_label_entities": "hasta que dias puedo enviar mi solicitud de <reincorporacion>[procedimiento]"
-    },
-    {
-        "text": "cual es la fecha limite para enviar mi solicitud de reincorporacion",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 52,
-                "span_end": 67
-            }
-        ],
-        "text_label_entities": "cual es la fecha limite para enviar mi solicitud de <reincorporacion>[procedimiento]"
-    },
-    {
-        "text": "\u00bfHasta cuando enviar mi solicitud de reincorporacion?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 37,
-                "span_end": 52
-            }
-        ],
-        "text_label_entities": "\u00bfHasta cuando enviar mi solicitud de <reincorporacion>[procedimiento]?"
-    },
-    {
-        "text": "hasta cuando es posible reincoparme?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [],
-        "text_label_entities": "hasta cuando es posible reincoparme?"
-    },
-    {
-        "text": "cuando puedo solicitar la reincorporacion para el siguiente ciclo?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 26,
-                "span_end": 41
-            }
-        ],
-        "text_label_entities": "cuando puedo solicitar la <reincorporacion>[procedimiento] para el siguiente ciclo?"
-    },
-    {
-        "text": "Si ya pasaron las fechas de reincorporacion, \u00bfPuedo enviar mi solicitud de reincorporacion?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 28,
-                "span_end": 43
-            },
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 75,
-                "span_end": 90
-            }
-        ],
-        "text_label_entities": "Si ya pasaron las fechas de <reincorporacion>[procedimiento], \u00bfPuedo enviar mi solicitud de <reincorporacion>[procedimiento]?"
-    },
-    {
-        "text": "Si ya pas\u00f3 la fecha de la reincorporaci\u00f3n, pasar\u00eda a rezagado",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporaci\u00f3n",
-                "entity": "procedimiento",
-                "span_start": 26,
-                "span_end": 41
-            }
-        ],
-        "text_label_entities": "Si ya pas\u00f3 la fecha de la <reincorporaci\u00f3n>[procedimiento], pasar\u00eda a rezagado"
-    },
-    {
-        "text": "si ya se me paso la fecha para reincorporacion pasaria a matricula rezagada?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 31,
-                "span_end": 46
-            }
-        ],
-        "text_label_entities": "si ya se me paso la fecha para <reincorporacion>[procedimiento] pasaria a matricula rezagada?"
-    },
-    {
-        "text": "entonces que pasa si me paso de la fecha limite para la reincorporacion",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 56,
-                "span_end": 71
-            }
-        ],
-        "text_label_entities": "entonces que pasa si me paso de la fecha limite para la <reincorporacion>[procedimiento]"
-    },
-    {
-        "text": "una consulta si se me paso la fecha de reincorporacion que debo hacer",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 39,
-                "span_end": 54
-            }
-        ],
-        "text_label_entities": "una consulta si se me paso la fecha de <reincorporacion>[procedimiento] que debo hacer"
-    },
-    {
-        "text": "disculpa un consulta se me ha pasado la fecha de reincorporacion pero quiero matricuarme este ciclo que debo hacer",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 49,
-                "span_end": 64
-            }
-        ],
-        "text_label_entities": "disculpa un consulta se me ha pasado la fecha de <reincorporacion>[procedimiento] pero quiero matricuarme este ciclo que debo hacer"
-    },
-    {
-        "text": "disculpe no vi bien la fechas de reincorporacion y ya se pasaraon podria aun reincorporarme?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 33,
-                "span_end": 48
-            }
-        ],
-        "text_label_entities": "disculpe no vi bien la fechas de <reincorporacion>[procedimiento] y ya se pasaraon podria aun reincorporarme?"
-    },
-    {
-        "text": "una duda las fechas de reincorporacion ya pasaron podria aun reincorporarme aunque sea como rezagado ?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 23,
-                "span_end": 38
-            }
-        ],
-        "text_label_entities": "una duda las fechas de <reincorporacion>[procedimiento] ya pasaron podria aun reincorporarme aunque sea como rezagado ?"
-    },
-    {
-        "text": "segun el calendario academico las fechas de reincorporacion finalizaron ayer podria aun reincorporarme ?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 44,
-                "span_end": 59
-            }
-        ],
-        "text_label_entities": "segun el calendario academico las fechas de <reincorporacion>[procedimiento] finalizaron ayer podria aun reincorporarme ?"
-    },
-    {
-        "text": "veo que segun el calendario academico las fechas de reincorporacion finalizaron hace una semana podria todavia reincorporarme como rezagado ?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 52,
-                "span_end": 67
-            }
-        ],
-        "text_label_entities": "veo que segun el calendario academico las fechas de <reincorporacion>[procedimiento] finalizaron hace una semana podria todavia reincorporarme como rezagado ?"
-    },
-    {
-        "text": "quisiera reincorporarme este ciclo pero las fechas ya finalizaron puedo hacerlo como rezagado ?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [],
-        "text_label_entities": "quisiera reincorporarme este ciclo pero las fechas ya finalizaron puedo hacerlo como rezagado ?"
-    },
-    {
-        "text": "la fecha de reincorporacion ya paso, podria aun enviar mi solicitud de reincorporacion?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 12,
-                "span_end": 27
-            },
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 71,
-                "span_end": 86
-            }
-        ],
-        "text_label_entities": "la fecha de <reincorporacion>[procedimiento] ya paso, podria aun enviar mi solicitud de <reincorporacion>[procedimiento]?"
-    },
-    {
-        "text": "quiero solicitar mi reincorporacion este ciclo. Todavia puedo hacerlo?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 20,
-                "span_end": 35
-            }
-        ],
-        "text_label_entities": "quiero solicitar mi <reincorporacion>[procedimiento] este ciclo. Todavia puedo hacerlo?"
-    },
-    {
-        "text": "cual es la fecha limite para solicitar la reincorporacion para el siguiente ciclo?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 42,
-                "span_end": 57
-            }
-        ],
-        "text_label_entities": "cual es la fecha limite para solicitar la <reincorporacion>[procedimiento] para el siguiente ciclo?"
-    },
-    {
-        "text": "la fechas para solicitar la reincorporacion ya salieron?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 28,
-                "span_end": 43
-            }
-        ],
-        "text_label_entities": "la fechas para solicitar la <reincorporacion>[procedimiento] ya salieron?"
-    },
-    {
-        "text": "en donde puedo ver las fechas para solicitar la reincorporacion?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 48,
-                "span_end": 63
-            }
-        ],
-        "text_label_entities": "en donde puedo ver las fechas para solicitar la <reincorporacion>[procedimiento]?"
-    },
-    {
-        "text": "la siguente semana es la matricula puedo solicitar mi reincorpacion?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [],
-        "text_label_entities": "la siguente semana es la matricula puedo solicitar mi reincorpacion?"
-    },
-    {
-        "text": "aun puedo solicitar mi reincorporacion?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 23,
-                "span_end": 38
-            }
-        ],
-        "text_label_entities": "aun puedo solicitar mi <reincorporacion>[procedimiento]?"
-    },
-    {
-        "text": "en que fecha puedo tramitar mi reincorporacion?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 31,
-                "span_end": 46
-            }
-        ],
-        "text_label_entities": "en que fecha puedo tramitar mi <reincorporacion>[procedimiento]?"
-    },
-    {
-        "text": "ya faltan dos dias para la matricula podria solicitar mi reincorporacion o debo esperar al siguiente ciclo?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [
-            {
-                "value": "reincorporacion",
-                "entity": "procedimiento",
-                "span_start": 57,
-                "span_end": 72
-            }
-        ],
-        "text_label_entities": "ya faltan dos dias para la matricula podria solicitar mi <reincorporacion>[procedimiento] o debo esperar al siguiente ciclo?"
-    },
-    {
-        "text": "quisiera reincorporarme este ciclo pero la matricula es en unos dias, puedo reincorporame o ya no es posible?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": [],
-        "text_label_entities": "quisiera reincorporarme este ciclo pero la matricula es en unos dias, puedo reincorporame o ya no es posible?"
     },
     {
         "text": "Buenas tardes una consulta, \u00bfc\u00f3mo puedo obtener una constancia de matricula?",
@@ -13250,6 +13385,12 @@
         "intent_name": "solicitud_correo_institucional_procedimiento",
         "entities": [],
         "text_label_entities": "todavia no tengo mi correo uni, me dijeron que ya lo han estado dando pero no me registre. Como podria solicitarlo ahora?"
+    },
+    {
+        "text": "quisiera solicitar mi corre uni donde lo puedo hacer?",
+        "intent_name": "solicitud_correo_institucional_procedimiento",
+        "entities": [],
+        "text_label_entities": "quisiera solicitar mi corre uni donde lo puedo hacer?"
     },
     {
         "text": "\u00bfEs posible retirarme de un curso que haya repetido?",
