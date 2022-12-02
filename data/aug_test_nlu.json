@@ -2378,5 +2378,1655 @@
         "text": "como puedo matricular si es mi primer ciclo",
         "intent_name": "matricula_procedimiento",
         "entities": []
+    },
+    {
+        "text": "ope",
+        "intent_name": "denegar_mas_ayuda",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "Por ahora eso es todo, grcaias",
+        "intent_name": "denegar_mas_ayuda",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "no nada ms gracias",
+        "intent_name": "denegar_mas_ayuda",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "no es todo q tenga buen dia",
+        "intent_name": "denegar_mas_ayuda",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "eso fue todo graias",
+        "intent_name": "denegar_mas_ayuda",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "qusiiero tramitarr mi correo UNI",
+        "intent_name": "solicitud_correo_institucional_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "una duda coom puedo obtener mi coreo institucional",
+        "intent_name": "solicitud_correo_institucional_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "a q oficina le soliciot mi correo uni",
+        "intent_name": "solicitud_correo_institucional_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "el correo unni lo pueddo pedir es la oficina de estadistica?",
+        "intent_name": "solicitud_correo_institucional_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "\u00bfC\u00f3mo solisito mi correo uuni?",
+        "intent_name": "solicitud_correo_institucional_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "q procediient debo seguir ahora que mi matricula pszo a rezagado?",
+        "intent_name": "matricula_rezagada__procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "ola, dime para la matriccla rezagada debo pagar ?",
+        "intent_name": "matricula_rezagada__procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "Hola ayudame quiero saber mo es el prosedimiento para el lago de matricula rezagada",
+        "intent_name": "matricula_rezagada__procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "como me matriculo coo rezagado",
+        "intent_name": "matricula_rezagada__procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "como es el prosedimiento para la matricula resagada",
+        "intent_name": "matricula_rezagada__procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "no pague mi auto-seguro a tiempo y ahoe me mandaraon a rezago como priceso",
+        "intent_name": "matricula_rezagada__procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "hasta q dias puedo pagar el auto seguro?",
+        "intent_name": "pago_autoseguro__fechas",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "debo para el autoseguro cuantos idas antes de la matrickla?",
+        "intent_name": "pago_autoseguro__fechas",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "quisira saber hasta cuanndo puedo pagar el autoseguro",
+        "intent_name": "pago_autoseguro__fechas",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "Hola, recien pague autoseguro y me oca mi mattr\u00edcula ma\u00f1ana, ser\u00eda resagado?",
+        "intent_name": "pago_autoseguro__fechas",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "tengo que pagar el auutoseguro antes de los dia de matricula?",
+        "intent_name": "pago_autoseguro__fechas",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "cuando se paga el auto-seguro",
+        "intent_name": "pago_autoseguro__fechas",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "\u00bfuanndo se puede paggar el autoseguro?",
+        "intent_name": "pago_autoseguro__fechas",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "hace 02 d\u00edas pague el auto seguro, soy resagado?",
+        "intent_name": "pago_autoseguro__fechas",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "el posible retirarme de 3 saignatursa dstintas",
+        "intent_name": "retiro_parcial__maximo_cursos",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "pueo retirarme de 2 cirsos?",
+        "intent_name": "retiro_parcial__maximo_cursos",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "estoy llevando 66 cursos pero quiero acer el retiro de dso de ellas",
+        "intent_name": "retiro_parcial__maximo_cursos",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "es psible retirarme de todos los cursos menos 1?",
+        "intent_name": "retiro_parcial__maximo_cursos",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "\u00bfCu\u00e1l es nuheroo m\u00e1ximo de cursos q retirarme?",
+        "intent_name": "retiro_parcial__maximo_cursos",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "si sloo llevo un curso es posible rwtirarme?",
+        "intent_name": "retiro_parcial__unico_curso",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "ppuedo detirrme del curso si solo estoy estoy llevando uno",
+        "intent_name": "retiro_parcial__unico_curso",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "coomoo hago el retiro de un curzo si solk llevo ese",
+        "intent_name": "retiro_parcial__unico_curso",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "estoy \u00f1levanod colo un curso y deseo retirarme puedo hwcer el retiro parcial de ese curso",
+        "intent_name": "retiro_parcial__unico_curso",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 62,
+                "span_end": 76
+            }
+        ]
+    },
+    {
+        "text": "la unica asignatura q estoy llevando el la de administracion de redes y quiero retirarme por qke no creo pofer eguir asistiendo",
+        "intent_name": "retiro_parcial__unico_curso",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "se pso el horaro de mi matriclha y no pudo matricula, paso a resagado? como realizo la magricual es este caso?",
+        "intent_name": "perdida_turno_matricula",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "Buenas tardes, hoy me tooc matricularme pero no me pude conectar q puedo acer",
+        "intent_name": "perdida_turno_matricula",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "no pude matricularme a tiempo y ya pas la mxtricula q hago",
+        "intent_name": "perdida_turno_matricula",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "el sistema no me dja matricularme y ya paso mi tueno que debo acer",
+        "intent_name": "perdida_turno_matricula",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "hola, se oaso mi horario y no pkde matricularme wue podria hacer ahora?",
+        "intent_name": "perdida_turno_matricula",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "Buenas tardes, no me perrcate bien y perdi mi turno de matricula q debo acer",
+        "intent_name": "perdida_turno_matricula",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "hasta cuando es osibble reincoparme?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "dsciulpe no vi bien la fechas de reincorporasion y ya se pasaraon podria aun reijcorporarme?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporasion",
+                "entity": "procedimiento",
+                "span_start": 33,
+                "span_end": 48
+            }
+        ]
+    },
+    {
+        "text": "ya faltan dos dias para la matricula podria solisitar mi re incorporacion o deebo esperar al siguiente siclo?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "re incorporacion",
+                "entity": "procedimiento",
+                "span_start": 57,
+                "span_end": 73
+            }
+        ]
+    },
+    {
+        "text": "cuando puedk solicitar la reincorporacion para el siguiente siclo?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 26,
+                "span_end": 41
+            }
+        ]
+    },
+    {
+        "text": "\u00bfHasta cuando enviar mi solisitud de re incorporacion?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": [
+            {
+                "value": "re incorporacion",
+                "entity": "procedimiento",
+                "span_start": 37,
+                "span_end": 53
+            }
+        ]
+    },
+    {
+        "text": "cuanto debo pagad por la constansia de matricula?",
+        "intent_name": "costo_tramite_procedimiento",
+        "entities": [
+            {
+                "value": "constansia de matricula",
+                "entity": "constancia",
+                "span_start": 25,
+                "span_end": 48
+            }
+        ]
+    },
+    {
+        "text": "es gratsi el tramite de la constansia de matricula?",
+        "intent_name": "costo_tramite_procedimiento",
+        "entities": [
+            {
+                "value": "constansia de matricula",
+                "entity": "constancia",
+                "span_start": 27,
+                "span_end": 50
+            }
+        ]
+    },
+    {
+        "text": "el tramiitte tiene costo o es gratis?",
+        "intent_name": "costo_tramite_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "el tramte de reimcoporacion se debe pagar o es gratuito?",
+        "intent_name": "costo_tramite_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "cuant debo paagar por la reincoporacion?",
+        "intent_name": "costo_tramite_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "el tramite es graris?",
+        "intent_name": "costo_tramite_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "\u00bfcanto es el costo por el tramite?",
+        "intent_name": "costo_tramite_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "debo realizar algun pago por la constansia de atricula?",
+        "intent_name": "costo_tramite_procedimiento",
+        "entities": [
+            {
+                "value": "constansia de atricula",
+                "entity": "constancia",
+                "span_start": 32,
+                "span_end": 54
+            }
+        ]
+    },
+    {
+        "text": "me podria decir su por el tramite de re incorporacion debo pagaar algo?",
+        "intent_name": "costo_tramite_procedimiento",
+        "entities": [
+            {
+                "value": "re incorporacion",
+                "entity": "procedimiento",
+                "span_start": 37,
+                "span_end": 53
+            }
+        ]
+    },
+    {
+        "text": "me comentaron que la constansia de matricula tiene un costto, cuanto es?",
+        "intent_name": "costo_tramite_procedimiento",
+        "entities": [
+            {
+                "value": "constansia de matricula",
+                "entity": "constancia",
+                "span_start": 21,
+                "span_end": 44
+            }
+        ]
+    },
+    {
+        "text": "tiene lagun costo?",
+        "intent_name": "costo_tramite_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "\u00bfs\u00f3mo puedo obtener mi carnet univercitario?",
+        "intent_name": "carnet_universitario__solicitud",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "el carnet universitari es gratis?",
+        "intent_name": "carnet_universitario__solicitud",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "a quien le solisito mi carnet unviesitario",
+        "intent_name": "carnet_universitario__solicitud",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "para saar el carnet universitario ddebo pagar algo?",
+        "intent_name": "carnet_universitario__solicitud",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "como tramito mi carnte univercitario",
+        "intent_name": "carnet_universitario__solicitud",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "puedo pgaar el auto seguro en el bcp?",
+        "intent_name": "pago_autoseguro_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "dime que hcaer para panar el autoseguro",
+        "intent_name": "pago_autoseguro_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "en donde puuedo pagar el auto-seguro?",
+        "intent_name": "pago_autoseguro_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "puedes decirme que gacer para pagar el autoseguro, creo que ha cambiado el metood",
+        "intent_name": "pago_autoseguro_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "el pago de auto seguro se hace en el banco BCP o comoo",
+        "intent_name": "pago_autoseguro_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "ok, beunas noches",
+        "intent_name": "despedida",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "ok, daios",
+        "intent_name": "despedida",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "quee tengas burn dia hasta luego",
+        "intent_name": "despedida",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "chau nos veoms",
+        "intent_name": "despedida",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "hasta luego q tengas buen di",
+        "intent_name": "despedida",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "Estoy marriculado en 3 cursos y quiero ssalirme de uno",
+        "intent_name": "retiro_parcial__procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "\u00bfcc\u00f3mo se tramjta el retiro parcial?",
+        "intent_name": "retiro_parcial__procedimiento",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 21,
+                "span_end": 35
+            }
+        ]
+    },
+    {
+        "text": "Hola, povr\u00eda INDICARME le PROCEDIMIENTO, PARA realiazr EL RETIRO pafcial PARA EL PRESENTE cilo?",
+        "intent_name": "retiro_parcial__procedimiento",
+        "entities": [
+            {
+                "value": "RETIRO pafcial",
+                "entity": "procedimiento",
+                "span_start": 58,
+                "span_end": 72
+            }
+        ]
+    },
+    {
+        "text": "quiciera retirarme del cjro de alculo diferencial, como puedo hacerlo?",
+        "intent_name": "retiro_parcial__procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "Buenos dias, \u00bfQu\u00e9 pasoc debo sevuir para el rtiro parcial?",
+        "intent_name": "retiro_parcial__procedimiento",
+        "entities": [
+            {
+                "value": "rtiro parcial",
+                "entity": "procedimiento",
+                "span_start": 44,
+                "span_end": 57
+            }
+        ]
+    },
+    {
+        "text": "cual es el prosedimiento para realisar un retiro de un curso?",
+        "intent_name": "retiro_parcial__procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "Hola, queiro retirar\u00bfe de unos cursos y quiero saber las fecahs",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "quieor retirarrme algunas asignaturas y quiero saber las fechas",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "ya se paso la fcah de retiro parcial, pued solisitar el retiro de alguna forma?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 22,
+                "span_end": 36
+            }
+        ]
+    },
+    {
+        "text": "hast que fecha podria acer el retiro parcial?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 30,
+                "span_end": 44
+            }
+        ]
+    },
+    {
+        "text": "Hasta cuando puedoo hacer el retiro parcial?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 29,
+                "span_end": 43
+            }
+        ]
+    },
+    {
+        "text": "queria retirarme pero el retiro ya no esta habilitado en el sistemz, q puedo acer?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "cuando se dicta el cursso de Fisica k?",
+        "intent_name": "cursos_horarios",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "ya saliieron los horarios de los cursos?",
+        "intent_name": "cursos_horarios",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "cuando salen los hofarios de los cursls?",
+        "intent_name": "cursos_horarios",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "aerit forvaor dime si ya eestan los horaios de los cursos",
+        "intent_name": "cursos_horarios",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "cuando swlen los horarios de los cursso",
+        "intent_name": "cursos_horarios",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "Hola, quierro hacee un cambio de seccion",
+        "intent_name": "cambio_seccion",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "quiero cabiarme de seccion el curso de quimica general se me hcae imposible venir a esa hor",
+        "intent_name": "cambio_seccion",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "como hago el cambio de seccon del cursso de Fundamentos de programasion",
+        "intent_name": "cambio_seccion",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "Buenas tardes amigo puedes decire ccomo acer un cambio de seccion",
+        "intent_name": "cambio_seccion",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "donde vsoo mi horario de maricula",
+        "intent_name": "matricula__horarios",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "ya estan disponibles los hodarios para la matriculla?",
+        "intent_name": "matricula__horarios",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "Buenos d\u00edas, quiciera informaci\u00f3n sobre los horarios de matricula",
+        "intent_name": "matricula__horarios",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "como evo cual es mi turno para la mmatricula?",
+        "intent_name": "matricula__horarios",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "una consulta como puedo aasber a q hira me toca mi matricula?",
+        "intent_name": "matricula__horarios",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "Podria saber los horarios de atension de la oficina de estadisitca?",
+        "intent_name": "horario_atencion_aera",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "cuales es el horario de atension de la oficina de estadistica ?",
+        "intent_name": "horario_atencion_aera",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "a paftir de q hora estan atendiento en la oficina de esatdistica?",
+        "intent_name": "horario_atencion_aera",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "desde que hira esta abierto la oficina de estadistixa?",
+        "intent_name": "horario_atencion_aera",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "la ooficina de estadistica a tiende los sabados?",
+        "intent_name": "horario_atencion_aera",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "buensa tardes, una consulta hasta cuando puedo acer el rstiro total",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "rstiro total",
+                "entity": "procedimiento",
+                "span_start": 55,
+                "span_end": 67
+            }
+        ]
+    },
+    {
+        "text": "cual es la fecha imite para solicitar un retiro toral?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro toral",
+                "entity": "procedimiento",
+                "span_start": 41,
+                "span_end": 53
+            }
+        ]
+    },
+    {
+        "text": "hasta q dia podria realisar el retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 31,
+                "span_end": 43
+            }
+        ]
+    },
+    {
+        "text": "\u00bfQu\u00e9 x\u00edas se hace el tramite del retiro total?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 33,
+                "span_end": 45
+            }
+        ]
+    },
+    {
+        "text": "estoy en la seguna semana de clases pero por motivos quiero hacer el reetiro parcial puedo ssopicitarlo?",
+        "intent_name": "retiro_total__fechas",
+        "entities": [
+            {
+                "value": "reetiro parcial",
+                "entity": "procedimiento",
+                "span_start": 69,
+                "span_end": 84
+            }
+        ]
+    },
+    {
+        "text": "si algo ma",
+        "intent_name": "confirmar_requerir_mas_ayuda",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "si me puees decir",
+        "intent_name": "confirmar_requerir_mas_ayuda",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "si hay algo jas con lo qje puedes ayudar",
+        "intent_name": "confirmar_requerir_mas_ayuda",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "otra onsulta",
+        "intent_name": "confirmar_requerir_mas_ayuda",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "hay algun formato para la solicitud de recerva de matriculs ?",
+        "intent_name": "formato_solicitud",
+        "entities": [
+            {
+                "value": "recerva de matriculs",
+                "entity": "procedimiento",
+                "span_start": 39,
+                "span_end": 59
+            }
+        ]
+    },
+    {
+        "text": "xiste algun modelo para la solisitud de reserva de matricula ?",
+        "intent_name": "formato_solicitud",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 40,
+                "span_end": 60
+            }
+        ]
+    },
+    {
+        "text": "que datos debo cloocar en la slicitud",
+        "intent_name": "formato_solicitud",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "q informasion debo colocar en la solicitud para un constancia de dstudios?",
+        "intent_name": "formato_solicitud",
+        "entities": [
+            {
+                "value": "constancia de dstudios",
+                "entity": "constancia",
+                "span_start": 51,
+                "span_end": 73
+            }
+        ]
+    },
+    {
+        "text": "la solisitud de constancia de notas debe seer dirijida al decano?",
+        "intent_name": "formato_solicitud",
+        "entities": [
+            {
+                "value": "constancia de notas",
+                "entity": "constancia",
+                "span_start": 16,
+                "span_end": 35
+            }
+        ]
+    },
+    {
+        "text": "no quiero saber cual es el formato para las solisitud de re incorporacion",
+        "intent_name": "formato_solicitud",
+        "entities": [
+            {
+                "value": "re incorporacion",
+                "entity": "procedimiento",
+                "span_start": 57,
+                "span_end": 73
+            }
+        ]
+    },
+    {
+        "text": "hay aalfun formato especial para el retro total?",
+        "intent_name": "formato_solicitud",
+        "entities": [
+            {
+                "value": "retro total",
+                "entity": "procedimiento",
+                "span_start": 36,
+                "span_end": 47
+            }
+        ]
+    },
+    {
+        "text": "porfavor quidro qu me envies el modelo para la solicitud",
+        "intent_name": "formato_solicitud",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "existe algun modrlo para la solicitud de cnsttancia de notas",
+        "intent_name": "formato_solicitud",
+        "entities": [
+            {
+                "value": "cnsttancia de notas",
+                "entity": "constancia",
+                "span_start": 41,
+                "span_end": 60
+            }
+        ]
+    },
+    {
+        "text": "me puedees facilitar un model para la solicitud de constacia de estudios",
+        "intent_name": "formato_solicitud",
+        "entities": [
+            {
+                "value": "constacia de estudios",
+                "entity": "constancia",
+                "span_start": 51,
+                "span_end": 72
+            }
+        ]
+    },
+    {
+        "text": "que informasion es vktal colocar en una solicitud para la erserva de matricula?",
+        "intent_name": "formato_solicitud",
+        "entities": [
+            {
+                "value": "erserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 58,
+                "span_end": 78
+            }
+        ]
+    },
+    {
+        "text": "una consulta, hay alvun modelo para la soliccitud de constancia de matricula",
+        "intent_name": "formato_solicitud",
+        "entities": [
+            {
+                "value": "constancia de matricula",
+                "entity": "constancia",
+                "span_start": 53,
+                "span_end": 76
+            }
+        ]
+    },
+    {
+        "text": "este siclo voy a acer el retiro total por motivos de fuerza mayor, quiciera el modelo para la solisitud",
+        "intent_name": "formato_solicitud",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 25,
+                "span_end": 37
+            }
+        ]
+    },
+    {
+        "text": "q informacion no denerai de olvidar colocar en la solicitud de una cnstancia de notas?",
+        "intent_name": "formato_solicitud",
+        "entities": [
+            {
+                "value": "cnstancia de notas",
+                "entity": "constancia",
+                "span_start": 67,
+                "span_end": 85
+            }
+        ]
+    },
+    {
+        "text": "la solisitud que debo nviar para la constancia de estudios debe estar dirijida al decano?",
+        "intent_name": "formato_solicitud",
+        "entities": [
+            {
+                "value": "constancia de estudios",
+                "entity": "constancia",
+                "span_start": 36,
+                "span_end": 58
+            }
+        ]
+    },
+    {
+        "text": "donde rncuentro un modelo para la solicitud de re incorporacion?",
+        "intent_name": "formato_solicitud",
+        "entities": [
+            {
+                "value": "re incorporacion",
+                "entity": "procedimiento",
+                "span_start": 47,
+                "span_end": 63
+            }
+        ]
+    },
+    {
+        "text": "cojo debo redactar la solisitud del retiro total?",
+        "intent_name": "formato_solicitud",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 36,
+                "span_end": 48
+            }
+        ]
+    },
+    {
+        "text": "voy a solisitar el retiro total, cua es el mdoelo para la solicitud",
+        "intent_name": "formato_solicitud",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 19,
+                "span_end": 31
+            }
+        ]
+    },
+    {
+        "text": "quisiera hacer el retiro total y necsito un modello para la solisitud",
+        "intent_name": "formato_solicitud",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 18,
+                "span_end": 30
+            }
+        ]
+    },
+    {
+        "text": "a que oficina le pkedo solisitar un modelo para la solicitud de?",
+        "intent_name": "formato_solicitud",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "dodne puedo encontrar un modelo para la solisitud de constancia de estudiso",
+        "intent_name": "formato_solicitud",
+        "entities": [
+            {
+                "value": "constancia de estudiso",
+                "entity": "constancia",
+                "span_start": 53,
+                "span_end": 75
+            }
+        ]
+    },
+    {
+        "text": "existe alguna modeo para la solisitud",
+        "intent_name": "formato_solicitud",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "q formato debo seguir para redactar la solisitud",
+        "intent_name": "formato_solicitud",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "donde puedo encontrr un modelo para la solicitud de riencorporacion?",
+        "intent_name": "formato_solicitud",
+        "entities": [
+            {
+                "value": "riencorporacion",
+                "entity": "procedimiento",
+                "span_start": 52,
+                "span_end": 67
+            }
+        ]
+    },
+    {
+        "text": "\u00bfHay algun modelo para la soilcitud de constansia de notas?",
+        "intent_name": "formato_solicitud",
+        "entities": [
+            {
+                "value": "constansia de notas",
+                "entity": "constancia",
+                "span_start": 39,
+                "span_end": 58
+            }
+        ]
+    },
+    {
+        "text": "no se que informacion deebo colocar en la solisitud me puedes ayuudar",
+        "intent_name": "formato_solicitud",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "es en esadistica done puedo solicitar una constancia de notas?",
+        "intent_name": "constancia_de_notas__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de notas",
+                "entity": "constancia",
+                "span_start": 42,
+                "span_end": 61
+            }
+        ]
+    },
+    {
+        "text": "deseoo solicitar una constancia de notaz, cual es el procedimiento?",
+        "intent_name": "constancia_de_notas__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de notaz",
+                "entity": "constancia",
+                "span_start": 21,
+                "span_end": 40
+            }
+        ]
+    },
+    {
+        "text": "una cconstancia de notas lo puedo solisitar en la oficina aera?",
+        "intent_name": "constancia_de_notas__procedimiento",
+        "entities": [
+            {
+                "value": "cconstancia de notas",
+                "entity": "constancia",
+                "span_start": 4,
+                "span_end": 24
+            }
+        ]
+    },
+    {
+        "text": "quiciera una constansia de notas para postular una beca, a q oficina se lo puedo pedir?",
+        "intent_name": "constancia_de_notas__procedimiento",
+        "entities": [
+            {
+                "value": "constansia de notas",
+                "entity": "constancia",
+                "span_start": 13,
+                "span_end": 32
+            }
+        ]
+    },
+    {
+        "text": "ola, me podrias mnadar el prosedimiento para tramitar una constacia de estudios",
+        "intent_name": "constancia_de_estudios__procedimiento",
+        "entities": [
+            {
+                "value": "constacia de estudios",
+                "entity": "constancia",
+                "span_start": 58,
+                "span_end": 79
+            }
+        ]
+    },
+    {
+        "text": "estoy postulando a unaas practicas pre profesionales y me pideb onstancua de estudios como puwdo solictarla?",
+        "intent_name": "constancia_de_estudios__procedimiento",
+        "entities": [
+            {
+                "value": "onstancua de estudios",
+                "entity": "constancia",
+                "span_start": 64,
+                "span_end": 85
+            }
+        ]
+    },
+    {
+        "text": "la constansia de estudios la solisito en escuelas acdemicas?",
+        "intent_name": "constancia_de_estudios__procedimiento",
+        "entities": [
+            {
+                "value": "constansia de estudios",
+                "entity": "constancia",
+                "span_start": 3,
+                "span_end": 25
+            }
+        ]
+    },
+    {
+        "text": "quisera solicitar una constansia de estudios porfavor",
+        "intent_name": "constancia_de_estudios__procedimiento",
+        "entities": [
+            {
+                "value": "constansia de estudios",
+                "entity": "constancia",
+                "span_start": 22,
+                "span_end": 44
+            }
+        ]
+    },
+    {
+        "text": "\u00bfcul\u00e1 es el procedimiento para solicitar reincorporacion?",
+        "intent_name": "reincorporacion__procedimiento",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 41,
+                "span_end": 56
+            }
+        ]
+    },
+    {
+        "text": "Buenas tardes,le envio este mensaje porque quieor informaci\u00f3n, el siclo pasado no puce matricularme pero tampoco hice el tramite de recerba de matricula, quiciera saber si a\u00fan puedo realisar el tramite de reincorporasion para matricularme o en todo caso como ppodria recervar mi matricula. Por favor agradecer\u00eda como arreglarr este asunto, gracias.",
+        "intent_name": "reincorporacion__procedimiento",
+        "entities": [
+            {
+                "value": "reincorporasion",
+                "entity": "procedimiento",
+                "span_start": 205,
+                "span_end": 220
+            }
+        ]
+    },
+    {
+        "text": "Buenas tardes, el siclo pasado no pude matricularme asi q reserve mi matricula quiciera saber ahora coom puedo matricularme en el ciiclo q viene",
+        "intent_name": "reincorporacion__procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "una consulta el siclo pasado no esserve mi matricula pero no puede matricularme podroa reincorporame este siclo o ya perdi mi vacante?",
+        "intent_name": "reincorporacion__procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "Buenas tardes Aerito, el siclo pasado no puede maricularme quisiera saber si a\u00fan upedo realisar el tr\u00e1mte de reincorporasion.",
+        "intent_name": "reincorporacion__procedimiento",
+        "entities": [
+            {
+                "value": "reincorporasion",
+                "entity": "procedimiento",
+                "span_start": 109,
+                "span_end": 124
+            }
+        ]
+    },
+    {
+        "text": "debo esperar para inicir el trmaite de reseva de la matricula o ya puedo solicitarlo?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "podria comenzar ya los tramitse para mi recerba de la matricula o a q fecha deberia esperar?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "este siclo que esta por comenzar no me vly a matriculaf, me puedes decir cual es la fecha limiite para enviar mi solicitud",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "puedo iniciar mis tramites para la reserba de la matricula esta semanaa?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "hasta cuando puedo enviar la sllicitu para recerba de matricula ?",
+        "intent_name": "reserva_matricula__fechas",
+        "entities": [
+            {
+                "value": "recerba de matricula",
+                "entity": "procedimiento",
+                "span_start": 43,
+                "span_end": 63
+            }
+        ]
+    },
+    {
+        "text": "Por motivos familiares, requiero acer el retiro total de mi matricula, cual es el prosedimiento",
+        "intent_name": "retiro_total__procedimiento",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 41,
+                "span_end": 53
+            }
+        ]
+    },
+    {
+        "text": "donde solisito mi retiroo de este ciclo?",
+        "intent_name": "retiro_total__procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "este siclo quisiera retirarme por motivos de saldu en donde puedo solisitar mi retiro?",
+        "intent_name": "retiro_total__procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "Hola, eseo saber uq\u00e9 tr\u00e1mite seguir para el retiro toal",
+        "intent_name": "retiro_total__procedimiento",
+        "entities": [
+            {
+                "value": "retiro toal",
+                "entity": "procedimiento",
+                "span_start": 44,
+                "span_end": 55
+            }
+        ]
+    },
+    {
+        "text": "quiero retirarme de este cciclo, en donde lo solisito?",
+        "intent_name": "retiro_total__procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "un accidente es moivo sufiicente para solicitar el retiro total?",
+        "intent_name": "retiro_total__motivos_procede",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 51,
+                "span_end": 63
+            }
+        ]
+    },
+    {
+        "text": "que rasones justificna un retiro total",
+        "intent_name": "retiro_total__motivos_procede",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 26,
+                "span_end": 38
+            }
+        ]
+    },
+    {
+        "text": "podria solisitar el detiro total por trabajo?",
+        "intent_name": "retiro_total__motivos_procede",
+        "entities": [
+            {
+                "value": "detiro total",
+                "entity": "procedimiento",
+                "span_start": 20,
+                "span_end": 32
+            }
+        ]
+    },
+    {
+        "text": "taabjar es un motivo para el retiro totla?",
+        "intent_name": "retiro_total__motivos_procede",
+        "entities": [
+            {
+                "value": "retiro totla",
+                "entity": "procedimiento",
+                "span_start": 29,
+                "span_end": 41
+            }
+        ]
+    },
+    {
+        "text": "tengo un pariente enfermo por lo q quiciera retirame este siclo, esto seria el motivo suficiente para poderr retirarme?",
+        "intent_name": "retiro_total__motivos_procede",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "quiero pedr la reseva de matrcula como ahgo?",
+        "intent_name": "reserva_matricula__procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "puede decirme coomo realizar un reserva de matricula?",
+        "intent_name": "reserva_matricula__procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "como realizo la recerva de amtricula",
+        "intent_name": "reserva_matricula__procedimiento",
+        "entities": [
+            {
+                "value": "recerva de amtricula",
+                "entity": "procedimiento",
+                "span_start": 16,
+                "span_end": 36
+            }
+        ]
+    },
+    {
+        "text": "Buenas noches, quisiera saber coml puedo acer una recerba de matricula y \u00bfHasta cuando tengo plazo para presentar mi solicitud? ya q este ciclo que viene no podd\u00e9 llearlo bien por motivos de trabajo.",
+        "intent_name": "reserva_matricula__procedimiento",
+        "entities": [
+            {
+                "value": "recerba de matricula",
+                "entity": "procedimiento",
+                "span_start": 50,
+                "span_end": 70
+            }
+        ]
+    },
+    {
+        "text": "md podria indicar tmb q debo hacer para realizar una reserba de matricula, este semestre no podre matricularme",
+        "intent_name": "reserva_matricula__procedimiento",
+        "entities": [
+            {
+                "value": "reserba de matricula",
+                "entity": "procedimiento",
+                "span_start": 53,
+                "span_end": 73
+            }
+        ]
+    },
+    {
+        "text": "quiero retirarme de un curso q llveo por segunda pero el sistema no me deja como haho?",
+        "intent_name": "retiro_parcial__cursos_repetidos",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "quiero rwtirarme del curso de calculo diterencial que estoy llevando por segunda vez pero el sisttema de roce no me lo permite, somo podria retirarme?",
+        "intent_name": "retiro_parcial__cursos_repetidos",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "puedo retirarme de un curso que he jalaod el siclo aanterior ?",
+        "intent_name": "retiro_parcial__cursos_repetidos",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "quisero hacet el reetiro de un curso q estoy llevando por segunda vez es posible?",
+        "intent_name": "retiro_parcial__cursos_repetidos",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "quiero retirarme de un curso q ya he desaprobado es losible?",
+        "intent_name": "retiro_parcial__cursos_repetidos",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "la constansia de matricula la solicito en aeea?",
+        "intent_name": "constancia_matricula__solicitud_procedimiento",
+        "entities": [
+            {
+                "value": "constansia de matricula",
+                "entity": "constancia",
+                "span_start": 3,
+                "span_end": 26
+            }
+        ]
+    },
+    {
+        "text": "una constancia de matricula la puedo solictiar en escelas academicas?",
+        "intent_name": "constancia_matricula__solicitud_procedimiento",
+        "entities": [
+            {
+                "value": "constancia de matricula",
+                "entity": "constancia",
+                "span_start": 4,
+                "span_end": 27
+            }
+        ]
+    },
+    {
+        "text": "como pedo tramitar una constansia de matricula de este ciclo",
+        "intent_name": "constancia_matricula__solicitud_procedimiento",
+        "entities": [
+            {
+                "value": "constansia de matricula",
+                "entity": "constancia",
+                "span_start": 23,
+                "span_end": 46
+            }
+        ]
+    },
+    {
+        "text": "buenass tardes una consulta, \u00bfcomo puedo obtener una constansia de matricula?",
+        "intent_name": "constancia_matricula__solicitud_procedimiento",
+        "entities": [
+            {
+                "value": "constansia de matricula",
+                "entity": "constancia",
+                "span_start": 53,
+                "span_end": 76
+            }
+        ]
+    },
+    {
+        "text": "ya pague el autoseguro, es necesario que entregue el vaucher a la ocicina de etaistica o no?",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "hay algo q edbo pagar para la matricula",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "hay algunos tramites qeu debo acer antes para la matricula?",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "q debo tramitar para la maatricula",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "debo enviar el vaucher del auto seguro para la matricula",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "hay algun pago que deo hacer para mi matrjcula",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "soy ingrseante de la carrera de ciencias de la computxcion como me inscribo este siclo",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "cuanto pagos edo haxer para la matricula is soy alumno regular",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "cmoo es el proceso para la matricula",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "este siclo debo realisar algun tramite mas para la matricula a partte pagar el autseguro si soy alumno regular",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "como puedo matricular sl es mi primer ciiclo",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "soy ingresante de ciencias de la computaci\u00f3n dual es el proceso de matriucla",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "debo acer algnua tramite para poder habilitar mi mmatricula?",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "como lumno regular debo pagar algo maas a parte del auto-seguro?",
+        "intent_name": "matricula_procedimiento",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "is no tengo algun documento para justificar mi rettiro total pueddo solicitarlo?",
+        "intent_name": "retiro_total__requisitos_documentos_justificacion",
+        "entities": [
+            {
+                "value": "rettiro total",
+                "entity": "procedimiento",
+                "span_start": 47,
+                "span_end": 60
+            }
+        ]
+    },
+    {
+        "text": "es necesario enner algun documento q justique el retiro tohal?",
+        "intent_name": "retiro_total__requisitos_documentos_justificacion",
+        "entities": [
+            {
+                "value": "retiro tohal",
+                "entity": "procedimiento",
+                "span_start": 49,
+                "span_end": 61
+            }
+        ]
+    },
+    {
+        "text": "quiero realizar el rretiro total por razones de saldu pero aactualmente no tengo una constansia salud en necesario q consiga una para solicitar mi retiro?",
+        "intent_name": "retiro_total__requisitos_documentos_justificacion",
+        "entities": [
+            {
+                "value": "rretiro total",
+                "entity": "procedimiento",
+                "span_start": 19,
+                "span_end": 32
+            }
+        ]
+    },
+    {
+        "text": "buens",
+        "intent_name": "saludo",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "ollis",
+        "intent_name": "saludo",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "ola amigo",
+        "intent_name": "saludo",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "oyye",
+        "intent_name": "saludo",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "fuenls dias Aerito",
+        "intent_name": "saludo",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "Buenos d\u00edas, deweo q saber cuando comienza la matricula",
+        "intent_name": "matricula__cronograma",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "Hola, cuales son los das de matriculla",
+        "intent_name": "matricula__cronograma",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "tengo entendido q ya salieron las fechas de la matricula en dnde lo puedo encnotrar?",
+        "intent_name": "matricula__cronograma",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "\u00bfCuales son los dias de matricula?",
+        "intent_name": "matricula__cronograma",
+        "entities": [],
+        "text_label_entities": ""
+    },
+    {
+        "text": "si ya salieron la fecha de la matricula me lo puedes neviar?",
+        "intent_name": "matricula__cronograma",
+        "entities": [],
+        "text_label_entities": ""
     }
 ]
