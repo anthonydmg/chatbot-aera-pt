@@ -63,6 +63,9 @@ saludo,que tal aerito,1
 saludo,holas,1
 saludo,olis,1
 saludo,que tal,1
+saludo,que tal amigo,1
+saludo,que onda,1
+saludo,como vas amigo,1
 denegar_mas_ayuda,no nada mas gracias,2
 denegar_mas_ayuda,ninguna duda mas,2
 denegar_mas_ayuda,No eso es todo gracias,2
@@ -98,6 +101,10 @@ denegar_mas_ayuda,no eso es todo gracias por la ayuda,2
 denegar_mas_ayuda,"no eso fue todo, buenas noches",2
 denegar_mas_ayuda,por el momento es todo gracias,2
 denegar_mas_ayuda,eso fue todo gracias,2
+denegar_mas_ayuda,no nada mas eso es todo,2
+denegar_mas_ayuda,no por el momento,2
+denegar_mas_ayuda,no es todo lo que queria,2
+denegar_mas_ayuda,no ya no tengo mas dudas,2
 confirmar_requerir_mas_ayuda,Si tengo otra consulta,3
 confirmar_requerir_mas_ayuda,Si claro,3
 confirmar_requerir_mas_ayuda,Si tengo otra duda mas,3
@@ -127,6 +134,8 @@ confirmar_requerir_mas_ayuda,una consulta mas porfavor,3
 confirmar_requerir_mas_ayuda,si una mas porfavor,3
 confirmar_requerir_mas_ayuda,si otra mas,3
 confirmar_requerir_mas_ayuda,otra mas porfavor,3
+confirmar_requerir_mas_ayuda,si una duda mas porfa,3
+confirmar_requerir_mas_ayuda,si otro duda mas,3
 formato_solicitud,¿Cuál es el modelo para la solicitud?,4
 formato_solicitud,donde encuentro un modelo para la solicitud?,4
 formato_solicitud,Dónde está el modelo de solicitud?,4
@@ -380,6 +389,10 @@ retiro_parcial__fechas,"quiero solictar el retiro parcial por que ya no esta hab
 retiro_parcial__fechas,como puedo pedir el retiro parcial si ya no esta habilitado en sistema?,5
 retiro_parcial__fechas,como puedo solicitar el retiro parcial si ya se paso la quinta semana y ya no esta habilitado en el sistema,5
 retiro_parcial__fechas,"si ya se pasaron las fechas de retiro parcial, como podria solitar el retiro de un curso?",5
+retiro_parcial__fechas,puedo pedir realizar el retiro parcial si ya se paso la quienta semana?,5
+retiro_parcial__fechas,hay alguna manera se solicitar el retiro si ya se pasaron las fechas de retiro?,5
+retiro_parcial__fechas,de que manera podria solicitar el retiro parcial si ya se paso las fechas?,5
+retiro_parcial__fechas,hay alguna posibilida de solicitar el retiro de un curso si ya paso las fechas?,5
 reincorporacion__fechas,"Otra consulta, ¿Hasta cuándo tengo tiempo para presentar mi solicitud de reincoporacion?",6
 reincorporacion__fechas,"una consulta, es que fechas deberia solicitar mi reincorparacion",6
 reincorporacion__fechas,hasta cuando podria solicitar mi reincoporarcion,6
@@ -1240,6 +1253,22 @@ retiro_total__requisitos_documentos_justificacion,quiero retirarme de este ciclo
 retiro_total__requisitos_documentos_justificacion,de que manera se tiene que justificar el retiro total?,23
 retiro_total__requisitos_documentos_justificacion,el retiro total debe ser justificado con documentos?,23
 retiro_total__requisitos_documentos_justificacion,necesito enviar algun documento para justificar mi retiro total?,23
+retiro_total__requisitos_documentos_justificacion,para poder solicitar el retiro total debo justicar con documentos mis motivos?,23
+retiro_total__requisitos_documentos_justificacion,"por motivos de salud quiero realize el retiro total, es necesario que adjunto una constancia medica para el retiro?",23
+retiro_total__requisitos_documentos_justificacion,debo presentar una constancia medica para justificar mi retiro total?,23
+retiro_total__requisitos_documentos_justificacion,en necesario adjuntar una constancia medica para solicar el retiro total?,23
+retiro_total__requisitos_documentos_justificacion,"quiero realizar el retiro total este ciclo por problemas de salud, es necesario que envie una constancia medica?",23
+retiro_total__requisitos_documentos_justificacion,que documentos debo presentar para justificar el retiro total?,23
+retiro_total__requisitos_documentos_justificacion,que tipo de documentos debo enviar para justificar mi retiro total?,23
+retiro_total__requisitos_documentos_justificacion,hay alguna documentacion de debo presentar para justificar el retiro total?,23
+retiro_total__requisitos_documentos_justificacion,necesito enviar una constancia medica para poder realizar el retiro total?,23
+retiro_total__requisitos_documentos_justificacion,necesito algun documento que acredite para razon por la cual desea realizar el retiro total?,23
+retiro_total__requisitos_documentos_justificacion,debo enviar alguna constancia que acredite mis movitos del retiro total?,23
+retiro_total__requisitos_documentos_justificacion,si deseo realizar el retiro total por problemas de salud debo enviar alguna solicitud que lo acredite?,23
+retiro_total__requisitos_documentos_justificacion,quisiera retirame este ciclo por problemas de salud es necesario que enviar una constancia de salud?,23
+retiro_total__requisitos_documentos_justificacion,necesito algun tipo de documento que acredite mis razones de retiro total?,23
+retiro_total__requisitos_documentos_justificacion,que tipos de constancias debo presentar para justificar mi retiro total?,23
+retiro_total__requisitos_documentos_justificacion,que documentos se deben presentar para justificar mis razones de retiro total?,23
 retiro_total__motivos_procede,¿Cuáles son los motivos para acceder al retiro total?,24
 retiro_total__motivos_procede,¿Qué motivos justifican el retiro total de cursos?,24
 retiro_total__motivos_procede,Trabajar es un motivo para el retiro total?,24
@@ -1274,6 +1303,21 @@ retiro_total__motivos_procede,por motivos economicos este ciclo tengo que trabaj
 retiro_total__motivos_procede,"buenas tardes, yo soy de provincia y este ciclo por motivos economicos no puedo estar en lima por lo que quisiera retirarme del ciclo, puedo justificar de esta forma el retiro total?",24
 retiro_total__motivos_procede,puedo justificar el retiro total por problemas de saluda?,24
 retiro_total__motivos_procede,"tengo un pariente enfermo por lo que quisiera retirame este ciclo, esto seria el motivo suficiente para poder retirarme?",24
+retiro_total__motivos_procede,podria realizar el retiro total por temas de trabajo?,24
+retiro_total__motivos_procede,puedo retirarme de este ciclo por razones de trabajo?,24
+retiro_total__motivos_procede,quisiera retirarmde de este ciclo por motivos de trabajo es posible?,24
+retiro_total__motivos_procede,puedo retiarme de este ciclo por una lesion?,24
+retiro_total__motivos_procede,"sufri un accidente hace unas semanas y me he perdido varias clases, es motivo suficiente para poder realizar el retiro total?",24
+retiro_total__motivos_procede,es motivo suficiente para el retiro total el fallecimineto de un familizar?,24
+retiro_total__motivos_procede,tengo algunos problemas economicos por lo que tengo que trabajar seria un motivo valido para poder retirarme este ciclo?,24
+retiro_total__motivos_procede,"estoy teniendo algunos problemas familiares y economicos, podria justificar con esto mi retiro del ciclo?",24
+retiro_total__motivos_procede,puedo justificar mi retiro del ciclo por temas laborales?,24
+retiro_total__motivos_procede,puedo justificar el retiro total por enfermedad?,24
+retiro_total__motivos_procede,quisiera retirame de este ciclo por problemas economicos puedo justificar con esto mi retiro ?,24
+retiro_total__motivos_procede,puedo justificar mi reitiro del ciclo con problemas economicos?,24
+retiro_total__motivos_procede,que razones son validas para solicitar un retiro total?,24
+retiro_total__motivos_procede,que razones son aceptadas por poder retirse del ciclo?,24
+retiro_total__motivos_procede,que razones justifican un retiro total?,24
 retiro_total__procedimiento,¿Cómo hago el retiro total de mis cursos?,25
 retiro_total__procedimiento,¿Cuál es el procedimiento para el retiro total?,25
 retiro_total__procedimiento,¿Cuáles son los pasos para solicitar el retiro total?,25
@@ -1428,6 +1472,8 @@ constancia_matricula__solicitud_procedimiento,una constancia de matricula la sol
 constancia_matricula__solicitud_procedimiento,en que oficina puedo solicitar la constancia de matricula?,28
 constancia_matricula__solicitud_procedimiento,a que oficna le puedo solocitar una constancia de matricula?,28
 constancia_matricula__solicitud_procedimiento,necesito una constancia de matricula en donde la solicito?,28
+constancia_matricula__solicitud_procedimiento,quiero una constancia de matricula para postular a un beca del pronabec donde la puedo pedir?,28
+constancia_matricula__solicitud_procedimiento,"me estan pidiendo una constancia de matricula para mi beca de pronabec, en que oficina la solicito?",28
 constancia_de_notas__procedimiento,¿Como solicitar una constancia de notas?,29
 constancia_de_notas__procedimiento,"Buenas tardes, voy a postular para a una beca necesito una constancia de notas en inglés ¿Cuál es el procedimeinto?",29
 constancia_de_notas__procedimiento,"Hola, quiero saber como tramitar una constancia de notas en ingles y español",29
@@ -1490,6 +1536,7 @@ constancia_de_estudios__procedimiento,estoy postulando a unas practicas pre prof
 constancia_de_estudios__procedimiento,quisiera solicitar una constancia de estudios porfavor,30
 constancia_de_estudios__procedimiento,en que oficina solicito una constancia de estudios?,30
 constancia_de_estudios__procedimiento,la constancia de estudios la solicito en escuelas acdemicas?,30
+constancia_de_estudios__procedimiento,necesito una de estudios para postular a una practicas pre donde la solcito?,30
 horario_atencion_aera,¿Cuál es el horario de AERA?,31
 horario_atencion_aera,Puede decirme cual es el horario de atencion ?,31
 horario_atencion_aera,Puede decirme cual es el horaro de atencion de la oficina?,31
@@ -1523,6 +1570,9 @@ horario_atencion_aera,a que hora cierra la oficina de estadistica?,31
 horario_atencion_aera,hasta que hora atiende la oficina de aera?,31
 horario_atencion_aera,en que horario atiende la oficina de estadistica?,31
 horario_atencion_aera,la oficina de estadistica atiende los sabados?,31
+horario_atencion_aera,en que horario atiende la oficina de estadistica?,31
+horario_atencion_aera,area atiende en las noches?,31
+horario_atencion_aera,aera atiende hasta las 5 pm?,31
 solicitud_correo_institucional_procedimiento,¿Cómo solicito mi correo UNI?,32
 solicitud_correo_institucional_procedimiento,Una pregunta como obtengo mi correo institucional,32
 solicitud_correo_institucional_procedimiento,una duda como puedo obtener mi correo institucional,32
@@ -1556,6 +1606,9 @@ solicitud_correo_institucional_procedimiento,el correo uni lo puedo pedir es la 
 solicitud_correo_institucional_procedimiento,en donde solicito mi correo institucional?,32
 solicitud_correo_institucional_procedimiento,"todavia no tengo mi correo uni, me dijeron que ya lo han estado dando pero no me registre. Como podria solicitarlo ahora?",32
 solicitud_correo_institucional_procedimiento,quisiera solicitar mi corre uni donde lo puedo hacer?,32
+solicitud_correo_institucional_procedimiento,en la oficna de area puedo solicitar mi correo uni?,32
+solicitud_correo_institucional_procedimiento,en donde solicito mi correo uni en aera o en escuelas academicas?,32
+solicitud_correo_institucional_procedimiento,todavia podria solicitar mi correo uni no pude registrarme anteriormente?,32
 retiro_parcial__cursos_repetidos,¿Es posible retirarme de un curso que haya repetido?,33
 retiro_parcial__cursos_repetidos,Puedo retirarme de cursos con repitencias?,33
 retiro_parcial__cursos_repetidos,Puedo retirarme de una asginatura que he repetido,33
@@ -1589,3 +1642,78 @@ retiro_parcial__cursos_repetidos,puedo retirarme del curso de algebra linea que 
 retiro_parcial__cursos_repetidos,"quisiera retirarme del curso de calculo numerico pero es mi segunda vez que lo llevo, puedo solicitar este retiro?",33
 retiro_parcial__cursos_repetidos,"el sistema no permite retirarme del curso de algebra lineal, sera por lo estoy llevando por segunda vez?",33
 retiro_parcial__cursos_repetidos,en orce no me deja retirarme del curso de fisica computacional lo estoy llevando por segunda vez sera por eso?,33
+retiro_parcial__cursos_repetidos,si estoy llevando un curso por segunda vez me puedo retirar?,33
+retiro_parcial__cursos_repetidos,me puedo retirar de un curso que ya he desaprobado alguna vez?,33
+retiro_parcial__cursos_repetidos,estoy llevando el curso de fisica ii por seguna pero quisiera retirame es posible?,33
+fuera_alcance,Quisiera saber ¿cómo podría hacer valido mi constancia de ayudantía académica que hice en periodo regular antes de la pandemia?.,34
+fuera_alcance,como tramito mi constancia de ayudantia academica,34
+fuera_alcance,como solicito mi constancia de ayudantia acadecmica,34
+fuera_alcance,el ciclo pasado hice ayudantia academica y me dieron una constancia como puedo hacer valido esta constancia para los creditos,34
+fuera_alcance,como valido mis creditos por constancia de ayudantia academica,34
+fuera_alcance,"Buenas tardes estadística el profesor acaba de aceptarme para hacer ayudantía, ¿Cuál es el procedemiendo?",34
+fuera_alcance,como hago valido mi constancia de ayudantia academica,34
+fuera_alcance,"Quisiera saber ¿cuántos créditos me faltan para poder egresar? he tratado de cálcular pero se me dificulta con los cursos exonerados, estoy en noveno ciclo.",34
+fuera_alcance,donde encuentro cuantos creditos me falta para egresar,34
+fuera_alcance,como puedo saber cuantos creditos me faltarian para terminar mi carrera ya estoy de octavo ciclo,34
+fuera_alcance,no estoy seguro cuantos creditos me faltan para terminar la carrera como puedo saber eso?,34
+fuera_alcance,como calculo cuantos creditos me faltan para agresar?,34
+fuera_alcance,"Hola, ¿Cuáles son los requisitos para poder aplicar el traslado interno ?",34
+fuera_alcance,quisiera realizar el traslado interno de la matematicas a ciencias de computacion donde hago eso,34
+fuera_alcance,donde puedo solicitar mi traslado interno para el siguiente ciclo,34
+fuera_alcance,en estadistica puedo consultar sobre el traslado interno,34
+fuera_alcance,el traslado interno lo tramito en esculas academicas?,34
+fuera_alcance,Quisiera consultar por el pago del concepto de Diploma de Grado Bachiller para un egresado.,34
+fuera_alcance,donde puedo pagar por el diploma de bachiller,34
+fuera_alcance,que pago debo hacer por el diploma de bachiller,34
+fuera_alcance,acabo de engresar y quiero tramitar mi diploma de bachiller que tramites debo hacer?,34
+fuera_alcance,debo hacer algo pago para el diploma de bachiller?,34
+fuera_alcance,"Buenas tardes, soy alumno ingresante mediante la modalidad de ""Titulado o graduado en otra universidad"", El motivo de la presente es consultar sobre el pago de ciclo a realizar. Hasta el momento no se me ha informado de cuanto debo pagar por la matrícula en el ciclo ¿Donde puedo ver cuanto tengo que pagar en el ciclo?",34
+fuera_alcance,soy ingresante por la modalidad Titulado o graduado en otra universidad no estoy seguro que debo pagar me pueden ayudar,34
+fuera_alcance,ingrese por la modalidad Titulado o graduado en otra universidad que tramite debo hacer para mi matricula?,34
+fuera_alcance,ingrese a la universidad por la modalidad Titulado o graduado en otra universidad no me han dicho examente si debo pagar algo?,34
+fuera_alcance,acabo de ingresar por la modalidad Titulado o graduado en otra universidad que pagos debo hacer para matricularme,34
+fuera_alcance,"Buenas, quisiera saber que documento debo presentar para confirmar mis practicas pre profesionales",34
+fuera_alcance,"Quiero matricularme pero me figura que tengo deuda con tutoría, que puedo hacer",34
+fuera_alcance,Buenas tardes disculpa  ¿Cuál es el procedemiendo para realizar la ayudantia academica?,34
+fuera_alcance,"De acuerdo, me encargaré de realizar el procedimiento. También requiero un certificado de décimo o quinto superior según corresponda",34
+fuera_alcance,aún no estoy matrículado pero veo en el sistema que no hay vacante en el curso de CIRCUITOS ELECTRONICOS ANALOGICOS ¿Qué debo hacer?,34
+fuera_alcance,"hola estadística, solicité vacante para el curso de CIRCUITOS ELECTRÓNICOS ANALOGICOS y aún no tengo respuesta",34
+fuera_alcance,como puedo solicitar una vacante extra para un curso,34
+fuera_alcance,"quisiera solicar una vacante extra para un curso, como puedo hacerlo?",34
+fuera_alcance,"Buenos días, escribo para consultar como va mi trámite de constancia de notas depurada",34
+fuera_alcance,quisiera saber como va mi constancia de matricula,34
+fuera_alcance,"me podria decir en que estado esta mi tramite reincorporacion, si podre matricular este ciclo?",34
+fuera_alcance,solicite una constancia de notas para una beca me podria indicar en que estado esta y para cuando me la daran?,34
+fuera_alcance,"inicie el tramite de reserva de matricula, como puedo saber que todo esta bien?",34
+fuera_alcance,"solicite mi retiro total, quisiera saber si se realiza correctamente",34
+fuera_alcance,"solicite mi reincoporacion este ciclo, quisiera saber si esta correcto?",34
+fuera_alcance,"Soy alumno del último ciclo, quisiera llevar un curso con su prerequisito, cual es el trámite",34
+fuera_alcance,puedo llevar un curso y su prerequisito?,34
+fuera_alcance,tengo que hacer algun tramite para llevar un curso y su prerequisito?,34
+fuera_alcance,estoy en decimo ciclo ya por egresar quisiera llevar un curso y su prerequisito como lo solicito?,34
+fuera_alcance,"solo me faltan 20 creditos para egresar y quisiera llevar un curso con su prerequsito para poder egresar este ciclo, es posible?",34
+fuera_alcance,"Soy alumno por egresar, cuantos créditos puedo llevar",34
+fuera_alcance,soy alumno por egresar cual es numero de creditos maximo que puedo llevar?,34
+fuera_alcance,si soy alumno por egregar cuantos creditos como maximo puedo llevar?,34
+fuera_alcance,soy alumno de decimo ciclo puedo llevar 28 creditos para poder egresar?,34
+fuera_alcance,"Buenos días, que trámite debo realizar para llevar un crédito adicional",34
+fuera_alcance,como puedo solictar el llevar un credito adicional?,34
+fuera_alcance,"quisiera solicar mas creditos este ciclo, es posible?",34
+fuera_alcance,es posible solicitar un credido adicional este ciclo?,34
+fuera_alcance,como puedo solictiar el llevar un credito mas?,34
+fuera_alcance,"Buenos dias, me gustaría saber si existe lo de ampliación de créditos por favor y qué necesito para solicitarlo",34
+fuera_alcance,puedo ampliar la cantidad de creditos que puedo llevar este ciclo?,34
+fuera_alcance,hay algun procedimiento para ampliar los creditos que puedo llevar este ciclo?,34
+fuera_alcance,Olvide mi contraseña de mi correo institucional,34
+fuera_alcance,no recuerdo la contraseña de mi corre uni donde la puedo recuperar?,34
+fuera_alcance,puedo recuparar mi contraseña de mi correo instucional?,34
+fuera_alcance,olvide mi contraseña de mi correo uni donde la recupero,34
+fuera_alcance,"Buenos dias, quisiera saber cuantos electivos me faltan para egresar",34
+fuera_alcance,quiero saber cuantos creditos electivos me faltan para egreasar?,34
+fuera_alcance,donde veo la candtidad de creditos electivos que me faltan para egresar?,34
+fuera_alcance,Mi consulta es si ¿debo cubrir los créditos de los cursos exonerados?,34
+fuera_alcance,que pagos debo hacer para mi titulo profesional,34
+fuera_alcance,debo realizar alguna pago por mi titulo profesional,34
+fuera_alcance,que tramite debo hacer para obtener el titulo profesional,34
+fuera_alcance,como tramito mi titulo profesional,34
+fuera_alcance,ya presente la tesis quiero sacar mi titulo como lo tramito?,34

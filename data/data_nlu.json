@@ -320,6 +320,21 @@
         "entities": []
     },
     {
+        "text": "que tal amigo",
+        "intent_name": "saludo",
+        "entities": []
+    },
+    {
+        "text": "que onda",
+        "intent_name": "saludo",
+        "entities": []
+    },
+    {
+        "text": "como vas amigo",
+        "intent_name": "saludo",
+        "entities": []
+    },
+    {
         "text": "no nada mas gracias",
         "intent_name": "denegar_mas_ayuda",
         "entities": []
@@ -495,6 +510,26 @@
         "entities": []
     },
     {
+        "text": "no nada mas eso es todo",
+        "intent_name": "denegar_mas_ayuda",
+        "entities": []
+    },
+    {
+        "text": "no por el momento",
+        "intent_name": "denegar_mas_ayuda",
+        "entities": []
+    },
+    {
+        "text": "no es todo lo que queria",
+        "intent_name": "denegar_mas_ayuda",
+        "entities": []
+    },
+    {
+        "text": "no ya no tengo mas dudas",
+        "intent_name": "denegar_mas_ayuda",
+        "entities": []
+    },
+    {
         "text": "Si tengo otra consulta",
         "intent_name": "confirmar_requerir_mas_ayuda",
         "entities": []
@@ -636,6 +671,16 @@
     },
     {
         "text": "otra mas porfavor",
+        "intent_name": "confirmar_requerir_mas_ayuda",
+        "entities": []
+    },
+    {
+        "text": "si una duda mas porfa",
+        "intent_name": "confirmar_requerir_mas_ayuda",
+        "entities": []
+    },
+    {
+        "text": "si otro duda mas",
         "intent_name": "confirmar_requerir_mas_ayuda",
         "entities": []
     },
@@ -3254,6 +3299,40 @@
                 "span_end": 45
             }
         ]
+    },
+    {
+        "text": "puedo pedir realizar el retiro parcial si ya se paso la quienta semana?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 24,
+                "span_end": 38
+            }
+        ]
+    },
+    {
+        "text": "hay alguna manera se solicitar el retiro si ya se pasaron las fechas de retiro?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": []
+    },
+    {
+        "text": "de que manera podria solicitar el retiro parcial si ya se paso las fechas?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 34,
+                "span_end": 48
+            }
+        ]
+    },
+    {
+        "text": "hay alguna posibilida de solicitar el retiro de un curso si ya paso las fechas?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": []
     },
     {
         "text": "Otra consulta, \u00bfHasta cu\u00e1ndo tengo tiempo para presentar mi solicitud de reincoporacion?",
@@ -9031,6 +9110,191 @@
         ]
     },
     {
+        "text": "para poder solicitar el retiro total debo justicar con documentos mis motivos?",
+        "intent_name": "retiro_total__requisitos_documentos_justificacion",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 24,
+                "span_end": 36
+            }
+        ]
+    },
+    {
+        "text": "por motivos de salud quiero realize el retiro total, es necesario que adjunto una constancia medica para el retiro?",
+        "intent_name": "retiro_total__requisitos_documentos_justificacion",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 39,
+                "span_end": 51
+            }
+        ]
+    },
+    {
+        "text": "debo presentar una constancia medica para justificar mi retiro total?",
+        "intent_name": "retiro_total__requisitos_documentos_justificacion",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 56,
+                "span_end": 68
+            }
+        ]
+    },
+    {
+        "text": "en necesario adjuntar una constancia medica para solicar el retiro total?",
+        "intent_name": "retiro_total__requisitos_documentos_justificacion",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 60,
+                "span_end": 72
+            }
+        ]
+    },
+    {
+        "text": "quiero realizar el retiro total este ciclo por problemas de salud, es necesario que envie una constancia medica?",
+        "intent_name": "retiro_total__requisitos_documentos_justificacion",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 19,
+                "span_end": 31
+            }
+        ]
+    },
+    {
+        "text": "que documentos debo presentar para justificar el retiro total?",
+        "intent_name": "retiro_total__requisitos_documentos_justificacion",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 49,
+                "span_end": 61
+            }
+        ]
+    },
+    {
+        "text": "que tipo de documentos debo enviar para justificar mi retiro total?",
+        "intent_name": "retiro_total__requisitos_documentos_justificacion",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 54,
+                "span_end": 66
+            }
+        ]
+    },
+    {
+        "text": "hay alguna documentacion de debo presentar para justificar el retiro total?",
+        "intent_name": "retiro_total__requisitos_documentos_justificacion",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 62,
+                "span_end": 74
+            }
+        ]
+    },
+    {
+        "text": "necesito enviar una constancia medica para poder realizar el retiro total?",
+        "intent_name": "retiro_total__requisitos_documentos_justificacion",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 61,
+                "span_end": 73
+            }
+        ]
+    },
+    {
+        "text": "necesito algun documento que acredite para razon por la cual desea realizar el retiro total?",
+        "intent_name": "retiro_total__requisitos_documentos_justificacion",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 79,
+                "span_end": 91
+            }
+        ]
+    },
+    {
+        "text": "debo enviar alguna constancia que acredite mis movitos del retiro total?",
+        "intent_name": "retiro_total__requisitos_documentos_justificacion",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 59,
+                "span_end": 71
+            }
+        ]
+    },
+    {
+        "text": "si deseo realizar el retiro total por problemas de salud debo enviar alguna solicitud que lo acredite?",
+        "intent_name": "retiro_total__requisitos_documentos_justificacion",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 21,
+                "span_end": 33
+            }
+        ]
+    },
+    {
+        "text": "quisiera retirame este ciclo por problemas de salud es necesario que enviar una constancia de salud?",
+        "intent_name": "retiro_total__requisitos_documentos_justificacion",
+        "entities": []
+    },
+    {
+        "text": "necesito algun tipo de documento que acredite mis razones de retiro total?",
+        "intent_name": "retiro_total__requisitos_documentos_justificacion",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 61,
+                "span_end": 73
+            }
+        ]
+    },
+    {
+        "text": "que tipos de constancias debo presentar para justificar mi retiro total?",
+        "intent_name": "retiro_total__requisitos_documentos_justificacion",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 59,
+                "span_end": 71
+            }
+        ]
+    },
+    {
+        "text": "que documentos se deben presentar para justificar mis razones de retiro total?",
+        "intent_name": "retiro_total__requisitos_documentos_justificacion",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 65,
+                "span_end": 77
+            }
+        ]
+    },
+    {
         "text": "\u00bfCu\u00e1les son los motivos para acceder al retiro total?",
         "intent_name": "retiro_total__motivos_procede",
         "entities": [
@@ -9402,6 +9666,123 @@
         "text": "tengo un pariente enfermo por lo que quisiera retirame este ciclo, esto seria el motivo suficiente para poder retirarme?",
         "intent_name": "retiro_total__motivos_procede",
         "entities": []
+    },
+    {
+        "text": "podria realizar el retiro total por temas de trabajo?",
+        "intent_name": "retiro_total__motivos_procede",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 19,
+                "span_end": 31
+            }
+        ]
+    },
+    {
+        "text": "puedo retirarme de este ciclo por razones de trabajo?",
+        "intent_name": "retiro_total__motivos_procede",
+        "entities": []
+    },
+    {
+        "text": "quisiera retirarmde de este ciclo por motivos de trabajo es posible?",
+        "intent_name": "retiro_total__motivos_procede",
+        "entities": []
+    },
+    {
+        "text": "puedo retiarme de este ciclo por una lesion?",
+        "intent_name": "retiro_total__motivos_procede",
+        "entities": []
+    },
+    {
+        "text": "sufri un accidente hace unas semanas y me he perdido varias clases, es motivo suficiente para poder realizar el retiro total?",
+        "intent_name": "retiro_total__motivos_procede",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 112,
+                "span_end": 124
+            }
+        ]
+    },
+    {
+        "text": "es motivo suficiente para el retiro total el fallecimineto de un familizar?",
+        "intent_name": "retiro_total__motivos_procede",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 29,
+                "span_end": 41
+            }
+        ]
+    },
+    {
+        "text": "tengo algunos problemas economicos por lo que tengo que trabajar seria un motivo valido para poder retirarme este ciclo?",
+        "intent_name": "retiro_total__motivos_procede",
+        "entities": []
+    },
+    {
+        "text": "estoy teniendo algunos problemas familiares y economicos, podria justificar con esto mi retiro del ciclo?",
+        "intent_name": "retiro_total__motivos_procede",
+        "entities": []
+    },
+    {
+        "text": "puedo justificar mi retiro del ciclo por temas laborales?",
+        "intent_name": "retiro_total__motivos_procede",
+        "entities": []
+    },
+    {
+        "text": "puedo justificar el retiro total por enfermedad?",
+        "intent_name": "retiro_total__motivos_procede",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 20,
+                "span_end": 32
+            }
+        ]
+    },
+    {
+        "text": "quisiera retirame de este ciclo por problemas economicos puedo justificar con esto mi retiro ?",
+        "intent_name": "retiro_total__motivos_procede",
+        "entities": []
+    },
+    {
+        "text": "puedo justificar mi reitiro del ciclo con problemas economicos?",
+        "intent_name": "retiro_total__motivos_procede",
+        "entities": []
+    },
+    {
+        "text": "que razones son validas para solicitar un retiro total?",
+        "intent_name": "retiro_total__motivos_procede",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 42,
+                "span_end": 54
+            }
+        ]
+    },
+    {
+        "text": "que razones son aceptadas por poder retirse del ciclo?",
+        "intent_name": "retiro_total__motivos_procede",
+        "entities": []
+    },
+    {
+        "text": "que razones justifican un retiro total?",
+        "intent_name": "retiro_total__motivos_procede",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 26,
+                "span_end": 38
+            }
+        ]
     },
     {
         "text": "\u00bfC\u00f3mo hago el retiro total de mis cursos?",
@@ -10776,6 +11157,30 @@
         ]
     },
     {
+        "text": "quiero una constancia de matricula para postular a un beca del pronabec donde la puedo pedir?",
+        "intent_name": "constancia_matricula__solicitud_procedimiento",
+        "entities": [
+            {
+                "value": "constancia de matricula",
+                "entity": "constancia",
+                "span_start": 11,
+                "span_end": 34
+            }
+        ]
+    },
+    {
+        "text": "me estan pidiendo una constancia de matricula para mi beca de pronabec, en que oficina la solicito?",
+        "intent_name": "constancia_matricula__solicitud_procedimiento",
+        "entities": [
+            {
+                "value": "constancia de matricula",
+                "entity": "constancia",
+                "span_start": 22,
+                "span_end": 45
+            }
+        ]
+    },
+    {
         "text": "\u00bfComo solicitar una constancia de notas?",
         "intent_name": "constancia_de_notas__procedimiento",
         "entities": [
@@ -11506,6 +11911,11 @@
         ]
     },
     {
+        "text": "necesito una de estudios para postular a una practicas pre donde la solcito?",
+        "intent_name": "constancia_de_estudios__procedimiento",
+        "entities": []
+    },
+    {
         "text": "\u00bfCu\u00e1l es el horario de AERA?",
         "intent_name": "horario_atencion_aera",
         "entities": []
@@ -11671,6 +12081,21 @@
         "entities": []
     },
     {
+        "text": "en que horario atiende la oficina de estadistica?",
+        "intent_name": "horario_atencion_aera",
+        "entities": []
+    },
+    {
+        "text": "area atiende en las noches?",
+        "intent_name": "horario_atencion_aera",
+        "entities": []
+    },
+    {
+        "text": "aera atiende hasta las 5 pm?",
+        "intent_name": "horario_atencion_aera",
+        "entities": []
+    },
+    {
         "text": "\u00bfC\u00f3mo solicito mi correo UNI?",
         "intent_name": "solicitud_correo_institucional_procedimiento",
         "entities": []
@@ -11832,6 +12257,21 @@
     },
     {
         "text": "quisiera solicitar mi corre uni donde lo puedo hacer?",
+        "intent_name": "solicitud_correo_institucional_procedimiento",
+        "entities": []
+    },
+    {
+        "text": "en la oficna de area puedo solicitar mi correo uni?",
+        "intent_name": "solicitud_correo_institucional_procedimiento",
+        "entities": []
+    },
+    {
+        "text": "en donde solicito mi correo uni en aera o en escuelas academicas?",
+        "intent_name": "solicitud_correo_institucional_procedimiento",
+        "entities": []
+    },
+    {
+        "text": "todavia podria solicitar mi correo uni no pude registrarme anteriormente?",
         "intent_name": "solicitud_correo_institucional_procedimiento",
         "entities": []
     },
@@ -12019,6 +12459,423 @@
     {
         "text": "en orce no me deja retirarme del curso de fisica computacional lo estoy llevando por segunda vez sera por eso?",
         "intent_name": "retiro_parcial__cursos_repetidos",
+        "entities": []
+    },
+    {
+        "text": "si estoy llevando un curso por segunda vez me puedo retirar?",
+        "intent_name": "retiro_parcial__cursos_repetidos",
+        "entities": []
+    },
+    {
+        "text": "me puedo retirar de un curso que ya he desaprobado alguna vez?",
+        "intent_name": "retiro_parcial__cursos_repetidos",
+        "entities": []
+    },
+    {
+        "text": "estoy llevando el curso de fisica ii por seguna pero quisiera retirame es posible?",
+        "intent_name": "retiro_parcial__cursos_repetidos",
+        "entities": []
+    },
+    {
+        "text": "Quisiera saber \u00bfc\u00f3mo podr\u00eda hacer valido mi constancia de ayudant\u00eda acad\u00e9mica que hice en periodo regular antes de la pandemia?.",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "como tramito mi constancia de ayudantia academica",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "como solicito mi constancia de ayudantia acadecmica",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "el ciclo pasado hice ayudantia academica y me dieron una constancia como puedo hacer valido esta constancia para los creditos",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "como valido mis creditos por constancia de ayudantia academica",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "Buenas tardes estad\u00edstica el profesor acaba de aceptarme para hacer ayudant\u00eda, \u00bfCu\u00e1l es el procedemiendo?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "como hago valido mi constancia de ayudantia academica",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "Quisiera saber \u00bfcu\u00e1ntos cr\u00e9ditos me faltan para poder egresar? he tratado de c\u00e1lcular pero se me dificulta con los cursos exonerados, estoy en noveno ciclo.",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "donde encuentro cuantos creditos me falta para egresar",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "como puedo saber cuantos creditos me faltarian para terminar mi carrera ya estoy de octavo ciclo",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "no estoy seguro cuantos creditos me faltan para terminar la carrera como puedo saber eso?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "como calculo cuantos creditos me faltan para agresar?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "Hola, \u00bfCu\u00e1les son los requisitos para poder aplicar el traslado interno ?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "quisiera realizar el traslado interno de la matematicas a ciencias de computacion donde hago eso",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "donde puedo solicitar mi traslado interno para el siguiente ciclo",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "en estadistica puedo consultar sobre el traslado interno",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "el traslado interno lo tramito en esculas academicas?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "Quisiera consultar por el pago del concepto de Diploma de Grado Bachiller para un egresado.",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "donde puedo pagar por el diploma de bachiller",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "que pago debo hacer por el diploma de bachiller",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "acabo de engresar y quiero tramitar mi diploma de bachiller que tramites debo hacer?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "debo hacer algo pago para el diploma de bachiller?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "Buenas tardes, soy alumno ingresante mediante la modalidad de \"Titulado o graduado en otra universidad\", El motivo de la presente es consultar sobre el pago de ciclo a realizar. Hasta el momento no se me ha informado de cuanto debo pagar por la matr\u00edcula en el ciclo \u00bfDonde puedo ver cuanto tengo que pagar en el ciclo?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "soy ingresante por la modalidad Titulado o graduado en otra universidad no estoy seguro que debo pagar me pueden ayudar",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "ingrese por la modalidad Titulado o graduado en otra universidad que tramite debo hacer para mi matricula?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "ingrese a la universidad por la modalidad Titulado o graduado en otra universidad no me han dicho examente si debo pagar algo?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "acabo de ingresar por la modalidad Titulado o graduado en otra universidad que pagos debo hacer para matricularme",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "Buenas, quisiera saber que documento debo presentar para confirmar mis practicas pre profesionales",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "Quiero matricularme pero me figura que tengo deuda con tutor\u00eda, que puedo hacer",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "Buenas tardes disculpa  \u00bfCu\u00e1l es el procedemiendo para realizar la ayudantia academica?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "De acuerdo, me encargar\u00e9 de realizar el procedimiento. Tambi\u00e9n requiero un certificado de d\u00e9cimo o quinto superior seg\u00fan corresponda",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "a\u00fan no estoy matr\u00edculado pero veo en el sistema que no hay vacante en el curso de CIRCUITOS ELECTRONICOS ANALOGICOS \u00bfQu\u00e9 debo hacer?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "hola estad\u00edstica, solicit\u00e9 vacante para el curso de CIRCUITOS ELECTR\u00d3NICOS ANALOGICOS y a\u00fan no tengo respuesta",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "como puedo solicitar una vacante extra para un curso",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "quisiera solicar una vacante extra para un curso, como puedo hacerlo?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "Buenos d\u00edas, escribo para consultar como va mi tr\u00e1mite de constancia de notas depurada",
+        "intent_name": "fuera_alcance",
+        "entities": [
+            {
+                "value": "constancia de notas",
+                "entity": "constancia",
+                "span_start": 58,
+                "span_end": 77
+            }
+        ]
+    },
+    {
+        "text": "quisiera saber como va mi constancia de matricula",
+        "intent_name": "fuera_alcance",
+        "entities": [
+            {
+                "value": "constancia de matricula",
+                "entity": "constancia",
+                "span_start": 26,
+                "span_end": 49
+            }
+        ]
+    },
+    {
+        "text": "me podria decir en que estado esta mi tramite reincorporacion, si podre matricular este ciclo?",
+        "intent_name": "fuera_alcance",
+        "entities": [
+            {
+                "value": "reincorporacion",
+                "entity": "procedimiento",
+                "span_start": 46,
+                "span_end": 61
+            }
+        ]
+    },
+    {
+        "text": "solicite una constancia de notas para una beca me podria indicar en que estado esta y para cuando me la daran?",
+        "intent_name": "fuera_alcance",
+        "entities": [
+            {
+                "value": "constancia de notas",
+                "entity": "constancia",
+                "span_start": 13,
+                "span_end": 32
+            }
+        ]
+    },
+    {
+        "text": "inicie el tramite de reserva de matricula, como puedo saber que todo esta bien?",
+        "intent_name": "fuera_alcance",
+        "entities": [
+            {
+                "value": "reserva de matricula",
+                "entity": "procedimiento",
+                "span_start": 21,
+                "span_end": 41
+            }
+        ]
+    },
+    {
+        "text": "solicite mi retiro total, quisiera saber si se realiza correctamente",
+        "intent_name": "fuera_alcance",
+        "entities": [
+            {
+                "value": "retiro total",
+                "entity": "procedimiento",
+                "span_start": 12,
+                "span_end": 24
+            }
+        ]
+    },
+    {
+        "text": "solicite mi reincoporacion este ciclo, quisiera saber si esta correcto?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "Soy alumno del \u00faltimo ciclo, quisiera llevar un curso con su prerequisito, cual es el tr\u00e1mite",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "puedo llevar un curso y su prerequisito?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "tengo que hacer algun tramite para llevar un curso y su prerequisito?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "estoy en decimo ciclo ya por egresar quisiera llevar un curso y su prerequisito como lo solicito?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "solo me faltan 20 creditos para egresar y quisiera llevar un curso con su prerequsito para poder egresar este ciclo, es posible?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "Soy alumno por egresar, cuantos cr\u00e9ditos puedo llevar",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "soy alumno por egresar cual es numero de creditos maximo que puedo llevar?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "si soy alumno por egregar cuantos creditos como maximo puedo llevar?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "soy alumno de decimo ciclo puedo llevar 28 creditos para poder egresar?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "Buenos d\u00edas, que tr\u00e1mite debo realizar para llevar un cr\u00e9dito adicional",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "como puedo solictar el llevar un credito adicional?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "quisiera solicar mas creditos este ciclo, es posible?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "es posible solicitar un credido adicional este ciclo?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "como puedo solictiar el llevar un credito mas?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "Buenos dias, me gustar\u00eda saber si existe lo de ampliaci\u00f3n de cr\u00e9ditos por favor y qu\u00e9 necesito para solicitarlo",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "puedo ampliar la cantidad de creditos que puedo llevar este ciclo?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "hay algun procedimiento para ampliar los creditos que puedo llevar este ciclo?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "Olvide mi contrase\u00f1a de mi correo institucional",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "no recuerdo la contrase\u00f1a de mi corre uni donde la puedo recuperar?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "puedo recuparar mi contrase\u00f1a de mi correo instucional?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "olvide mi contrase\u00f1a de mi correo uni donde la recupero",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "Buenos dias, quisiera saber cuantos electivos me faltan para egresar",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "quiero saber cuantos creditos electivos me faltan para egreasar?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "donde veo la candtidad de creditos electivos que me faltan para egresar?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "Mi consulta es si \u00bfdebo cubrir los cr\u00e9ditos de los cursos exonerados?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "que pagos debo hacer para mi titulo profesional",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "debo realizar alguna pago por mi titulo profesional",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "que tramite debo hacer para obtener el titulo profesional",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "como tramito mi titulo profesional",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "ya presente la tesis quiero sacar mi titulo como lo tramito?",
+        "intent_name": "fuera_alcance",
         "entities": []
     }
 ]
