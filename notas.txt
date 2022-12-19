@@ -1,1 +1,15 @@
 https://sci-hub.se/https://ieeexplore.ieee.org/abstract/document/6639291
+
+
+
+
+Esto para hacer el diagrama de secuencias
+Usar la forma de condicional para emitir la alerta
+https://stackoverflow.com/questions/8114770/how-to-show-if-condition-on-a-sequence-diagram
+
+
+Usar la forma del frame:
+
+https://www.researchgate.net/publication/320293474/figure/fig3/AS:548145159720960@1507699398109/UML-sequence-diagram-showing-how-the-visitor-design-pattern-14-is-used-for-realising.png
+
+tenemos usuario FLIR ONE Camara System alerta

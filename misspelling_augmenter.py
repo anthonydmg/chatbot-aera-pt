@@ -146,7 +146,7 @@ class MisspellingsAug:
         for text in texts_choices:
             tokens = tokenize(text)
             print("tokens:", tokens)
-            idx2token  = { str(idx):token for idx, token in enumerate(tokens) if token != ' ' and len(token) > 0 and (not token in stop_words)}
+            idx2token  = { str(idx):token for idx, token in enumerate(tokens) if token.strip() != '' and len(token) > 0 and (not token in stop_words)}
             print("idx2token:", idx2token)
             num_tokens = len(idx2token)
             num_misspellings = int(np.ceil(self.tok_pct * num_tokens))

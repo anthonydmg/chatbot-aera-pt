@@ -3335,9 +3335,236 @@
         "entities": []
     },
     {
+        "text": "\u00bfCuando puedo realizar el procedimiento o tramite?",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "\u00bfCuando se presenta la solicitud?",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "\u00bfEn que fechas debo presentar la solicitud?",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "cuales son las fechas limites para presentar la solicitud",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "cuando puedo presentar la solicitud?",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "cuando puedo enviar la solicitud",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "cuando se habilita para enviar la solicitud",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "cuando se habilita para realizar el tramite",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "hasta cuando puedo enviar la solicitud",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "hasta cuando puedo hacer dicho tramite",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "cuando ya puedo presentar la solicitud",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "hasta cuando puedo presentarlo",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "cuando puedo realizarlo",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "hasta cuando puedo realizar el tramite",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "cual es la fecha limite para realizar el tramite o procedimiento",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "Otra consulta, \u00bfHasta cu\u00e1ndo tengo tiempo para presentar mi solicitud?",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "hasta que fecha puedo presentar la solicitud",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "todavia puedo presentar mi solicitud",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "hasta cuando puedo presentar la solicitud",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "hasta cuando puedo tramitarlo",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "me puedes decir cuando se habilita para subir la solicitud",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "en este momento ya puedo enviar la solicitud",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "esta semana ya puedo tramitarlo",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "la siguiente semana puedo enviar la solicitud",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "esta semana todavia puedo todavia solicitarlo",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "aun puedo enviar la solicitud o ya se paso las fechas?",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "este tramite ya lo podria hacer o a que fechas deberia esperar",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "debo esperar para iniciar este tramite o ya lo puedo solicitarlo",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "hasta que dia puedo solicitar esto",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "que que dias tengo plazos para presentar la solicitud",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "estamos en la sexta semana de clases todavia puedo solicitarlo",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "el ciclo comienza la siguiente todavia puedo realizar",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "recien me entero que esta semana ya comienza el ciclo todavia puedo enviar mi solicitud",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "hay alguna fecha limite para enviar la solicitud o puedo hacerlo hasta la ultima semana",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "ya va a terminar el ciclo esta semana todavia puedo pedirlo",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "esta semana puedo enviar la solicitud",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "hay alguna fecha limite para enviar esa solicitud",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "todavia puedo presentarle",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "otra duda puedo realizar el tramite esta semana",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "en estas fechas todavia puedo realizar este procedimiento",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "todavia puedo realizar este tramite?",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "cuando podria comenzar con los tramites?",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "cuando podria solicitarlo?",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
+        "text": "en que fechas deberia solitarlo?",
+        "intent_name": "procedimiento_tramites_fechas",
+        "entities": []
+    },
+    {
         "text": "Otra consulta, \u00bfHasta cu\u00e1ndo tengo tiempo para presentar mi solicitud de reincoporacion?",
         "intent_name": "reincorporacion__fechas",
-        "entities": []
+        "entities": [
+            {
+                "value": "reincoporacion",
+                "entity": "procedimiento",
+                "span_start": 73,
+                "span_end": 87
+            }
+        ]
     },
     {
         "text": "una consulta, es que fechas deberia solicitar mi reincorparacion",
@@ -3346,11 +3573,6 @@
     },
     {
         "text": "hasta cuando podria solicitar mi reincoporarcion",
-        "intent_name": "reincorporacion__fechas",
-        "entities": []
-    },
-    {
-        "text": "tengo una duda quiero reincorpararme el siguiente ciclo pero no se en que fechas debo comenzar el tramite",
         "intent_name": "reincorporacion__fechas",
         "entities": []
     },
@@ -3430,11 +3652,6 @@
                 "span_end": 52
             }
         ]
-    },
-    {
-        "text": "hasta cuando es posible reincoparme?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": []
     },
     {
         "text": "cuando puedo solicitar la reincorporacion para el siguiente ciclo?",
@@ -3575,11 +3792,6 @@
         ]
     },
     {
-        "text": "quisiera reincorporarme este ciclo pero las fechas ya finalizaron puedo hacerlo como rezagado ?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": []
-    },
-    {
         "text": "la fecha de reincorporacion ya paso, podria aun enviar mi solicitud de reincorporacion?",
         "intent_name": "reincorporacion__fechas",
         "entities": [
@@ -3687,11 +3899,6 @@
         ]
     },
     {
-        "text": "quisiera reincorporarme este ciclo pero la matricula es en unos dias, puedo reincorporame o ya no es posible?",
-        "intent_name": "reincorporacion__fechas",
-        "entities": []
-    },
-    {
         "text": "la siguiente semana puedo enviar la solicitud para mi reincorparacion para este ciclo?",
         "intent_name": "reincorporacion__fechas",
         "entities": []
@@ -3746,6 +3953,46 @@
                 "span_end": 50
             }
         ]
+    },
+    {
+        "text": "tengo una duda quiero reincorpararme el siguiente ciclo pero no se en que fechas debo comenzar el tramite",
+        "intent_name": "reincorporacion__fechas",
+        "entities": []
+    },
+    {
+        "text": "hasta cuando es posible reincoparme?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": []
+    },
+    {
+        "text": "quisiera reincorporarme este ciclo pero las fechas ya finalizaron puedo hacerlo como rezagado ?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": []
+    },
+    {
+        "text": "quisiera reincorporarme este ciclo pero la matricula es en unos dias, puedo reincorporame o ya no es posible?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": []
+    },
+    {
+        "text": "quisiera reincorporarme el siguiente ciclo cuando deberia comenzar con los tramites?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": []
+    },
+    {
+        "text": "reserve mi matricula el ciclo pasado y ahora quisiera reincorporarme este ciclo desde cuando podria iniciar mi solicitud?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": []
+    },
+    {
+        "text": "he dejado de estudiar por un a\u00f1o y quisiera reintegrarme el siguiente ciclo que comienza el otro mes, podria ya solicitar mi reintegracion al ciclo?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": []
+    },
+    {
+        "text": "he dejado la universidad por casi dos a\u00f1o pero quisiera reircorporame este siguiente ciclo, cuando puedo comenzar con este tramite?",
+        "intent_name": "reincorporacion__fechas",
+        "entities": []
     },
     {
         "text": "\u00bfEn que fecha se realiza el retiro total?",
@@ -4829,42 +5076,98 @@
     {
         "text": "el tramite de reincoporacion tiene alguna costo ?",
         "intent_name": "costo_tramite_procedimiento",
-        "entities": []
+        "entities": [
+            {
+                "value": "reincoporacion",
+                "entity": "procedimiento",
+                "span_start": 14,
+                "span_end": 28
+            }
+        ]
     },
     {
         "text": "cuanto seria el pago por el tramite de reincoporacion ?",
         "intent_name": "costo_tramite_procedimiento",
-        "entities": []
+        "entities": [
+            {
+                "value": "reincoporacion",
+                "entity": "procedimiento",
+                "span_start": 39,
+                "span_end": 53
+            }
+        ]
     },
     {
         "text": "cuanto cuesta el tramite de reincoporacion ?",
         "intent_name": "costo_tramite_procedimiento",
-        "entities": []
+        "entities": [
+            {
+                "value": "reincoporacion",
+                "entity": "procedimiento",
+                "span_start": 28,
+                "span_end": 42
+            }
+        ]
     },
     {
         "text": "el tramite de reincoporacion es gratuito o tiene algun costo ?",
         "intent_name": "costo_tramite_procedimiento",
-        "entities": []
+        "entities": [
+            {
+                "value": "reincoporacion",
+                "entity": "procedimiento",
+                "span_start": 14,
+                "span_end": 28
+            }
+        ]
     },
     {
         "text": "una consulta se debe pagar algo para el tramite de reincoporacion ?",
         "intent_name": "costo_tramite_procedimiento",
-        "entities": []
+        "entities": [
+            {
+                "value": "reincoporacion",
+                "entity": "procedimiento",
+                "span_start": 51,
+                "span_end": 65
+            }
+        ]
     },
     {
         "text": "cuanto es el costo por el tramite de reincoporacion?",
         "intent_name": "costo_tramite_procedimiento",
-        "entities": []
+        "entities": [
+            {
+                "value": "reincoporacion",
+                "entity": "procedimiento",
+                "span_start": 37,
+                "span_end": 51
+            }
+        ]
     },
     {
         "text": "cuanto debo pagar por la reincoporacion?",
         "intent_name": "costo_tramite_procedimiento",
-        "entities": []
+        "entities": [
+            {
+                "value": "reincoporacion",
+                "entity": "procedimiento",
+                "span_start": 25,
+                "span_end": 39
+            }
+        ]
     },
     {
         "text": "cuanto pago por la reincoporacion?",
         "intent_name": "costo_tramite_procedimiento",
-        "entities": []
+        "entities": [
+            {
+                "value": "reincoporacion",
+                "entity": "procedimiento",
+                "span_start": 19,
+                "span_end": 33
+            }
+        ]
     },
     {
         "text": "cuanto se paga por el tramite de reincorporaci\u00f3n?",
@@ -4881,22 +5184,50 @@
     {
         "text": "cuanto es el costo por la reincoporacion?",
         "intent_name": "costo_tramite_procedimiento",
-        "entities": []
+        "entities": [
+            {
+                "value": "reincoporacion",
+                "entity": "procedimiento",
+                "span_start": 26,
+                "span_end": 40
+            }
+        ]
     },
     {
         "text": "debo pagar algo por la reincoporacion?",
         "intent_name": "costo_tramite_procedimiento",
-        "entities": []
+        "entities": [
+            {
+                "value": "reincoporacion",
+                "entity": "procedimiento",
+                "span_start": 23,
+                "span_end": 37
+            }
+        ]
     },
     {
         "text": "el tramite de reincoporacion se debe pagar o es gratuito?",
         "intent_name": "costo_tramite_procedimiento",
-        "entities": []
+        "entities": [
+            {
+                "value": "reincoporacion",
+                "entity": "procedimiento",
+                "span_start": 14,
+                "span_end": 28
+            }
+        ]
     },
     {
         "text": "se debe pagar algo para la reincoporacion?",
         "intent_name": "costo_tramite_procedimiento",
-        "entities": []
+        "entities": [
+            {
+                "value": "reincoporacion",
+                "entity": "procedimiento",
+                "span_start": 27,
+                "span_end": 41
+            }
+        ]
     },
     {
         "text": "\u00bfCu\u00e1nto se pago por reincorporaci\u00f3n?",
@@ -7639,6 +7970,56 @@
     },
     {
         "text": "quiero cambiar a la seccion b en el curso de fundamentos de programacion en donde lo pido",
+        "intent_name": "cambio_seccion",
+        "entities": []
+    },
+    {
+        "text": "buenas tengo un conflicto con otro curso en la parte de teoria, por lo quiero cambiarme a la seccion c en el curso de Fisica I, lo solicito en Aera?",
+        "intent_name": "cambio_seccion",
+        "entities": []
+    },
+    {
+        "text": "quisiera solicitar un cambio de seccion para el curso de Bilogia lo que pasa es que no podre asistir en ese horario por razones de trabajo",
+        "intent_name": "cambio_seccion",
+        "entities": []
+    },
+    {
+        "text": "quisiera tramitar un cambio de seccion en el curso de Algebra lineal, es posible?",
+        "intent_name": "cambio_seccion",
+        "entities": []
+    },
+    {
+        "text": "por razones de fuerza mayor ya no podre asistir en el horario de la seccion A del curso de Fisica III, quisiera solictar un cambio de seccion?",
+        "intent_name": "cambio_seccion",
+        "entities": []
+    },
+    {
+        "text": "es posible solicitar un cambio de seccion del curso de Introducion a la Programacion?",
+        "intent_name": "cambio_seccion",
+        "entities": []
+    },
+    {
+        "text": "por motivos familiares de fuerza mayor los dias lunes no podre asistir a la universidad por lo quisiera cambiarme a otro horario en el curso de Calculo Integral",
+        "intent_name": "cambio_seccion",
+        "entities": []
+    },
+    {
+        "text": "quisiera solicar el combio a otro horario en curso de Fundamentos de Programacion?",
+        "intent_name": "cambio_seccion",
+        "entities": []
+    },
+    {
+        "text": "quiero realizar un cambio de horario en curso de Matematica Discreta",
+        "intent_name": "cambio_seccion",
+        "entities": []
+    },
+    {
+        "text": "tengo un cruce en horario de teorio con el practica de Calculo Integral Avanzado por lo me gustaria cambiar de horario a la seccion B, es posible?",
+        "intent_name": "cambio_seccion",
+        "entities": []
+    },
+    {
+        "text": "como solicto un cambio de horario del curso de Fisica III?",
         "intent_name": "cambio_seccion",
         "entities": []
     },
@@ -11181,6 +11562,18 @@
         ]
     },
     {
+        "text": "necesito una constancia de matricula para postular a una beca donde la solicita?",
+        "intent_name": "constancia_matricula__solicitud_procedimiento",
+        "entities": [
+            {
+                "value": "constancia de matricula",
+                "entity": "constancia",
+                "span_start": 13,
+                "span_end": 36
+            }
+        ]
+    },
+    {
         "text": "\u00bfComo solicitar una constancia de notas?",
         "intent_name": "constancia_de_notas__procedimiento",
         "entities": [
@@ -11544,6 +11937,35 @@
                 "span_end": 58
             }
         ]
+    },
+    {
+        "text": "en la oficina de AERA puedo ir a solicitar una constancia de notas?",
+        "intent_name": "constancia_de_notas__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de notas",
+                "entity": "constancia",
+                "span_start": 47,
+                "span_end": 66
+            }
+        ]
+    },
+    {
+        "text": "en escuales acedemicas solicito una constancia de notas?",
+        "intent_name": "constancia_de_notas__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de notas",
+                "entity": "constancia",
+                "span_start": 36,
+                "span_end": 55
+            }
+        ]
+    },
+    {
+        "text": "que debo hacer para solictar una constacia de notas?",
+        "intent_name": "constancia_de_notas__procedimiento",
+        "entities": []
     },
     {
         "text": "\u00bfC\u00f3mo solicitar una constancia de estudios?",
@@ -11916,6 +12338,18 @@
         "entities": []
     },
     {
+        "text": "deseo solicitar una constancia de estudios para adjuntarla a mi cv donde la puedo solicitar?",
+        "intent_name": "constancia_de_estudios__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de estudios",
+                "entity": "constancia",
+                "span_start": 20,
+                "span_end": 42
+            }
+        ]
+    },
+    {
         "text": "\u00bfCu\u00e1l es el horario de AERA?",
         "intent_name": "horario_atencion_aera",
         "entities": []
@@ -12092,6 +12526,11 @@
     },
     {
         "text": "aera atiende hasta las 5 pm?",
+        "intent_name": "horario_atencion_aera",
+        "entities": []
+    },
+    {
+        "text": "hasta que hora de la tarde esta abierto la oficina de estadistica?",
         "intent_name": "horario_atencion_aera",
         "entities": []
     },
@@ -12477,6 +12916,11 @@
         "entities": []
     },
     {
+        "text": "puedo retirarme de un curso que he repetido mas de una vez?",
+        "intent_name": "retiro_parcial__cursos_repetidos",
+        "entities": []
+    },
+    {
         "text": "Quisiera saber \u00bfc\u00f3mo podr\u00eda hacer valido mi constancia de ayudant\u00eda acad\u00e9mica que hice en periodo regular antes de la pandemia?.",
         "intent_name": "fuera_alcance",
         "entities": []
@@ -12726,7 +13170,14 @@
     {
         "text": "solicite mi reincoporacion este ciclo, quisiera saber si esta correcto?",
         "intent_name": "fuera_alcance",
-        "entities": []
+        "entities": [
+            {
+                "value": "reincoporacion",
+                "entity": "procedimiento",
+                "span_start": 12,
+                "span_end": 26
+            }
+        ]
     },
     {
         "text": "Soy alumno del \u00faltimo ciclo, quisiera llevar un curso con su prerequisito, cual es el tr\u00e1mite",
