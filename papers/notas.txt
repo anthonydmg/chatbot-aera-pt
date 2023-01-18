@@ -1,0 +1,8 @@
+1. Conversational AI: The Science Behind the Alexa Prize
+	Leer la parte de Dialog and Context Modeling para complementar en informe
+
+2. Development of Dialogue Management System for
+Banking Services
+
+Tenerlo de referencia
+

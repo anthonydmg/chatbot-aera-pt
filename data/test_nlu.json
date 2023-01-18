@@ -24,7 +24,7 @@
         "intent_name": "formato_solicitud",
         "entities": [
             {
-                "value": "constancia de estudios",
+                "value": "constancia de matricula",
                 "entity": "constancia",
                 "span_start": 38,
                 "span_end": 60
@@ -176,7 +176,7 @@
         "intent_name": "retiro_parcial__fechas",
         "entities": [
             {
-                "value": "retiro parcial",
+                "value": "retiro total",
                 "entity": "procedimiento",
                 "span_start": 48,
                 "span_end": 62
@@ -338,7 +338,7 @@
         "intent_name": "retiro_total__fechas",
         "entities": [
             {
-                "value": "retiro total",
+                "value": "retiro parcial",
                 "entity": "procedimiento",
                 "span_start": 60,
                 "span_end": 72
@@ -468,7 +468,7 @@
         "intent_name": "retiro_parcial__fechas",
         "entities": [
             {
-                "value": "retiro parcial",
+                "value": "retiro total",
                 "entity": "procedimiento",
                 "span_start": 68,
                 "span_end": 82
@@ -685,7 +685,7 @@
         "intent_name": "reserva_matricula__fechas",
         "entities": [
             {
-                "value": "reserva de matricula",
+                "value": "retiro parcial",
                 "entity": "procedimiento",
                 "span_start": 45,
                 "span_end": 65
@@ -970,7 +970,7 @@
         "intent_name": "retiro_total__requisitos_documentos_justificacion",
         "entities": [
             {
-                "value": "retiro total",
+                "value": "reincorporacion",
                 "entity": "procedimiento",
                 "span_start": 60,
                 "span_end": 72
@@ -1069,10 +1069,10 @@
         "intent_name": "retiro_total__motivos_procede",
         "entities": [
             {
-                "value": "retiro total",
-                "entity": "procedimiento",
-                "span_start": 42,
-                "span_end": 54
+                "value": "constancia de matricula",
+                "entity": "constancia",
+                "span_start": 39,
+                "span_end": 62
             }
         ]
     },
@@ -1248,7 +1248,7 @@
         "intent_name": "constancia_de_estudios__procedimiento",
         "entities": [
             {
-                "value": "constancia de estudios",
+                "value": "constancia de notas",
                 "entity": "constancia",
                 "span_start": 3,
                 "span_end": 25
@@ -1339,7 +1339,7 @@
         "intent_name": "retiro_parcial__procedimiento",
         "entities": [
             {
-                "value": "retiro parcial",
+                "value": "reincorporacion",
                 "entity": "procedimiento",
                 "span_start": 61,
                 "span_end": 75
@@ -1563,6 +1563,11 @@
     {
         "text": "a quien le puedo pedir un modelo para la solicitud de reincorporacion?",
         "intent_name": "formato_solicitud",
+        "entities": []
+    },
+    {
+        "text": "por motivos de salud quiero realize el retiro total, es necesario que adjunto una constancia medica para el retiro?",
+        "intent_name": "retiro_total__requisitos_documentos_justificacion",
         "entities": [
             {
                 "value": "reincorporacion",
@@ -1875,7 +1880,7 @@
         "intent_name": "retiro_total__fechas",
         "entities": [
             {
-                "value": "retiro total",
+                "value": "reserva de matricula",
                 "entity": "procedimiento",
                 "span_start": 34,
                 "span_end": 46
@@ -1988,7 +1993,7 @@
         "intent_name": "formato_solicitud",
         "entities": [
             {
-                "value": "reserva de matricula",
+                "value": "reincoporacion",
                 "entity": "procedimiento",
                 "span_start": 63,
                 "span_end": 83
