@@ -685,6 +685,26 @@
         "entities": []
     },
     {
+        "text": "si una mas porfavor",
+        "intent_name": "confirmar_requerir_mas_ayuda",
+        "entities": []
+    },
+    {
+        "text": "si porfa",
+        "intent_name": "confirmar_requerir_mas_ayuda",
+        "entities": []
+    },
+    {
+        "text": "si algunas mas",
+        "intent_name": "confirmar_requerir_mas_ayuda",
+        "entities": []
+    },
+    {
+        "text": "si tengo otras",
+        "intent_name": "confirmar_requerir_mas_ayuda",
+        "entities": []
+    },
+    {
         "text": "\u00bfCu\u00e1l es el modelo para la solicitud?",
         "intent_name": "formato_solicitud",
         "entities": []
@@ -3335,14 +3355,31 @@
         "entities": []
     },
     {
+        "text": "puedo solicitar el retiro de un curso esta semana?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": []
+    },
+    {
+        "text": "todavia puedo pedir el retiro de un curso?",
+        "intent_name": "retiro_parcial__fechas",
+        "entities": []
+    },
+    {
         "text": "Otra consulta, \u00bfHasta cu\u00e1ndo tengo tiempo para presentar mi solicitud de reincoporacion?",
         "intent_name": "reincorporacion__fechas",
         "entities": []
     },
     {
-        "text": "una consulta, es que fechas deberia solicitar mi reincorparacion",
+        "text": "una consulta, es que fechas deberia solicitar mi reincorporaci\u00f3n",
         "intent_name": "reincorporacion__fechas",
-        "entities": []
+        "entities": [
+            {
+                "value": "reincorporaci\u00f3n",
+                "entity": "procedimiento",
+                "span_start": 49,
+                "span_end": 64
+            }
+        ]
     },
     {
         "text": "hasta cuando podria solicitar mi reincoporarcion",
@@ -3646,9 +3683,16 @@
         ]
     },
     {
-        "text": "la siguente semana es la matricula puedo solicitar mi reincorpacion?",
+        "text": "la siguente semana es la matricula puedo solicitar mi reincorporaci\u00f3n?",
         "intent_name": "reincorporacion__fechas",
-        "entities": []
+        "entities": [
+            {
+                "value": "reincorporaci\u00f3n",
+                "entity": "procedimiento",
+                "span_start": 54,
+                "span_end": 69
+            }
+        ]
     },
     {
         "text": "aun puedo solicitar mi reincorporacion?",
@@ -3736,11 +3780,11 @@
         ]
     },
     {
-        "text": "puedo iniciar mis tramites para la reincorporacion a este ciclo esta semana?",
+        "text": "puedo iniciar mis tramites para la reincorporaci\u00f3n a este ciclo esta semana?",
         "intent_name": "reincorporacion__fechas",
         "entities": [
             {
-                "value": "reincorporacion",
+                "value": "reincorporaci\u00f3n",
                 "entity": "procedimiento",
                 "span_start": 35,
                 "span_end": 50
@@ -5220,16 +5264,9 @@
         ]
     },
     {
-        "text": "cuanto tengo que pagar para una constancia de matricula?",
+        "text": "cuanto tengo que pagar para una constancia de matr\u00edcula?",
         "intent_name": "costo_tramite_procedimiento",
-        "entities": [
-            {
-                "value": "constancia de matricula",
-                "entity": "constancia",
-                "span_start": 32,
-                "span_end": 55
-            }
-        ]
+        "entities": []
     },
     {
         "text": "quiero solicitar una constancia de matricula cuanto debo pagar?",
@@ -5352,16 +5389,9 @@
         ]
     },
     {
-        "text": "debo pagar algo por la constancia de matricula?",
+        "text": "debo pagar algo por la constancia de matr\u00edcula?",
         "intent_name": "costo_tramite_procedimiento",
-        "entities": [
-            {
-                "value": "constancia de matricula",
-                "entity": "constancia",
-                "span_start": 23,
-                "span_end": 46
-            }
-        ]
+        "entities": []
     },
     {
         "text": "cual es el monto que debo pagar por la constancia de matricula?",
@@ -5508,7 +5538,7 @@
         "entities": []
     },
     {
-        "text": "Buenas dias que tal, que pasa si no pago el autoseguro con los 3 dias de anticipaci\u00f3n",
+        "text": "Buenas dias que tal, que pasa si no cancelo lo del autoseguro con los 3 dias de anticipaci\u00f3n",
         "intent_name": "pago_autoseguro__fechas",
         "entities": []
     },
@@ -5538,12 +5568,12 @@
         "entities": []
     },
     {
-        "text": "Hola creo que no pague a tiempo el autoseguro que debo hacer",
+        "text": "Hola creo que no cancele a tiempo el autoseguro que debo hacer",
         "intent_name": "pago_autoseguro__fechas",
         "entities": []
     },
     {
-        "text": "Buenos dias, quiero saber si no pague a tiempo el autoseguro me voy a rezagada la matricula",
+        "text": "Buenos dias, quiero saber si no llego a cancelar a tiempo el autoseguro me voy a rezagada la matricula",
         "intent_name": "pago_autoseguro__fechas",
         "entities": []
     },
@@ -5583,7 +5613,7 @@
         "entities": []
     },
     {
-        "text": "Que pasa si no pago el autoseguro con dias de anticipacion a la matricula",
+        "text": "Que pasa si no voy a pagar el autoseguro con dias de anticipacion a la matricula",
         "intent_name": "pago_autoseguro__fechas",
         "entities": []
     },
@@ -5593,7 +5623,7 @@
         "entities": []
     },
     {
-        "text": "que pasa si no pago el autoseguro con los 3 dias de anticipaci\u00f3n?",
+        "text": "que pasa si no realizo el pago el autoseguro con los 3 dias de anticipaci\u00f3n?",
         "intent_name": "pago_autoseguro__fechas",
         "entities": []
     },
@@ -5628,7 +5658,7 @@
         "entities": []
     },
     {
-        "text": "entonces si no pago a tiempo el autoseguro me ire a rezagado",
+        "text": "entonces si no cancelo a tiempo el autoseguro me ire a rezagado",
         "intent_name": "pago_autoseguro__fechas",
         "entities": []
     },
@@ -5683,7 +5713,12 @@
         "entities": []
     },
     {
-        "text": "tengo que pagar el autoseguro antes de los dias de matricula?",
+        "text": "tengo que hacer el pago del autoseguro antes de los dias de matricula?",
+        "intent_name": "pago_autoseguro__fechas",
+        "entities": []
+    },
+    {
+        "text": "me dicen que si no realizo el pago del autoseguro doas dias antes de la matricula me voy a rezagado eso es verdad?",
         "intent_name": "pago_autoseguro__fechas",
         "entities": []
     },
@@ -6323,7 +6358,7 @@
         "entities": []
     },
     {
-        "text": "debo pagar algo para obtener el carnet universitario",
+        "text": "debo cancelar algo para obtener el carnet universitario",
         "intent_name": "carnet_universitario__solicitud",
         "entities": []
     },
@@ -6443,6 +6478,16 @@
         "entities": []
     },
     {
+        "text": "a donde debo ir a cancelar lo del carnet de universitario?",
+        "intent_name": "carnet_universitario__solicitud",
+        "entities": []
+    },
+    {
+        "text": "como se cancela lo del carner de universidad?",
+        "intent_name": "carnet_universitario__solicitud",
+        "entities": []
+    },
+    {
         "text": "\u00bfCuando es la matr\u00edcula?",
         "intent_name": "matricula__cronograma",
         "entities": []
@@ -6528,7 +6573,7 @@
         "entities": []
     },
     {
-        "text": "si dime cuales son las fechas de matricula",
+        "text": "si dime cuales seran las fechas de matricula para este ciclo",
         "intent_name": "matricula__cronograma",
         "entities": []
     },
@@ -6649,6 +6694,11 @@
     },
     {
         "text": "una consulta ya se publico el cronograma de la matricula?",
+        "intent_name": "matricula__cronograma",
+        "entities": []
+    },
+    {
+        "text": "el cronograma de la matricula esta disponible?",
         "intent_name": "matricula__cronograma",
         "entities": []
     },
@@ -11169,7 +11219,19 @@
         ]
     },
     {
-        "text": "me estan pidiendo una constancia de matricula para mi beca de pronabec, en que oficina la solicito?",
+        "text": "me estan solicitando una constancia de matricula para mi beca de pronabec, en que oficina la solicito?",
+        "intent_name": "constancia_matricula__solicitud_procedimiento",
+        "entities": [
+            {
+                "value": "constancia de matricula",
+                "entity": "constancia",
+                "span_start": 25,
+                "span_end": 48
+            }
+        ]
+    },
+    {
+        "text": "como puedo emitir una constancia de matricula?",
         "intent_name": "constancia_matricula__solicitud_procedimiento",
         "entities": [
             {
@@ -11177,6 +11239,90 @@
                 "entity": "constancia",
                 "span_start": 22,
                 "span_end": 45
+            }
+        ]
+    },
+    {
+        "text": "estoy en programa de becas de pronabec y me piden una constancia de matricula de este ciclo a quien la solicito?",
+        "intent_name": "constancia_matricula__solicitud_procedimiento",
+        "entities": [
+            {
+                "value": "constancia de matricula",
+                "entity": "constancia",
+                "span_start": 54,
+                "span_end": 77
+            }
+        ]
+    },
+    {
+        "text": "gane una beca de pronabec y me estan pidiendo una constancia de matricula como puedo emitir este documento?",
+        "intent_name": "constancia_matricula__solicitud_procedimiento",
+        "entities": [
+            {
+                "value": "constancia de matricula",
+                "entity": "constancia",
+                "span_start": 50,
+                "span_end": 73
+            }
+        ]
+    },
+    {
+        "text": "debo enviar alguna solicitud para emitir una constancia de matricula?",
+        "intent_name": "constancia_matricula__solicitud_procedimiento",
+        "entities": [
+            {
+                "value": "constancia de matricula",
+                "entity": "constancia",
+                "span_start": 45,
+                "span_end": 68
+            }
+        ]
+    },
+    {
+        "text": "a quien le debo enviar una solicitud para pedir una constancia de matricula?",
+        "intent_name": "constancia_matricula__solicitud_procedimiento",
+        "entities": [
+            {
+                "value": "constancia de matricula",
+                "entity": "constancia",
+                "span_start": 52,
+                "span_end": 75
+            }
+        ]
+    },
+    {
+        "text": "en la oficina de estadistica es donde solicito una constancia de matricula?",
+        "intent_name": "constancia_matricula__solicitud_procedimiento",
+        "entities": [
+            {
+                "value": "constancia de matricula",
+                "entity": "constancia",
+                "span_start": 51,
+                "span_end": 74
+            }
+        ]
+    },
+    {
+        "text": "quisiera pedir que me emitan una constancia de matricula, como pido esto?",
+        "intent_name": "constancia_matricula__solicitud_procedimiento",
+        "entities": [
+            {
+                "value": "constancia de matricula",
+                "entity": "constancia",
+                "span_start": 33,
+                "span_end": 56
+            }
+        ]
+    },
+    {
+        "text": "para emitir una constancia de matricula que debo hacer? enviar una solicitud a alguna lado?",
+        "intent_name": "constancia_matricula__solicitud_procedimiento",
+        "entities": [
+            {
+                "value": "constancia de matricula",
+                "entity": "constancia",
+                "span_start": 16,
+                "span_end": 39
             }
         ]
     },
@@ -11546,6 +11692,131 @@
         ]
     },
     {
+        "text": "quiero postular a una pasantia a una universidad estranjera y me piden una constancia de notas en ingles como solicito este documento?",
+        "intent_name": "constancia_de_notas__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de notas",
+                "entity": "constancia",
+                "span_start": 75,
+                "span_end": 94
+            }
+        ]
+    },
+    {
+        "text": "estoy postulando a un scholarship y necesito una constancia de notas en ingles como lo tramito?",
+        "intent_name": "constancia_de_notas__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de notas",
+                "entity": "constancia",
+                "span_start": 49,
+                "span_end": 68
+            }
+        ]
+    },
+    {
+        "text": "escuales academicas es quien se encarga de emitir un constancia de notas?",
+        "intent_name": "constancia_de_notas__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de notas",
+                "entity": "constancia",
+                "span_start": 53,
+                "span_end": 72
+            }
+        ]
+    },
+    {
+        "text": "como emito una constancia de notas en ingles?",
+        "intent_name": "constancia_de_notas__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de notas",
+                "entity": "constancia",
+                "span_start": 15,
+                "span_end": 34
+            }
+        ]
+    },
+    {
+        "text": "a que oficina le solicito emitir una constancia de notas?",
+        "intent_name": "constancia_de_notas__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de notas",
+                "entity": "constancia",
+                "span_start": 37,
+                "span_end": 56
+            }
+        ]
+    },
+    {
+        "text": "en donde puedo solicitar emitirme una constancia notas en espanol e ingles?",
+        "intent_name": "constancia_de_notas__procedimiento",
+        "entities": []
+    },
+    {
+        "text": "a aera le puedo solicitar que me emitan una constancia de notas que es en ingles?",
+        "intent_name": "constancia_de_notas__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de notas",
+                "entity": "constancia",
+                "span_start": 44,
+                "span_end": 63
+            }
+        ]
+    },
+    {
+        "text": "necesito tramitar una constancia de notas en ingles me puedes decir como hacerlo?",
+        "intent_name": "constancia_de_notas__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de notas",
+                "entity": "constancia",
+                "span_start": 22,
+                "span_end": 41
+            }
+        ]
+    },
+    {
+        "text": "quisiera informacion de como tramitar una constancia de notas?",
+        "intent_name": "constancia_de_notas__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de notas",
+                "entity": "constancia",
+                "span_start": 42,
+                "span_end": 61
+            }
+        ]
+    },
+    {
+        "text": "debo enviar una solicitud para tramitar una constancia de notas?",
+        "intent_name": "constancia_de_notas__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de notas",
+                "entity": "constancia",
+                "span_start": 44,
+                "span_end": 63
+            }
+        ]
+    },
+    {
+        "text": "que debo hacer para solicitar una constancia de notas debo enviar alguna solicitud?",
+        "intent_name": "constancia_de_notas__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de notas",
+                "entity": "constancia",
+                "span_start": 34,
+                "span_end": 53
+            }
+        ]
+    },
+    {
         "text": "\u00bfC\u00f3mo solicitar una constancia de estudios?",
         "intent_name": "constancia_de_estudios__procedimiento",
         "entities": [
@@ -11743,14 +12014,14 @@
         ]
     },
     {
-        "text": "a que oficina puedo solicitar una constancia de estudios",
+        "text": "a que oficina le puedo solicitar una constancia de estudios",
         "intent_name": "constancia_de_estudios__procedimiento",
         "entities": [
             {
                 "value": "constancia de estudios",
                 "entity": "constancia",
-                "span_start": 34,
-                "span_end": 56
+                "span_start": 37,
+                "span_end": 59
             }
         ]
     },
@@ -11899,7 +12170,7 @@
         ]
     },
     {
-        "text": "la constancia de estudios la solicito en escuelas acdemicas?",
+        "text": "la constancia de estudios la solicito en escuelas academicas?",
         "intent_name": "constancia_de_estudios__procedimiento",
         "entities": [
             {
@@ -11911,9 +12182,105 @@
         ]
     },
     {
-        "text": "necesito una de estudios para postular a una practicas pre donde la solcito?",
+        "text": "estoy necesitando una constancia de estudios para postular a una practicas pre donde la solicito?",
+        "intent_name": "constancia_de_estudios__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de estudios",
+                "entity": "constancia",
+                "span_start": 22,
+                "span_end": 44
+            }
+        ]
+    },
+    {
+        "text": "me estan pidiendo una constancia de estudio para una postulacion de practicas pre proficiones, a que ofincina la solicito?",
         "intent_name": "constancia_de_estudios__procedimiento",
         "entities": []
+    },
+    {
+        "text": "como se puede tramitar una constancia de estudios?",
+        "intent_name": "constancia_de_estudios__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de estudios",
+                "entity": "constancia",
+                "span_start": 27,
+                "span_end": 49
+            }
+        ]
+    },
+    {
+        "text": "me estan pidiendo una constancia de estudios para un intercambio estudiantil por favar como realizo este tramite?",
+        "intent_name": "constancia_de_estudios__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de estudios",
+                "entity": "constancia",
+                "span_start": 22,
+                "span_end": 44
+            }
+        ]
+    },
+    {
+        "text": "quiero postular a una pasantia de investigacion y me piden una constancia de estudios porfavor como solicito este documento?",
+        "intent_name": "constancia_de_estudios__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de estudios",
+                "entity": "constancia",
+                "span_start": 63,
+                "span_end": 85
+            }
+        ]
+    },
+    {
+        "text": "quisiera emitir una constancia de estudios como puedo hacer este tramite?",
+        "intent_name": "constancia_de_estudios__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de estudios",
+                "entity": "constancia",
+                "span_start": 20,
+                "span_end": 42
+            }
+        ]
+    },
+    {
+        "text": "quisiera solicitar que me den una constancia de estudios?",
+        "intent_name": "constancia_de_estudios__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de estudios",
+                "entity": "constancia",
+                "span_start": 34,
+                "span_end": 56
+            }
+        ]
+    },
+    {
+        "text": "como pido una constancia de notas?",
+        "intent_name": "constancia_de_estudios__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de notas",
+                "entity": "constancia",
+                "span_start": 14,
+                "span_end": 33
+            }
+        ]
+    },
+    {
+        "text": "en escuelas academicas puedo solictar una constancia de estudios?",
+        "intent_name": "constancia_de_estudios__procedimiento",
+        "entities": [
+            {
+                "value": "constancia de estudios",
+                "entity": "constancia",
+                "span_start": 42,
+                "span_end": 64
+            }
+        ]
     },
     {
         "text": "\u00bfCu\u00e1l es el horario de AERA?",
@@ -12096,6 +12463,46 @@
         "entities": []
     },
     {
+        "text": "aera atiende en la tarde, ayer fui en la tarde y estaba cerrado?",
+        "intent_name": "horario_atencion_aera",
+        "entities": []
+    },
+    {
+        "text": "la oficina de estadisitica atiende hasta las 5?",
+        "intent_name": "horario_atencion_aera",
+        "entities": []
+    },
+    {
+        "text": "donde encuentro en horario de atencias de la oficina de estadistica?",
+        "intent_name": "horario_atencion_aera",
+        "entities": []
+    },
+    {
+        "text": "hasta que hora atienden?",
+        "intent_name": "horario_atencion_aera",
+        "entities": []
+    },
+    {
+        "text": "tambien atienden los sabados o solo de lunes a viernes?",
+        "intent_name": "horario_atencion_aera",
+        "entities": []
+    },
+    {
+        "text": "atienden los sabados en la ma\u00f1ana?",
+        "intent_name": "horario_atencion_aera",
+        "entities": []
+    },
+    {
+        "text": "solo atienden hasta las 4 de la tarde o hasta las 5?",
+        "intent_name": "horario_atencion_aera",
+        "entities": []
+    },
+    {
+        "text": "cual es esl horario de atencion?",
+        "intent_name": "horario_atencion_aera",
+        "entities": []
+    },
+    {
         "text": "\u00bfC\u00f3mo solicito mi correo UNI?",
         "intent_name": "solicitud_correo_institucional_procedimiento",
         "entities": []
@@ -12246,7 +12653,7 @@
         "entities": []
     },
     {
-        "text": "en donde solicito mi correo institucional?",
+        "text": "en que lugar solicito mi correo institucional?",
         "intent_name": "solicitud_correo_institucional_procedimiento",
         "entities": []
     },
@@ -12272,6 +12679,26 @@
     },
     {
         "text": "todavia podria solicitar mi correo uni no pude registrarme anteriormente?",
+        "intent_name": "solicitud_correo_institucional_procedimiento",
+        "entities": []
+    },
+    {
+        "text": "a quien le pido informacion para obtener mi correo uni?",
+        "intent_name": "solicitud_correo_institucional_procedimiento",
+        "entities": []
+    },
+    {
+        "text": "a que oficina puedo ir a solicitar que me den mi correo uni?",
+        "intent_name": "solicitud_correo_institucional_procedimiento",
+        "entities": []
+    },
+    {
+        "text": "me comentaron que ya estan dando el correo uni en donde lo solicito",
+        "intent_name": "solicitud_correo_institucional_procedimiento",
+        "entities": []
+    },
+    {
+        "text": "me dijeron que ayer estuvieron dando el correo uni pero no me ha llegado nada, donde puedo ir a solicitarlo?",
         "intent_name": "solicitud_correo_institucional_procedimiento",
         "entities": []
     },
@@ -12356,7 +12783,7 @@
         "entities": []
     },
     {
-        "text": "el retiro parcial se aplica cursos desaprobados?",
+        "text": "el retiro parcial se aplica a cursos desaprobados?",
         "intent_name": "retiro_parcial__cursos_repetidos",
         "entities": [
             {
@@ -12412,12 +12839,12 @@
         "entities": []
     },
     {
-        "text": "estoy intentando retirarme del curso de algebra lineal que estoy llavando por seguna vez pero el sistema no me deja. Como puedo solicar retirarme de este curso?",
+        "text": "estoy intentando retirarme del curso de algebra lineal que estoy llavando por segunda vez pero el sistema no me deja. Como puedo solicar retirarme de este curso?",
         "intent_name": "retiro_parcial__cursos_repetidos",
         "entities": []
     },
     {
-        "text": "en el sistema no me deja retirarme del curso de calculo integral es la seguna vez que lo llevo . Es por eso?",
+        "text": "en el sistema no me deja retirarme del curso de calculo integral es la segunda vez que lo llevo . Es por eso?",
         "intent_name": "retiro_parcial__cursos_repetidos",
         "entities": []
     },
@@ -12473,6 +12900,33 @@
     },
     {
         "text": "estoy llevando el curso de fisica ii por seguna pero quisiera retirame es posible?",
+        "intent_name": "retiro_parcial__cursos_repetidos",
+        "entities": []
+    },
+    {
+        "text": "quisiera retirarme de un curso que he desaprobado el ciclo pasado y lo estoy llevando de nuevo, es posible?",
+        "intent_name": "retiro_parcial__cursos_repetidos",
+        "entities": []
+    },
+    {
+        "text": "me comentaron que no es posible retirarse de un curso que ya estoy por segunda vez es verdad eso?",
+        "intent_name": "retiro_parcial__cursos_repetidos",
+        "entities": []
+    },
+    {
+        "text": "el retiro parcial aplica a un curso que he desaprobado ?",
+        "intent_name": "retiro_parcial__cursos_repetidos",
+        "entities": [
+            {
+                "value": "retiro parcial",
+                "entity": "procedimiento",
+                "span_start": 3,
+                "span_end": 17
+            }
+        ]
+    },
+    {
+        "text": "puedo pedir el retiro de un curso que estoy llevando mas de una vez?",
         "intent_name": "retiro_parcial__cursos_repetidos",
         "entities": []
     },
@@ -12875,6 +13329,71 @@
     },
     {
         "text": "ya presente la tesis quiero sacar mi titulo como lo tramito?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "\u00bfCu\u00e1l es el periodo m\u00e1ximo que la reserva de matr\u00edcula no debe exceder?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "\u00bfQuienes pueden solicitar la evaluaci\u00f3n de regularizaci\u00f3n?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "\u00bfCuando una matr\u00edcula es regular?'",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "\u00bfCuanto tiempo un estudiante es separado de la universidad si desaprueba la misma asignatura tres veces?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "\u00bfCuantas veces un estudiante debe de haber desaprobado una misma asignatura para proceder al retiro definitivo del estudiante?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "\u00bfUn estudante es retirado de la universidad despues de haber desaprobado cuantas veces un curso?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "\u00bfUn estudante es retirado de la universidad despues si ha desaprobado cuantas veces un curso?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "\u00bfCuanto porciento al menos deben coincidir el contenido de dos asignaturas para convalidarse?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "\u00bfCuanto porciento al menos deben coincidir el contenido y las horas de dos asignaturas para convalidarse?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "\u00bfUna asignatura electiva se cerrar\u00e1 si el n\u00famero de estudiantes en menor a cuantos?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "\u00bfCuanto es la cantidad m\u00ednima de estudiantes para que una asiganatura electiva no se cierre?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "\u00bfQuienes podr\u00e1n matricularse en las asignaturas electivas?",
+        "intent_name": "fuera_alcance",
+        "entities": []
+    },
+    {
+        "text": "\u00bfQue estudiantes pueden matricularse en las asignaturas electivas?",
         "intent_name": "fuera_alcance",
         "entities": []
     }
